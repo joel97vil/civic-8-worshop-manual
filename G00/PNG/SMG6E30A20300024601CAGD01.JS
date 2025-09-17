@@ -1,0 +1,1 @@
+function ISMG6E30A20300024601CAGD01(){var i=0;this.Title=" ECM-Klemmen an Stecker A (&#168;) (44P)";this.Name="SMG6E30A20300024601CAGD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(356,289,12,0,"'Arial','sans-serif'",0,"<b></b>Anschluss-Seite der Steckanschlüsse (weiblich)");}

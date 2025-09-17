@@ -1,0 +1,1 @@
+function ISMG6E30A20326428302FASD01(){var i=0;this.Title="Localización de averías del circuito de la bomba de combustible";this.Name="SMG6E30A20326428302FASD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(200,337,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

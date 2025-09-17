@@ -1,0 +1,1 @@
+function ISMG6E50A46500056901LADD07(){var i=0;this.Title=" Anker inspecteren en testen";this.Name="SMG6E50A46500056901LADD07";this.Width=475;this.Height=320;this.CallOut=new Array;}

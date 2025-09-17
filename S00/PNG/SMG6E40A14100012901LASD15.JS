@@ -1,0 +1,1 @@
+function ISMG6E40A14100012901LASD15(){var i=0;this.Title=" Revisión de las escobillas del alternador";this.Name="SMG6E40A14100012901LASD15";this.Width=475;this.Height=397;this.CallOut=new Array;}

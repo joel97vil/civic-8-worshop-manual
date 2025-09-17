@@ -1,0 +1,1 @@
+function ISMG6E00D52100000000CAGD01(){var i=0;this.Title=" VSA-Steuergerät, Eingänge und Ausgänge für 46P-Stecker";this.Name="SMG6E00D52100000000CAGD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(373,273,12,0,"'Arial','sans-serif'",0,"<b></b>Kabelseite der Steckanschlüsse (weiblich)");}

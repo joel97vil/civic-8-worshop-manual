@@ -1,0 +1,1 @@
+function ISMG6E50A20300000000CAFD01(){var i=0;this.Title=" Entrées et sorties de l'ECM au connecteur N&deg;1 (96P)";this.Name="SMG6E50A20300000000CAFD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(333,256,12,0,"'Arial','sans-serif'",0,"<b></b>Côté bornes femelles");}

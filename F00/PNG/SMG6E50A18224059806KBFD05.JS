@@ -1,0 +1,1 @@
+function ISMG6E50A18224059806KBFD05(){var i=0;this.Title="Remplacement de monture de boîte de vitesse";this.Name="SMG6E50A18224059806KBFD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(130,12,13,0,"'Arial','sans-serif'",0,"<b>12 x 1,25 mm<br>64 N&middot;m<br>(6,5 kgf&middot;m)</b>");}

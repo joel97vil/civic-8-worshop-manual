@@ -1,0 +1,1 @@
+function ISMG6E3AF00000057111KDFD17(){var i=0;this.Title=" Pose";this.Name="SMG6E3AF00000057111KDFD17";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(343,11,13,0,"'Arial','sans-serif'",0,"<b>A<br>Moteur R18A2<br>12 x 1,25 mm<br>64 N&middot;m (6,5 kgf&middot;m)<br>Moteur L13A7<br>12 x 1,25 mm<br>64 N&middot;m (6,5 kgf&middot;m)</b>");}

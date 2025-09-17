@@ -1,0 +1,1 @@
+function ISMG6E00J54200000000BBDD10(){var i=0;this.Title=" Werken met bedrading en kabelbomen";this.Name="SMG6E00J54200000000BBDD10";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(175,66,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(427,65,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

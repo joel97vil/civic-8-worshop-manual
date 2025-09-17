@@ -1,0 +1,1 @@
+function ISMG6E50F18100025141MBDD01(){var i=0;this.Title="Onthouden van de EPS koppelsensor neutrale stand/storing zoeken in DTC's: 31-01";this.Name="SMG6E50F18100025141MBDD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

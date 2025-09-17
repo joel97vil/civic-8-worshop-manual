@@ -1,0 +1,1 @@
+function ISMG6E00J10300000000CASD05(){var i=0;this.Title=" Pantalla auxiliar del sistema de sonido-HVAC";this.Name="SMG6E00J10300000000CASD05";this.Width=950;this.Height=319;this.CallOut=new Array;}

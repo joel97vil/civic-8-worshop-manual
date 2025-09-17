@@ -1,0 +1,1 @@
+function ISMG6E30A20326900000CAFD05(){var i=0;this.Title=" Système i-DSI";this.Name="SMG6E30A20326900000CAFD05";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(39,130,13,0,"'Arial','sans-serif'",0,"<b>BOUGIE <br>D'ALLUMAGE<br>ARRIERE</b>");this.CallOut[i++]=FS4(332,293,13,0,"'Arial','sans-serif'",0,"<b>BOUGIE D'ALLUMAGE<br>AVANT</b>");}

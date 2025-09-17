@@ -1,0 +1,1 @@
+function ISMG6E30R11100000000YCSD08(){var i=0;this.Title=" Marco de la puerta del acompañante:";this.Name="SMG6E30R11100000000YCSD08";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(283,496,13,0,"'Arial','sans-serif'",0,"<b>Placa de verificación</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E40A18360200000KCGD04(){var i=0;this.Title=" Wenn die Kurbelwelle nicht eingebaut ist";this.Name="SMG6E40A18360200000KCGD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(355,192,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

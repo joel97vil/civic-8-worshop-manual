@@ -1,0 +1,1 @@
+function ISMG6E00J54460647123KBSD02(){var i=0;this.Title="Sustitución del interruptor maestro del elevalunas eléctrico";this.Name="SMG6E00J54460647123KBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(323,31,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(393,250,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

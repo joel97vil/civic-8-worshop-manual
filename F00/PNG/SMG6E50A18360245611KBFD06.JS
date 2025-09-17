@@ -1,0 +1,1 @@
+function ISMG6E50A18360245611KBFD06(){var i=0;this.Title="Remplacement du segment de piston";this.Name="SMG6E50A18360245611KBFD06";this.Width=475;this.Height=353;this.CallOut=new Array;}

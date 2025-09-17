@@ -1,0 +1,1 @@
+function ISMG6E40A14500017045FEGD01(){var i=0;this.Title="Kupplungspedal-Positionsschalter prüfen";this.Name="SMG6E40A14500017045FEGD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(310,141,12,0,"'Arial','sans-serif'",0,"<b></b>Anschlussseite der <br>Steckeranschlüsse (männlich)");}

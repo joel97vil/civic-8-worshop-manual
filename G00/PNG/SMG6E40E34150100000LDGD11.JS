@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000LDGD11(){var i=0;this.Title="Schaltgetriebe-Baugruppe Zusammenbau";this.Name="SMG6E40E34150100000LDGD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(363,287,13,0,"'Arial','sans-serif'",0,"<b>Flüssigdichtung</b>");}

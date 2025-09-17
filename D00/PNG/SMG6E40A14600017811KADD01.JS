@@ -1,0 +1,1 @@
+function ISMG6E40A14600017811KADD01(){var i=0;this.Title="Kleppendeksel uitbouwen";this.Name="SMG6E40A14600017811KADD01";this.Width=475;this.Height=449;this.CallOut=new Array;}

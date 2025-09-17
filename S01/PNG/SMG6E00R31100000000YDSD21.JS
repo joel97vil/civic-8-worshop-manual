@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDSD21(){var i=0;this.Title="Montaje del paso de rueda delantero/Carcasa del amortiguador";this.Name="SMG6E00R31100000000YDSD21";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(109,14,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

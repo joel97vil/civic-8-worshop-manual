@@ -1,0 +1,1 @@
+function ISMG6E50A32200043701MADD01(){var i=0;this.Title="Oliepeilcontrole";this.Name="SMG6E50A32200043701MADD01";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(74,58,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(71,128,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

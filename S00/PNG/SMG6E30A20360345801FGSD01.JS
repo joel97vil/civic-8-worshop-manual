@@ -1,0 +1,1 @@
+function ISMG6E30A20360345801FGSD01(){var i=0;this.Title="Inspección y comprobación de la válvula PCV";this.Name="SMG6E30A20360345801FGSD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(163,323,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(267,17,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

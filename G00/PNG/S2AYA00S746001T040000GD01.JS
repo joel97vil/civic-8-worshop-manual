@@ -1,0 +1,1 @@
+function IS2AYA00S746001T040000GD01(){var i=0;this.Title=" Erforderliche Spezialwerkzeuge";this.Name="S2AYA00S746001T040000GD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

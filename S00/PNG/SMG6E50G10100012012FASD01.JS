@@ -1,0 +1,1 @@
+function ISMG6E50G10100012012FASD01(){var i=0;this.Title="Localización de averías del circuito del embrague del compresor del A/C";this.Name="SMG6E50G10100012012FASD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(24,30,13,0,"'Arial','sans-serif'",0,"<b>ENCHUFE 4P DEL RELÉ DEL EMBRAGUE DEL COMPRESOR DEL A/C</b>");}

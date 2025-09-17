@@ -1,0 +1,1 @@
+function ISMG6E30A18224024895KBGD05(){var i=0;this.Title="Seitliche Motoraufhängungshalterung Austausch";this.Name="SMG6E30A18224024895KBGD05";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(199,17,13,0,"'Arial','sans-serif'",0,"<b>12 x 1,25 mm<br>74 N&middot;m <br>(7,5 kgf&middot;m)</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A14600017811KASD02(){var i=0;this.Title="Desmontaje de la tapa de la culata";this.Name="SMG6E30A14600017811KASD02";this.Width=475;this.Height=449;this.CallOut=new Array;}

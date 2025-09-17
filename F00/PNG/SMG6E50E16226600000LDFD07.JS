@@ -1,0 +1,1 @@
+function ISMG6E50E16226600000LDFD07(){var i=0;this.Title=" Côté joint homocinétique intérieur";this.Name="SMG6E50E16226600000LDFD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(316,20,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

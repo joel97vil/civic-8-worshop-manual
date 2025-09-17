@@ -1,0 +1,1 @@
+function ISMG6E30A14400049001KBFD05(){var i=0;this.Title="Remplacement radiateur et ventilateur";this.Name="SMG6E30A14400049001KBFD05";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(388,23,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(101,357,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50E16236500000KCGD03(){var i=0;this.Title="Zwischenwelle einbauen";this.Name="SMG6E50E16236500000KCGD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(312,101,13,0,"'Arial','sans-serif'",0,"<b>8 x 1,25 mm<br>22 N&middot;m <br>(2,2 kgf&middot;m)</b>");}

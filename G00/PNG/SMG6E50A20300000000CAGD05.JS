@@ -1,0 +1,1 @@
+function ISMG6E50A20300000000CAGD05(){var i=0;this.Title=" ECM-Eingänge und -Ausgänge am Stecker Nr. 2 (58P)";this.Name="SMG6E50A20300000000CAGD05";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(354,274,12,0,"'Arial','sans-serif'",0,"<b></b>Anschluss-Seite der Steckanschlüsse (weiblich)");}

@@ -1,0 +1,1 @@
+function ISMG6E13K791000R113XFAGD03(){var i=0;this.Title="DTC-Fehlersuche: 11-3x";this.Name="SMG6E13K791000R113XFAGD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>4P-STECKER DES<br>KOMBISCHALTER-KABELBAUMS</b>");this.CallOut[i++]=FS4(107,178,13,0,"'Arial','sans-serif'",0,"<b>070AZ-SNA0200</b>");}

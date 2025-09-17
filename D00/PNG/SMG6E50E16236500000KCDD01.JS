@@ -1,0 +1,1 @@
+function ISMG6E50E16236500000KCDD01(){var i=0;this.Title="Tussenas inbouwen";this.Name="SMG6E50E16236500000KCDD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(208,338,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

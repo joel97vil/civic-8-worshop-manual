@@ -1,0 +1,1 @@
+function ISMG6E30A26100034101KDSD01(){var i=0;this.Title="Desmontaje/Montaje de la bobina de encendido";this.Name="SMG6E30A26100034101KDSD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(13,17,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>9,8 N&middot;m <br>(1,0 kgf&middot;m)</b>");}

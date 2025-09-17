@@ -1,0 +1,1 @@
+function ISMG6E40A14600017811KCFD07(){var i=0;this.Title="Installation du couvercle de culasse";this.Name="SMG6E40A14600017811KCFD07";this.Width=475;this.Height=336;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E40A14100022205MAGD02(){var i=0;this.Title="Automatischen Riemenspanner überprüfen";this.Name="SMG6E40A14100022205MAGD02";this.Width=475;this.Height=336;this.CallOut=new Array;}

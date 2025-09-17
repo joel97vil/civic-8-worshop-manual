@@ -1,0 +1,1 @@
+function ISMG6E00J54200034401FEFD01(){var i=0;this.Title="Essai du contacteur d'allumage";this.Name="SMG6E00J54200034401FEFD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(334,310,13,0,"'Arial','sans-serif'",0,"<b></b>Côté borne<br>des bornes mâles");}

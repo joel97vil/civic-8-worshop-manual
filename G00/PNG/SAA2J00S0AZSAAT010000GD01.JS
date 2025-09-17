@@ -1,0 +1,1 @@
+function ISAA2J00S0AZSAAT010000GD01(){var i=0;this.Title=" Erforderliche Spezialwerkzeuge";this.Name="SAA2J00S0AZSAAT010000GD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

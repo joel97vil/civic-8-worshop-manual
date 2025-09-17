@@ -1,0 +1,1 @@
+function IS3YYE00SMGK001T010000FD01(){var i=0;this.Title=" Outil spécial nécessaire";this.Name="S3YYE00SMGK001T010000FD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

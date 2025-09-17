@@ -1,0 +1,1 @@
+function ISMG6E00J10300000000FADD01(){var i=0;this.Title=" Slechte AM/FM radio-ontvangst of storing";this.Name="SMG6E00J10300000000FADD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(267,17,12,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(221,301,12,0,"'Arial','sans-serif'",0,"<b>B</b>");}

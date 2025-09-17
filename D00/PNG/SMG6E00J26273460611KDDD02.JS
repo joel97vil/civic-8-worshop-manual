@@ -1,0 +1,1 @@
+function ISMG6E00J26273460611KDDD02(){var i=0;this.Title="Verwijderen/monteren binnenbekleding - achterzijde ";this.Name="SMG6E00J26273460611KDDD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(403,122,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

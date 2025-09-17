@@ -1,0 +1,1 @@
+function ISMG6E30A14100022201MCGD03(){var i=0;this.Title=" Mit Klimaanlage";this.Name="SMG6E30A14100022201MCGD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(210,325,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

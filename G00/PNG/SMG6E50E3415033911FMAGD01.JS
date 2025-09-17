@@ -1,0 +1,1 @@
+function ISMG6E50E3415033911FMAGD01(){var i=0;this.Title=" 1./2., 3./4., 5./6. Gang:";this.Name="SMG6E50E3415033911FMAGD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(201,332,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(375,7,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

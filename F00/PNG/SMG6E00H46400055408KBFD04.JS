@@ -1,0 +1,1 @@
+function ISMG6E00H46400055408KBFD04(){var i=0;this.Title=" Pose";this.Name="SMG6E00H46400055408KBFD04";this.Width=950;this.Height=543;this.CallOut=new Array;this.CallOut[i++]=FS4(727,336,12,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(39,511,12,0,"'Arial','sans-serif'",0,"<b></b>Côté droit illustré; côté gauche similaire.");}

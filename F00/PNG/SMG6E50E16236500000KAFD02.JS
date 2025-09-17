@@ -1,0 +1,1 @@
+function ISMG6E50E16236500000KAFD02(){var i=0;this.Title="Dépose de l'arbre intermédiaire";this.Name="SMG6E50E16236500000KAFD02";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(144,291,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

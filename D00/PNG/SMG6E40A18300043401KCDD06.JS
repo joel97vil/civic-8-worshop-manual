@@ -1,0 +1,1 @@
+function ISMG6E40A18300043401KCDD06(){var i=0;this.Title="Motoroliepan inbouwen";this.Name="SMG6E40A18300043401KCDD06";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(313,335,13,0,"'Arial','sans-serif'",0,"<b>12 x 1,25 mm<br>64 N&middot;m<br>(6,5 kgf&middot;m)<br></b>Vervangen.");}

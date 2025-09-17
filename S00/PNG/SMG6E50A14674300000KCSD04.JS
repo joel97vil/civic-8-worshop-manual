@@ -1,0 +1,1 @@
+function ISMG6E50A14674300000KCSD04(){var i=0;this.Title="Montaje de la cadena del árbol de levas";this.Name="SMG6E50A14674300000KCSD04";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(234,353,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(250,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

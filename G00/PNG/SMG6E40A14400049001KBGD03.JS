@@ -1,0 +1,1 @@
+function ISMG6E40A14400049001KBGD03(){var i=0;this.Title="Kühler und Kühlerlüfter austauschen";this.Name="SMG6E40A14400049001KBGD03";this.Width=475;this.Height=465;this.CallOut=new Array;}

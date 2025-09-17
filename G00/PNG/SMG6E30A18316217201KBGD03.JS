@@ -1,0 +1,1 @@
+function ISMG6E30A18316217201KBGD03(){var i=0;this.Title=" Pleuelzapfen, Position der Codes";this.Name="SMG6E30A18316217201KBGD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

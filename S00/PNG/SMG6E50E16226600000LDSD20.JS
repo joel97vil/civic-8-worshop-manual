@@ -1,0 +1,1 @@
+function ISMG6E50E16226600000LDSD20(){var i=0;this.Title=" Lado de la junta exterior";this.Name="SMG6E50E16226600000LDSD20";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(40,17,13,0,"'Arial','sans-serif'",0,"<b>Palier derecho: 514 mm.</b>");this.CallOut[i++]=FS4(40,198,13,0,"'Arial','sans-serif'",0,"<b>Palier izquierdo: 478 mm.</b>");}

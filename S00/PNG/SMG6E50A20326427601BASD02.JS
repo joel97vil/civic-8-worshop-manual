@@ -1,0 +1,1 @@
+function ISMG6E50A20326427601BASD02(){var i=0;this.Title="Purga del agua del filtro de combustible";this.Name="SMG6E50A20326427601BASD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(168,227,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(435,229,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

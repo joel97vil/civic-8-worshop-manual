@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDSD69(){var i=0;this.Title="Montaje del panel trasero";this.Name="SMG6E00R31100000000YDSD69";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(203,81,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(290,62,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

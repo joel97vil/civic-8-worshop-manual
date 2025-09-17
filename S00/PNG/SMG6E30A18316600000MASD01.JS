@@ -1,0 +1,1 @@
+function ISMG6E30A18316600000MASD01(){var i=0;this.Title=" Falta de redondez y conicidad ";this.Name="SMG6E30A18316600000MASD01";this.Width=475;this.Height=593;this.CallOut=new Array;}

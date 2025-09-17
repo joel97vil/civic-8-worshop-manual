@@ -1,0 +1,1 @@
+function ISMG6E50E34151100000DASD02(){var i=0;this.Title="Índice de situación de componentes del sistema de bloqueo de la marcha atrás de la M/T";this.Name="SMG6E50E34151100000DASD02";this.Width=950;this.Height=543;this.CallOut=new Array;this.CallOut[i++]=FS4(15,507,12,0,"'Arial','sans-serif'",0,"<b>MÓDULO DE CONTROL DEL MOTOR (ECM)</b>");}

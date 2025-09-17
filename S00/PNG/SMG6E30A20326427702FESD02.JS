@@ -1,0 +1,1 @@
+function ISMG6E30A20326427702FESD02(){var i=0;this.Title="Comprobación del transmisor del aforador de combustible";this.Name="SMG6E30A20326427702FESD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(395,66,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(374,178,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

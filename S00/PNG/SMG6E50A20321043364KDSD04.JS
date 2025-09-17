@@ -1,0 +1,1 @@
+function ISMG6E50A20321043364KDSD04(){var i=0;this.Title="Extracción/Instalación del sensor de aceite del motor";this.Name="SMG6E50A20321043364KDSD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(361,26,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

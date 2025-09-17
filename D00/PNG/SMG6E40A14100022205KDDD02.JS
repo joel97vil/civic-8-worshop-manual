@@ -1,0 +1,1 @@
+function ISMG6E40A14100022205KDDD02(){var i=0;this.Title="Uitbouwen/inbouwen zelfspanner distributieriem";this.Name="SMG6E40A14100022205KDDD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(241,319,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>14 N&middot;m (1,4 kgf&middot;m)</b>");}

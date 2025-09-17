@@ -1,0 +1,1 @@
+function ISMG6E40A14680263001KBSD02(){var i=0;this.Title="Sustitución de la guía de válvulas de la culata";this.Name="SMG6E40A14680263001KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;}

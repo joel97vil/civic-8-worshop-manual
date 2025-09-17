@@ -1,0 +1,1 @@
+function IS80WA00SPAZ001T010000SD01(){var i=0;this.Title=" Herramientas especiales necesarias";this.Name="S80WA00SPAZ001T010000SD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

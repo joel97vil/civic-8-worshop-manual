@@ -1,0 +1,1 @@
+function ISMG6E900000000K0021BAGD02(){var i=0;this.Title="VIN-, Motor- und Getriebenummerpositionen";this.Name="SMG6E900000000K0021BAGD02";this.Width=475;this.Height=641;this.CallOut=new Array;this.CallOut[i++]=FS4(189,588,13,0,"'Arial','sans-serif'",0,"<b>Getriebenummer</b>");this.CallOut[i++]=FS4(8,588,13,0,"'Arial','sans-serif'",0,"<b>Motornummer</b>");}

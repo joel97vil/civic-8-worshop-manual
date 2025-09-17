@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CAFD07(){var i=0;this.Title=" Ecran de navigation";this.Name="SMG6E00J36200000000CAFD07";this.Width=950;this.Height=319;this.CallOut=new Array;}

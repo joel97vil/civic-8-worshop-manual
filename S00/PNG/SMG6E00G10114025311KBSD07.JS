@@ -1,0 +1,1 @@
+function ISMG6E00G10114025311KBSD07(){var i=0;this.Title="Sustitución del núcleo del evaporador del A/C";this.Name="SMG6E00G10114025311KBSD07";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(47,337,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

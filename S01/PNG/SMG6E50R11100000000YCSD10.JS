@@ -1,0 +1,1 @@
+function ISMG6E50R11100000000YCSD10(){var i=0;this.Title=" Modelo con motor N22A2";this.Name="SMG6E50R11100000000YCSD10";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(237,515,13,0,"'Arial','sans-serif'",0,"<b>Número de la caja de cambios<br> (Manual)</b>");this.CallOut[i++]=FS4(55,495,13,0,"'Arial','sans-serif'",0,"<b>Número de motor</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00H46200053402KBFD07(){var i=0;this.Title=" Ceinture de sécurité centrale";this.Name="SMG6E00H46200053402KBFD07";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(68,82,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

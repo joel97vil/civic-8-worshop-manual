@@ -1,0 +1,1 @@
+function ISMG6E30K72100091684FASD01(){var i=0;this.Title="Localización de averías de DTC: P1684 (40)";this.Name="SMG6E30K72100091684FASD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

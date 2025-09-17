@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000AAFD02(){var i=0;this.Title=" Manipulation et Rangement";this.Name="SMG6E00H46400000000AAFD02";this.Width=475;this.Height=288;this.CallOut=new Array;}

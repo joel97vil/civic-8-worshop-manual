@@ -1,0 +1,1 @@
+function ISMG6E00D10600000000CAGD01(){var i=0;this.Title=" ABS-Steuergerät, Eingänge und Ausgänge für 26P-Stecker";this.Name="SMG6E00D10600000000CAGD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(374,271,12,0,"'Arial','sans-serif'",0,"<b></b>Kabelseite der Steckanschlüsse (weiblich)");}

@@ -1,0 +1,1 @@
+function ISMG6E50G10110100000KBGD03(){var i=0;this.Title="Klimaanlagenkompressor austauschen";this.Name="SMG6E50G10110100000KBGD03";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(375,391,13,0,"'Arial','sans-serif'",0,"<b>8 x 1,25 mm<br>22 N&middot;m <br>(2,2 kgf&middot;m)</b>");this.CallOut[i++]=FS4(291,123,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

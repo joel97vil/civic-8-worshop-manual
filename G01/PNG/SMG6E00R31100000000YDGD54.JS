@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDGD54(){var i=0;this.Title=" Modell mit Glasdach";this.Name="SMG6E00R31100000000YDGD54";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(388,271,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

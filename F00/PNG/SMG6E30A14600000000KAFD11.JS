@@ -1,0 +1,1 @@
+function ISMG6E30A14600000000KAFD11(){var i=0;this.Title="Dépose de la culasse";this.Name="SMG6E30A14600000000KAFD11";this.Width=475;this.Height=385;this.CallOut=new Array;}

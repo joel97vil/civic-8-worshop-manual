@@ -1,0 +1,1 @@
+function ISMG6E00J4680005729BKBGD03(){var i=0;this.Title="Sonnenschutzjalousie, Schuh- und Seilzugeinheit Austausch";this.Name="SMG6E00J4680005729BKBGD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(229,306,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(356,21,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

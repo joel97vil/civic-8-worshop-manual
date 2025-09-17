@@ -1,0 +1,1 @@
+function ISMG6E00J32133100000MBSD04(){var i=0;this.Title="Ajuste de los faros";this.Name="SMG6E00J32133100000MBSD04";this.Width=475;this.Height=449;this.CallOut=new Array;}

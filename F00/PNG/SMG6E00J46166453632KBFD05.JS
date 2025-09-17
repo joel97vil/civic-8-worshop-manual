@@ -1,0 +1,1 @@
+function ISMG6E00J46166453632KBFD05(){var i=0;this.Title="Remplacement de la housse du coussin de siège arrière";this.Name="SMG6E00J46166453632KBFD05";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(64,431,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(61,24,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

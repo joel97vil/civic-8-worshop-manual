@@ -1,0 +1,1 @@
+function ISMG6E50A14500017625KBSD01(){var i=0;this.Title="Sustitución del interruptor del combinado de control de la velocidad de crucero";this.Name="SMG6E50A14500017625KBSD01";this.Width=475;this.Height=401;this.CallOut=new Array;}

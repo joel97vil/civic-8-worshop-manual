@@ -1,0 +1,1 @@
+function ISMG6E7A0000000K0031BASD05(){var i=0;this.Title=" Marco de la puerta del conductor:";this.Name="SMG6E7A0000000K0031BASD05";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(87,382,13,0,"'Arial','sans-serif'",0,"<b>INFORMACIÓN SOBRE NEUMÁTICOS</b>");}

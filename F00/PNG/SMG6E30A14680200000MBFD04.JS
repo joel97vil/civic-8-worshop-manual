@@ -1,0 +1,1 @@
+function ISMG6E30A14680200000MBFD04(){var i=0;this.Title="Réglage du jeu de culasse et soupape";this.Name="SMG6E30A14680200000MBFD04";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(134,272,13,0,"'Arial','sans-serif'",0,"<b>A<br>14 N&middot;m<br>(1,4 kgf&middot;m)</b>");this.CallOut[i++]=FS4(104,17,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

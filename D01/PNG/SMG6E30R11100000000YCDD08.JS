@@ -1,0 +1,1 @@
+function ISMG6E30R11100000000YCDD08(){var i=0;this.Title=" handgrepen passagierszijde:";this.Name="SMG6E30R11100000000YCDD08";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(283,496,13,0,"'Arial','sans-serif'",0,"<b>Certificatielabel</b>");}

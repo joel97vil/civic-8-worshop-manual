@@ -1,0 +1,1 @@
+function ISMG6E00D52100063651FEFD01(){var i=0;this.Title="Essai de contacteur désactivé VSA";this.Name="SMG6E00D52100063651FEFD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(323,20,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E40A14100022205KDSD01(){var i=0;this.Title="Desmontaje/Montaje del tensor automático de la correa de accionamiento";this.Name="SMG6E40A14100022205KDSD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

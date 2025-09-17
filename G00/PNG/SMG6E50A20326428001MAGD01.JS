@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001MAGD01(){var i=0;this.Title="Kraftstoffleitungen überprüfen";this.Name="SMG6E50A20326428001MAGD01";this.Width=950;this.Height=639;this.CallOut=new Array;}

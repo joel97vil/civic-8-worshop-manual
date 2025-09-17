@@ -1,0 +1,1 @@
+function ISMG6E50E3415015528RMBDD01(){var i=0;this.Title="Afstellen axiale speling M/T primaire as";this.Name="SMG6E50E3415015528RMBDD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(379,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(68,112,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

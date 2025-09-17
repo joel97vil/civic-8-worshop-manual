@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001KASD04(){var i=0;this.Title="Desmontaje de los racores de instalación rápida/tubos de combustible";this.Name="SMG6E50A20326428001KASD04";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(437,396,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

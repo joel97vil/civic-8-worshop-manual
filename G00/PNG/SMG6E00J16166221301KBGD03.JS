@@ -1,0 +1,1 @@
+function ISMG6E00J16166221301KBGD03(){var i=0;this.Title="Hintertür-Außengriff austauschen";this.Name="SMG6E00J16166221301KBGD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(372,282,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50K72100000000BBGD05(){var i=0;this.Title=" Fehlersuche an den Schaltkreisen der ECM-Anschlüsse";this.Name="SMG6E50K72100000000BBGD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(213,32,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

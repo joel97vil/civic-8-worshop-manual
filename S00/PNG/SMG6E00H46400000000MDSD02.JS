@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000MDSD02(){var i=0;this.Title=" El guarnecido del pilar central";this.Name="SMG6E00H46400000000MDSD02";this.Width=475;this.Height=481;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E40A20326428001MAFD01(){var i=0;this.Title="Contrôle des tuyaux de carburant";this.Name="SMG6E40A20326428001MAFD01";this.Width=950;this.Height=719;this.CallOut=new Array;this.CallOut[i++]=FS4(55,653,12,0,"'Arial','sans-serif'",0,"<b></b>Vérifier la qualité des raccords<br>et le verrouillage en place<br>des couvercles de raccord rapide.");}

@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001KCSD08(){var i=0;this.Title=" Conexión a nuevos tubos de combustible";this.Name="SMG6E50A20326428001KCSD08";this.Width=475;this.Height=369;this.CallOut=new Array;}

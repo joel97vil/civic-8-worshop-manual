@@ -1,0 +1,1 @@
+function ISMG6E40A14666351511MASD01(){var i=0;this.Title="Inspección del eje de balancines y de los balancines";this.Name="SMG6E40A14666351511MASD01";this.Width=475;this.Height=353;this.CallOut=new Array;}

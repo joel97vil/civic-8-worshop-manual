@@ -1,0 +1,1 @@
+function ISMG6E30E34150200000LCFD01(){var i=0;this.Title="Démontage de l'arbre secondaire de T/M";this.Name="SMG6E30E34150200000LCFD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

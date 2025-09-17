@@ -1,0 +1,1 @@
+function ISMG6E00B20200014202KBFD02(){var i=0;this.Title="Remplacement du soufflet de rotule avant";this.Name="SMG6E00B20200014202KBFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(309,92,13,0,"'Arial','sans-serif'",0,"<b>07GAG-SD40700</b>");}

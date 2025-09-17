@@ -1,0 +1,1 @@
+function ISMG6E00F00000000000MASD01(){var i=0;this.Title="Comprobación de la holgura de giro del volante de la dirección";this.Name="SMG6E00F00000000000MASD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

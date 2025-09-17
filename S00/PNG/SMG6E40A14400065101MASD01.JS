@@ -1,0 +1,1 @@
+function ISMG6E40A14400065101MASD01(){var i=0;this.Title="Inspección de la bomba de agua";this.Name="SMG6E40A14400065101MASD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

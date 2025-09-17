@@ -1,0 +1,1 @@
+function ISMG6E3ED14300014701KBDD05(){var i=0;this.Title=" Modellen met stuur rechts:";this.Name="SMG6E3ED14300014701KBDD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(44,43,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

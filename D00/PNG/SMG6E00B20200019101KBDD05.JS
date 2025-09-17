@@ -1,0 +1,1 @@
+function ISMG6E00B20200019101KBDD05(){var i=0;this.Title=" Uitbouwen";this.Name="SMG6E00B20200019101KBDD05";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(443,156,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

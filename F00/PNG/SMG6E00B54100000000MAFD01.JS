@@ -1,0 +1,1 @@
+function ISMG6E00B54100000000MAFD01(){var i=0;this.Title="Contrôle du faux rond de roue";this.Name="SMG6E00B54100000000MAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

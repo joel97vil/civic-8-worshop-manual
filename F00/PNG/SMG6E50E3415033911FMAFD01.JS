@@ -1,0 +1,1 @@
+function ISMG6E50E3415033911FMAFD01(){var i=0;this.Title=" 1ère/2ème, 3ème/4ème, 5ème/6ème&nbsp;:";this.Name="SMG6E50E3415033911FMAFD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(201,332,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(375,7,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50A20326427391MAGD02(){var i=0;this.Title="Kraftstoffentlüftungsleitung und Saugleitung Inspektion";this.Name="SMG6E50A20326427391MAGD02";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(284,17,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(336,56,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

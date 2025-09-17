@@ -1,0 +1,1 @@
+function ISMG6E3AG10500000000CAFD03(){var i=0;this.Title=" Pressostat de climatisation";this.Name="SMG6E3AG10500000000CAFD03";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(302,257,12,0,"'Arial','sans-serif'",0,"<b>GROUPE CAPTEUR</b>");}

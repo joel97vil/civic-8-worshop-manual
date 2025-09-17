@@ -1,0 +1,1 @@
+function ISMG6E30A18300024751MAFD01(){var i=0;this.Title="Contrôle du bloc et des pistons";this.Name="SMG6E30A18300024751MAFD01";this.Width=475;this.Height=641;this.CallOut=new Array;this.CallOut[i++]=FS4(280,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(40,96,13,0,"'Arial','sans-serif'",0,"<b>13 mm</b>");}

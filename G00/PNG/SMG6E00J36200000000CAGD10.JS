@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CAGD10(){var i=0;this.Title=" Eingänge und Ausgänge der Navigationseinheit am Stecker C (8P)";this.Name="SMG6E00J36200000000CAGD10";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(371,273,12,0,"'Arial','sans-serif'",0,"<b></b>Kabelseite der Steckanschlüsse (weiblich)");}

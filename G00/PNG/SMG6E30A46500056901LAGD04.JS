@@ -1,0 +1,1 @@
+function ISMG6E30A46500056901LAGD04(){var i=0;this.Title=" Anker Inspektion und Test";this.Name="SMG6E30A46500056901LAGD04";this.Width=475;this.Height=336;this.CallOut=new Array;}

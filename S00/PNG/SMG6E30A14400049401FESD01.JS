@@ -1,0 +1,1 @@
+function ISMG6E30A14400049401FESD01(){var i=0;this.Title="Comprobación de los motores de los ventiladores del radiador y del condensador del A/C";this.Name="SMG6E30A14400049401FESD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(276,35,13,0,"'Arial','sans-serif'",0,"<b></b>Lado del terminal de los <br>terminales machos");}

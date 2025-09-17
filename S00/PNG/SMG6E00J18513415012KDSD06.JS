@@ -1,0 +1,1 @@
+function ISMG6E00J18513415012KDSD06(){var i=0;this.Title="Desmontaje/Montaje del parachoques trasero";this.Name="SMG6E00J18513415012KDSD06";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(241,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

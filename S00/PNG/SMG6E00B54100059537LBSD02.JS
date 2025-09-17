@@ -1,0 +1,1 @@
+function ISMG6E00B54100059537LBSD02(){var i=0;this.Title="La extracción del sellante líquido del dispositivo de inflado de neumáticos";this.Name="SMG6E00B54100059537LBSD02";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(37,167,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(419,230,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

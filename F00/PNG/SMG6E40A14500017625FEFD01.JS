@@ -1,0 +1,1 @@
+function ISMG6E40A14500017625FEFD01(){var i=0;this.Title="Test du commutateur combiné de régulation de vitesse";this.Name="SMG6E40A14500017625FEFD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(52,368,13,0,"'Arial','sans-serif'",0,"<b></b>Côté câbles <br>des bornes femelles");}

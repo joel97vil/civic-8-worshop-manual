@@ -1,0 +1,1 @@
+function ISMG6E00H46200053402KBGD15(){var i=0;this.Title=" Mittleres Rücksitz-Gurtschloss / Linkes Rücksitz-Gurtschloss";this.Name="SMG6E00H46200053402KBGD15";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(107,323,13,0,"'Arial','sans-serif'",0,"<b>A<br>7/16-20 UNF<br>32 N&middot;m <br>(3,3 kgf&middot;m)</b>");}

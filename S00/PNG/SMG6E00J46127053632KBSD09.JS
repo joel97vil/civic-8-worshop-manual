@@ -1,0 +1,1 @@
+function ISMG6E00J46127053632KBSD09(){var i=0;this.Title="Sustitución de la funda del cojín del asiento delantero";this.Name="SMG6E00J46127053632KBSD09";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(408,454,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

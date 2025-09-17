@@ -1,0 +1,1 @@
+function ISMG6E50A20336334910KDGD01(){var i=0;this.Title="Luftansaugkanal Ausbau / Einbau";this.Name="SMG6E50A20336334910KDGD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(44,100,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

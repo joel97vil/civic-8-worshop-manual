@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000BBSD07(){var i=0;this.Title=" Comprobación del monitor";this.Name="SMG6E00J36200000000BBSD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(139,77,15,0,"'Arial','sans-serif'",0,"<b>Fondo negro  </b>");this.CallOut[i++]=FS4(341,76,14,0,"'Arial','sans-serif'",0,"<b>Retorno</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50A14100012901LADD11(){var i=0;this.Title=" Koolborstels dynamo inspecteren";this.Name="SMG6E50A14100012901LADD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(161,221,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(450,249,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

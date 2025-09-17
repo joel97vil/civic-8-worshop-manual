@@ -1,0 +1,1 @@
+function ISMG6E00J14234830575FHFD01(){var i=0;this.Title="Test/remplacement de commutateur HFT-commande vocale";this.Name="SMG6E00J14234830575FHFD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

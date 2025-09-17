@@ -1,0 +1,1 @@
+function ISMG6E30A18360245611KBDD01(){var i=0;this.Title="Zuigerring vervangen";this.Name="SMG6E30A18360245611KBDD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(64,54,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(289,199,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

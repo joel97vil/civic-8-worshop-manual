@@ -1,0 +1,1 @@
+function ISMG6E40E3415015528PMBSD03(){var i=0;this.Title="Ajuste de la holgura de empuje del diferencial en la envolvente de embrague de la M/T";this.Name="SMG6E40E3415015528PMBSD03";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(32,154,13,0,"'Arial','sans-serif'",0,"<b>00746-0030100</b>");}

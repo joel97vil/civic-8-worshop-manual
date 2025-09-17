@@ -1,0 +1,1 @@
+function ISMG6E50A18316600000MAGD01(){var i=0;this.Title=" Ovalität und Konizität ";this.Name="SMG6E50A18316600000MAGD01";this.Width=475;this.Height=433;this.CallOut=new Array;}

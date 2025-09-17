@@ -1,0 +1,1 @@
+function ISMG6E30E34150117434KBGD02(){var i=0;this.Title="M/T-Kupplungsgehäuse, Nebenwellenlager Austausch";this.Name="SMG6E30E34150117434KBGD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(406,355,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(328,188,13,0,"'Arial','sans-serif'",0,"<b>07JAC-PH80000</b>");}

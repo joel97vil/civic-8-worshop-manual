@@ -1,0 +1,1 @@
+function ISMG6E50E34150400000LDDD13(){var i=0;this.Title="Weer monteren M/T primaire as";this.Name="SMG6E50E34150400000LDDD13";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(348,208,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(332,102,13,0,"'Arial','sans-serif'",0,"<b>07746-0030100</b>");}

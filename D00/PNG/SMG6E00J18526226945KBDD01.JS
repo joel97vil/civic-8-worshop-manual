@@ -1,0 +1,1 @@
+function ISMG6E00J18526226945KBDD01(){var i=0;this.Title="Vervangen van afsluiting van spatbord voor";this.Name="SMG6E00J18526226945KBDD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>Plaats van bevestiger</b>");this.CallOut[i++]=FS4(59,41,13,0,"'Arial','sans-serif'",0,"<b>: Klem, 1</b>");}

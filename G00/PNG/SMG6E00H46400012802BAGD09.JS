@@ -1,0 +1,1 @@
+function ISMG6E00H46400012802BAGD09(){var i=0;this.Title=" Äußerer Beckengurtstraffer";this.Name="SMG6E00H46400012802BAGD09";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(363,35,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

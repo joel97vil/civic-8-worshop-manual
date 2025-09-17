@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDGD55(){var i=0;this.Title=" Modell mit normalem Dach";this.Name="SMG6E00R31100000000YDGD55";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(394,222,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000AAGD20(){var i=0;this.Title=" Sitze mit Seiten-Airbags";this.Name="SMG6E00H46400000000AAGD20";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(39,189,13,0,"'Arial','sans-serif'",0,"<b>SEITEN-AIRBAG<br>-SCHILD</b>");}

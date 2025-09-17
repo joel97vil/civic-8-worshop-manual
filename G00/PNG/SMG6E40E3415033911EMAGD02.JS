@@ -1,0 +1,1 @@
+function ISMG6E40E3415033911EMAGD02(){var i=0;this.Title="Spiel der M/T-Rückwärtsgang-Schaltgabel überprüfen";this.Name="SMG6E40E3415033911EMAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

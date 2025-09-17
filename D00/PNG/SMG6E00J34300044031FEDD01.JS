@@ -1,0 +1,1 @@
+function ISMG6E00J34300044031FEDD01(){var i=0;this.Title="Testen stelmotor elektrisch bediende spiegel";this.Name="SMG6E00J34300044031FEDD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(331,55,13,0,"'Arial','sans-serif'",0,"<b></b>Draadzijde van <br>vrouwelijke aansluitingen");this.CallOut[i++]=FS4(57,306,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

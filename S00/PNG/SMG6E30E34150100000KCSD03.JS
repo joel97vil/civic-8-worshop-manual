@@ -1,0 +1,1 @@
+function ISMG6E30E34150100000KCSD03(){var i=0;this.Title="Instalación del conjunto de la M/T";this.Name="SMG6E30E34150100000KCSD03";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(339,129,13,0,"'Arial','sans-serif'",0,"<b>12 x 1,25 mm<br>64 N&middot;m <br>(6,5 kgf&middot;m)</b>");}

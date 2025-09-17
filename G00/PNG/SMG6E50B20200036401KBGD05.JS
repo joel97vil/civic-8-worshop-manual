@@ -1,0 +1,1 @@
+function ISMG6E50B20200036401KBGD05(){var i=0;this.Title=" Achsschenkel Ausbau";this.Name="SMG6E50B20200036401KBGD05";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(312,51,13,0,"'Arial','sans-serif'",0,"<b>B<br>24 x 1,5 mm<br>250 N&middot;m<br>(25,0 kgf&middot;m)</b>");this.CallOut[i++]=FS4(286,209,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

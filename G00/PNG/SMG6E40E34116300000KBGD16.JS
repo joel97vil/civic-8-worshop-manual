@@ -1,0 +1,1 @@
+function ISMG6E40E34116300000KBGD16(){var i=0;this.Title=" Kupplungsscheibe und Druckplatte Einbau";this.Name="SMG6E40E34116300000KBGD16";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(291,45,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(61,59,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

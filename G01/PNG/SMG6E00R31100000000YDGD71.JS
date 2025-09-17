@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDGD71(){var i=0;this.Title="Heckabschlussblech Einbau";this.Name="SMG6E00R31100000000YDGD71";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(289,58,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

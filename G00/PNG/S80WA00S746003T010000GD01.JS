@@ -1,0 +1,1 @@
+function IS80WA00S746003T010000GD01(){var i=0;this.Title=" Erforderliches Spezialwerkzeug";this.Name="S80WA00S746003T010000GD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

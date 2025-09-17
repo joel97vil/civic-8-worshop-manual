@@ -1,0 +1,1 @@
+function ISMG6E50E34150339124MASD04(){var i=0;this.Title="Comprobación de la holgura de la palanca de selección de la marcha atrás de la M/T";this.Name="SMG6E50E34150339124MASD04";this.Width=475;this.Height=320;this.CallOut=new Array;}

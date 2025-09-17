@@ -1,0 +1,1 @@
+function ISMG6E40A20326428001MADD01(){var i=0;this.Title="Brandstofleidingen inspecteren";this.Name="SMG6E40A20326428001MADD01";this.Width=950;this.Height=719;this.CallOut=new Array;this.CallOut[i++]=FS4(55,653,12,0,"'Arial','sans-serif'",0,"<b></b>Zorg dat de aansluiting goed<br>vastzit en dat de snelkoppelings<br>doppen goed vergrendeld zijn.");}

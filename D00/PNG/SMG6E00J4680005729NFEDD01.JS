@@ -1,0 +1,1 @@
+function ISMG6E00J4680005729NFEDD01(){var i=0;this.Title="Test schakelaar zonnedak";this.Name="SMG6E00J4680005729NFEDD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

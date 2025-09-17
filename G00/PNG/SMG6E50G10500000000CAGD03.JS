@@ -1,0 +1,1 @@
+function ISMG6E50G10500000000CAGD03(){var i=0;this.Title=" A/C-Drucksensor";this.Name="SMG6E50G10500000000CAGD03";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(302,257,12,0,"'Arial','sans-serif'",0,"<b>SENSOREINHEIT</b>");}

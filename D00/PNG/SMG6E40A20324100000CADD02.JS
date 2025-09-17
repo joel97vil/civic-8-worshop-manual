@@ -1,0 +1,1 @@
+function ISMG6E40A20324100000CADD02(){var i=0;this.Title=" Gasklephuis";this.Name="SMG6E40A20324100000CADD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(202,18,13,0,"'Arial','sans-serif'",0,"<b>GASKLEP</b>");this.CallOut[i++]=FS4(292,355,13,0,"'Arial','sans-serif'",0,"<b>SMOORKLEPSTAND<br>TP-SENSOR en<br>SMOORKLEPSTELMOTOR</b>");}

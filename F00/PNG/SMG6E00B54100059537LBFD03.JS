@@ -1,0 +1,1 @@
+function ISMG6E00B54100059537LBFD03(){var i=0;this.Title="Extraction de l'étanchéifiant liquide du gonfleur de pneu";this.Name="SMG6E00B54100059537LBFD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(352,152,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

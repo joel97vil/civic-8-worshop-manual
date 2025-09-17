@@ -1,0 +1,1 @@
+function ISMG6E30A14666351511MADD02(){var i=0;this.Title="Kleptuimelaar en as van cilinderkop controleren";this.Name="SMG6E30A14666351511MADD02";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(309,121,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

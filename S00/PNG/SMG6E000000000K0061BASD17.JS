@@ -1,0 +1,1 @@
+function ISMG6E000000000K0061BASD17(){var i=0;this.Title=" Manipulación de conectores";this.Name="SMG6E000000000K0061BASD17";this.Width=475;this.Height=320;this.CallOut=new Array;}

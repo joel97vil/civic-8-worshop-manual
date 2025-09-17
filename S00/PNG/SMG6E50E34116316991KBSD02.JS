@@ -1,0 +1,1 @@
+function ISMG6E50E34116316991KBSD02(){var i=0;this.Title="Sustitución del amortiguador del embrague";this.Name="SMG6E50E34116316991KBSD02";this.Width=475;this.Height=385;this.CallOut=new Array;}

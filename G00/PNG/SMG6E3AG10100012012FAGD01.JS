@@ -1,0 +1,1 @@
+function ISMG6E3AG10100012012FAGD01(){var i=0;this.Title="Fehlersuche im Klimaanlagen-Kompressorkupplungs-Schaltkreis";this.Name="SMG6E3AG10100012012FAGD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(17,29,13,0,"'Arial','sans-serif'",0,"<b>4P-BUCHSE DES KLIMAANLAGEN-KOMPRESSORKUPPLUNGSRELAIS</b>");}

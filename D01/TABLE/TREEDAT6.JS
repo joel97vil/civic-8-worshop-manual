@@ -1,0 +1,1 @@
+function FST(){var i=0;tDT[i++]=FS3(0,"010000","Algemene informatie");tDT[i++]=FS3(0,"020000","Informatie over lakken");tDT[i++]=FS3(0,"030000","Vervangen");tDT[i++]=FS3(0,"040000","Maattekeningen van carrosserie");tDT[i++]=FS3(0,"050000","Roestbestrijding");tDT[i++]=FS3(0,"060000","Overige");}

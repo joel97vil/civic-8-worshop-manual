@@ -1,0 +1,1 @@
+function ISMG6E00G24166150451LBDD02(){var i=0;this.Title="Repareren draad achterruitverwarming";this.Name="SMG6E00G24166150451LBDD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(354,200,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

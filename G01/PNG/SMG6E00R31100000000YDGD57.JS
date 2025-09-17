@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDGD57(){var i=0;this.Title="Dachblech Einbau";this.Name="SMG6E00R31100000000YDGD57";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(145,13,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

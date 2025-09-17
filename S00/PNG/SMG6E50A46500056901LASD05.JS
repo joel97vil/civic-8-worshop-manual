@@ -1,0 +1,1 @@
+function ISMG6E50A46500056901LASD05(){var i=0;this.Title=" Comprobación y revisión del inducido";this.Name="SMG6E50A46500056901LASD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(228,290,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

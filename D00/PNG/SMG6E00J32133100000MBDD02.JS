@@ -1,0 +1,1 @@
+function ISMG6E00J32133100000MBDD02(){var i=0;this.Title="Koplampafstelling";this.Name="SMG6E00J32133100000MBDD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(100,37,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(214,74,13,0,"'Arial','sans-serif'",0,"<b>7,5 m (25 ft)</b>");}

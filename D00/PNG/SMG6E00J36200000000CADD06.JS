@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CADD06(){var i=0;this.Title=" Schematische voorstelling van het vaststellen van de voertuigpositie met GPS-satellieten";this.Name="SMG6E00J36200000000CADD06";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(55,287,12,0,"'Arial','sans-serif'",0,"<b></b>OPMERKING: Er zijn zes banen met elk vier satellieten.");}

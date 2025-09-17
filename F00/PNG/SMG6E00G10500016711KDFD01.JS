@@ -1,0 +1,1 @@
+function ISMG6E00G10500016711KDFD01(){var i=0;this.Title="Dépose/pose de l'unité de commande de climatisation/commutateur de désembuage arrière";this.Name="SMG6E00G10500016711KDFD01";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(383,113,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

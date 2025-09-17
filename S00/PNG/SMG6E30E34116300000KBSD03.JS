@@ -1,0 +1,1 @@
+function ISMG6E30E34116300000KBSD03(){var i=0;this.Title=" Caja de cambios manual SPLMExtracción del disco y plato de presión del embrague";this.Name="SMG6E30E34116300000KBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(419,34,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(453,150,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A18316617502KBFD04(){var i=0;this.Title=" Emplacement du code de tourillon principal";this.Name="SMG6E30A18316617502KBFD04";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(90,317,13,0,"'Arial','sans-serif'",0,"<b>TOURILLON No. 5</b>");this.CallOut[i++]=FS4(278,317,13,0,"'Arial','sans-serif'",0,"<b>TOURILLON n&deg; 1</b>");}

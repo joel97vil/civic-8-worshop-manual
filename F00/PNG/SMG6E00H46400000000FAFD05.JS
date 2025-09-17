@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000FAFD05(){var i=0;this.Title=" Témoin de rappel de ceinture de sécurité défectueux";this.Name="SMG6E00H46400000000FAFD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(53,122,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

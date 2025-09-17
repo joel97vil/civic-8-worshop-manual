@@ -1,0 +1,1 @@
+function ISMG6E800000000K0021BADD02(){var i=0;this.Title="Plaatsen van de VIN-, motor- en transmissienummers";this.Name="SMG6E800000000K0021BADD02";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(285,517,13,0,"'Arial','sans-serif'",0,"<b>Transmissie<br>nummer</b>");this.CallOut[i++]=FS4(62,517,13,0,"'Arial','sans-serif'",0,"<b>Motornummer</b>");}

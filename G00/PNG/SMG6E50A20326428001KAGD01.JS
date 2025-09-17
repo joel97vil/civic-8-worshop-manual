@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001KAGD01(){var i=0;this.Title="Kraftstoffleitung/Schnellkupplung Ausbau";this.Name="SMG6E50A20326428001KAGD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(101,248,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00B44100019102KBGD06(){var i=0;this.Title=" Inspektion";this.Name="SMG6E00B44100019102KBGD06";this.Width=475;this.Height=417;this.CallOut=new Array;}

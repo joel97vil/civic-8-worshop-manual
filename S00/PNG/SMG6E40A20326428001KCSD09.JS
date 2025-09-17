@@ -1,0 +1,1 @@
+function ISMG6E40A20326428001KCSD09(){var i=0;this.Title=" Conexión a una tubería de combustible nueva";this.Name="SMG6E40A20326428001KCSD09";this.Width=475;this.Height=369;this.CallOut=new Array;}

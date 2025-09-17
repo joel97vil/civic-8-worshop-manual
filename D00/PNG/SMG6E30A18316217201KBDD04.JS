@@ -1,0 +1,1 @@
+function ISMG6E30A18316217201KBDD04(){var i=0;this.Title=" Plaats van de code op de drijfstangkap";this.Name="SMG6E30A18316217201KBDD04";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(97,320,13,0,"'Arial','sans-serif'",0,"<b>Tap nr. 4:</b>");this.CallOut[i++]=FS4(278,321,13,0,"'Arial','sans-serif'",0,"<b>Tap nr. 1:</b>");}

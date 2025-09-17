@@ -1,0 +1,1 @@
+function ISMG6E30E34150100000LDGD09(){var i=0;this.Title="Schaltgetriebe-Baugruppe Zusammenbau";this.Name="SMG6E30E34150100000LDGD09";this.Width=475;this.Height=369;this.CallOut=new Array;}

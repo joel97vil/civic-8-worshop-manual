@@ -1,0 +1,1 @@
+function ISMG6E50B20200000000MBGD03(){var i=0;this.Title=" Sturz der Vorderräder Inspektion";this.Name="SMG6E50B20200000000MBGD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(338,113,13,0,"'Arial','sans-serif'",0,"<b>A<br>07MGK-0010100</b>");}

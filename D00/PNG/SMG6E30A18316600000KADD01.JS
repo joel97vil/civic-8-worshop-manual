@@ -1,0 +1,1 @@
+function ISMG6E30A18316600000KADD01(){var i=0;this.Title="Krukas en zuiger uitbouwen";this.Name="SMG6E30A18316600000KADD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(426,180,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(371,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

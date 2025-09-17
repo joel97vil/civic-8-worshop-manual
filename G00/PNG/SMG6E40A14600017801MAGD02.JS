@@ -1,0 +1,1 @@
+function ISMG6E40A14600017801MAGD02(){var i=0;this.Title="Zylinderkopf auf Verzug prüfen";this.Name="SMG6E40A14600017801MAGD02";this.Width=475;this.Height=256;this.CallOut=new Array;}

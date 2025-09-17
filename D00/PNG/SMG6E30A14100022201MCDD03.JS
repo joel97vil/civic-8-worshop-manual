@@ -1,0 +1,1 @@
+function ISMG6E30A14100022201MCDD03(){var i=0;this.Title=" Met Airconditioning";this.Name="SMG6E30A14100022201MCDD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(210,325,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

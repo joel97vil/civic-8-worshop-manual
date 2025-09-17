@@ -1,0 +1,1 @@
+function ISMG6E00J54400050461KBFD08(){var i=0;this.Title="Remplacement de la lunette arrière";this.Name="SMG6E00J54400050461KBFD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(172,42,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(105,80,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

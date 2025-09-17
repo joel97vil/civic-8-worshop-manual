@@ -1,0 +1,1 @@
+function ISMG6E40A20316100000CASD01(){var i=0;this.Title=" Catalizador de tres vías (TWC)";this.Name="SMG6E40A20316100000CASD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(35,212,13,0,"'Arial','sans-serif'",0,"<b>ALOJAMIENTO</b>");this.CallOut[i++]=FS4(43,310,13,0,"'Arial','sans-serif'",0,"<b>CATALIZADOR DE<br> TRES VÍAS</b>");}

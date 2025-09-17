@@ -1,0 +1,1 @@
+function ISMG6E00J26273460611KDSD03(){var i=0;this.Title="Desmontaje/Montaje del guarnecido interior - Zona lateral trasera";this.Name="SMG6E00J26273460611KDSD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(398,160,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(354,49,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

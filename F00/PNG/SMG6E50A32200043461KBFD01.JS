@@ -1,0 +1,1 @@
+function ISMG6E50A32200043461KBFD01(){var i=0;this.Title="Remplacement du contacteur de pression d'huile moteur";this.Name="SMG6E50A32200043461KBFD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(17,321,13,0,"'Arial','sans-serif'",0,"<b>18 N&middot;m <br>(1,8 kgf&middot;m)</b>");}

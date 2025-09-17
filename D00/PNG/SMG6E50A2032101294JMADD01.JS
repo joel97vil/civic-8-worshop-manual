@@ -1,0 +1,1 @@
+function ISMG6E50A2032101294JMADD01(){var i=0;this.Title="APP-sensorsignaal controleren";this.Name="SMG6E50A2032101294JMADD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(245,266,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(39,291,13,0,"'Arial','sans-serif'",0,"<b></b>*: Afgebeeld is een model met stuur rechts.");}

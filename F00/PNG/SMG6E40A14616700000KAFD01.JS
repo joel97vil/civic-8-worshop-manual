@@ -1,0 +1,1 @@
+function ISMG6E40A14616700000KAFD01(){var i=0;this.Title="Dépose de l'arbre à cames";this.Name="SMG6E40A14616700000KAFD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(145,35,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(434,126,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

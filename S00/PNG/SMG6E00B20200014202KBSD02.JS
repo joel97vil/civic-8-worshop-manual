@@ -1,0 +1,1 @@
+function ISMG6E00B20200014202KBSD02(){var i=0;this.Title="Sustitución de los fuelles guardapolvo de las rótulas delanteras";this.Name="SMG6E00B20200014202KBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(309,92,13,0,"'Arial','sans-serif'",0,"<b>07GAG-SD40700</b>");}

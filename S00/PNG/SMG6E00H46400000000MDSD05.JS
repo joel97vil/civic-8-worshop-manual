@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000MDSD05(){var i=0;this.Title=" Comprobación y Ajuste del forro del techo/cubierta del guarnecido del pilar";this.Name="SMG6E00H46400000000MDSD05";this.Width=475;this.Height=320;this.CallOut=new Array;}

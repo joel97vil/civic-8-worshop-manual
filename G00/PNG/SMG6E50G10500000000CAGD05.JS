@@ -1,0 +1,1 @@
+function ISMG6E50G10500000000CAGD05(){var i=0;this.Title=" Übersicht";this.Name="SMG6E50G10500000000CAGD05";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(180,455,12,0,"'Arial','sans-serif'",0,"<b>PTC-HEIZUNGS-WÄRMETAUSCHER</b>");}

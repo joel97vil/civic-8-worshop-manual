@@ -1,0 +1,1 @@
+function ISMG6E00F00000057161KCGD03(){var i=0;this.Title="Lenkradmontage";this.Name="SMG6E00F00000057161KCGD03";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(40,17,13,0,"'Arial','sans-serif'",0,"<b>A<br>39 N&middot;m<br>(4,0 kgf&middot;m)</b>");this.CallOut[i++]=FS4(194,377,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

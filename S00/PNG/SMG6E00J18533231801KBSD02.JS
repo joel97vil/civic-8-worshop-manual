@@ -1,0 +1,1 @@
+function ISMG6E00J18533231801KBSD02(){var i=0;this.Title="Sustitución del cierre del capó";this.Name="SMG6E00J18533231801KBSD02";this.Width=475;this.Height=593;this.CallOut=new Array;}

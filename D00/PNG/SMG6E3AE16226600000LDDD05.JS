@@ -1,0 +1,1 @@
+function ISMG6E3AE16226600000LDDD05(){var i=0;this.Title=" Binnenste koppeling zijkant";this.Name="SMG6E3AE16226600000LDDD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(213,49,13,0,"'Arial','sans-serif'",0,"<b></b>Gebruik het vet dat geleverd is <br>in de binnenste stofhoes set.");}

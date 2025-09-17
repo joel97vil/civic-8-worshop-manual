@@ -1,0 +1,1 @@
+function ISMG6E000000000K0061BAGD23(){var i=0;this.Title=" Prüfungen und Reparaturen";this.Name="SMG6E000000000K0061BAGD23";this.Width=475;this.Height=320;this.CallOut=new Array;}

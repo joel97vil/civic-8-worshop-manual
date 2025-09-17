@@ -1,0 +1,1 @@
+function ISMG6E30A14680263041LBFD04(){var i=0;this.Title="Remise en état de siège de soupape de culasse";this.Name="SMG6E30A14680263041LBFD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(182,58,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

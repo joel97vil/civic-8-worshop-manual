@@ -1,0 +1,1 @@
+function ISMG6E3AJ26220200000KDGD10(){var i=0;this.Title=" Beifahrerseite";this.Name="SMG6E3AJ26220200000KDGD10";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(260,510,13,0,"'Arial','sans-serif'",0,"<b>21 mm </b>");this.CallOut[i++]=FS4(70,294,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

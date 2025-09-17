@@ -1,0 +1,1 @@
+function ISMG6E40A14400065081KDSD03(){var i=0;this.Title=" Desmontaje";this.Name="SMG6E40A14400065081KDSD03";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(392,290,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(431,14,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

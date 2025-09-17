@@ -1,0 +1,1 @@
+function ISMG6E50R11100000000YCDD10(){var i=0;this.Title=" Modellen met N22A2 motor";this.Name="SMG6E50R11100000000YCDD10";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(296,516,13,0,"'Arial','sans-serif'",0,"<b>Transmissienummer<br>(Handgeschakeld)</b>");this.CallOut[i++]=FS4(55,495,13,0,"'Arial','sans-serif'",0,"<b>Motornummer</b>");}

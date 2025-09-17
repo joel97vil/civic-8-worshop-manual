@@ -1,0 +1,1 @@
+function ISMG6E00B44100056301KBFD04(){var i=0;this.Title="Remplacement du ressort arrière";this.Name="SMG6E00B44100056301KBFD04";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(458,219,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(451,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

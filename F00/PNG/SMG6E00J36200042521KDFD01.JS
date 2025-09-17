@@ -1,0 +1,1 @@
+function ISMG6E00J36200042521KDFD01(){var i=0;this.Title="Dépose/repose de l'unité de navigation";this.Name="SMG6E00J36200042521KDFD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(106,285,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(453,232,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

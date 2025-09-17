@@ -1,0 +1,1 @@
+function ISMG6E00J32173631001FEGD01(){var i=0;this.Title="Warnblinkanlagenschalter prüfen";this.Name="SMG6E00J32173631001FEGD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(370,149,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

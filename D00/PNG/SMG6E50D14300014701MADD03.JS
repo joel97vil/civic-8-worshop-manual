@@ -1,0 +1,1 @@
+function ISMG6E50D14300014701MADD03(){var i=0;this.Title=" Functie Testen";this.Name="SMG6E50D14300014701MADD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(315,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50B20200000000MBGD09(){var i=0;this.Title=" Lenkwinkel Inspektion";this.Name="SMG6E50B20200000000MBGD09";this.Width=475;this.Height=320;this.CallOut=new Array;}

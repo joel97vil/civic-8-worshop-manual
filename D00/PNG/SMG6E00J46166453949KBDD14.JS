@@ -1,0 +1,1 @@
+function ISMG6E00J46166453949KBDD14(){var i=0;this.Title="Vervangen bekleding rugleuning achterstoel";this.Name="SMG6E00J46166453949KBDD14";this.Width=475;this.Height=346;this.CallOut=new Array;this.CallOut[i++]=FS4(292,301,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

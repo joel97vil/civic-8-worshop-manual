@@ -1,0 +1,1 @@
+function ISMG6E40A32200043502LASD10(){var i=0;this.Title=" Montaje";this.Name="SMG6E40A32200043502LASD10";this.Width=475;this.Height=208;this.CallOut=new Array;this.CallOut[i++]=FS4(215,159,13,0,"'Arial','sans-serif'",0,"<b></b>Aplique una junta líquida<br>a lo largo de la línea discontinua.");}

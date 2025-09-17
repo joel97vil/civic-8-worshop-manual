@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000AADD14(){var i=0;this.Title=" Stekkers Airbag Voor";this.Name="SMG6E00H46400000000AADD14";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(236,16,13,0,"'Arial','sans-serif'",0,"<b>C</b>");this.CallOut[i++]=FS4(158,228,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

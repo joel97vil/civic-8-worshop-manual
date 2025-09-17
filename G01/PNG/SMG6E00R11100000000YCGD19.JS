@@ -1,0 +1,1 @@
+function ISMG6E00R11100000000YCGD19(){var i=0;this.Title="Reparatur verzinkter Stahlbleche";this.Name="SMG6E00R11100000000YCGD19";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(664,152,12,0,"'Arial','sans-serif'",0,"<b>STAHLBLECH</b>");this.CallOut[i++]=FS4(176,82,12,0,"'Arial','sans-serif'",0,"<b>VERZINKUNG (5 - 6 Mikrometer)</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50E16226622502KBGD01(){var i=0;this.Title="Dynamischen Antriebswellendämpfer austauschen";this.Name="SMG6E50E16226622502KBGD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(101,235,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

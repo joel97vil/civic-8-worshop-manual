@@ -1,0 +1,1 @@
+function ISMG6E00J26200030190KDSD03(){var i=0;this.Title="Desmontaje/Montaje de los asideros";this.Name="SMG6E00J26200030190KDSD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(216,276,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

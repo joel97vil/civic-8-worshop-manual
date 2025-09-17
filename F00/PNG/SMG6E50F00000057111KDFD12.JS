@@ -1,0 +1,1 @@
+function ISMG6E50F00000057111KDFD12(){var i=0;this.Title=" Conduite à droite";this.Name="SMG6E50F00000057111KDFD12";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(43,54,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(335,56,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

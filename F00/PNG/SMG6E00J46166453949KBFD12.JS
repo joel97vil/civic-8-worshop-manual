@@ -1,0 +1,1 @@
+function ISMG6E00J46166453949KBFD12(){var i=0;this.Title="Remplacement de la housse du dossier de siège arrière";this.Name="SMG6E00J46166453949KBFD12";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(435,76,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(308,17,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

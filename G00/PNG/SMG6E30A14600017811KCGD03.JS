@@ -1,0 +1,1 @@
+function ISMG6E30A14600017811KCGD03(){var i=0;this.Title="Zylinderkopfdeckel aufsetzen";this.Name="SMG6E30A14600017811KCGD03";this.Width=475;this.Height=449;this.CallOut=new Array;}

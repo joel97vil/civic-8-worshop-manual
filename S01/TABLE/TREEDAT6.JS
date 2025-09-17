@@ -1,0 +1,1 @@
+function FST(){var i=0;tDT[i++]=FS3(0,"010000","Información general");tDT[i++]=FS3(0,"020000","Información sobre pintura");tDT[i++]=FS3(0,"030000","Planos dimensionales de la carrocería");tDT[i++]=FS3(0,"040000","Prevención contra la oxidación");tDT[i++]=FS3(0,"050000","Sustitución");tDT[i++]=FS3(0,"060000","Otros");}

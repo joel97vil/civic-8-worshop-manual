@@ -1,0 +1,1 @@
+function ISMG6E30A14680263001MAFD01(){var i=0;this.Title="Contrôle du jeu entre la queue et le guide de soupape";this.Name="SMG6E30A14680263001MAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

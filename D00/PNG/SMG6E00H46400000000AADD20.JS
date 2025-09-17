@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000AADD20(){var i=0;this.Title=" Stoelen met Zijairbags";this.Name="SMG6E00H46400000000AADD20";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(39,189,13,0,"'Arial','sans-serif'",0,"<b>ZIJAIRBAG<br>ETIKET</b>");}

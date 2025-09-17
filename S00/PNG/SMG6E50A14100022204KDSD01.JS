@@ -1,0 +1,1 @@
+function ISMG6E50A14100022204KDSD01(){var i=0;this.Title="Extracción/Instalación de la base de la polea intermedia de la correa de accionamiento";this.Name="SMG6E50A14100022204KDSD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(198,16,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>12 N&middot;m (1,2 kgf&middot;m)</b>");}

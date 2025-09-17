@@ -1,0 +1,1 @@
+function ISMG6E30A14600000000KCSD20(){var i=0;this.Title="Montaje de la culata";this.Name="SMG6E30A14600000000KCSD20";this.Width=475;this.Height=320;this.CallOut=new Array;}

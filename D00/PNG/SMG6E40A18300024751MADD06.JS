@@ -1,0 +1,1 @@
+function ISMG6E40A18300024751MADD06(){var i=0;this.Title="Motorblok en zuiger controleren";this.Name="SMG6E40A18300024751MADD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(200,17,13,0,"'Arial','sans-serif'",0,"<b>SLIJTAGEGRENS<br>0,05 mm</b>");}

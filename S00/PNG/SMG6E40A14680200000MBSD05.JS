@@ -1,0 +1,1 @@
+function ISMG6E40A14680200000MBSD05(){var i=0;this.Title="Ajuste de la holgura de la válvulas en la culata";this.Name="SMG6E40A14680200000MBSD05";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(388,290,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

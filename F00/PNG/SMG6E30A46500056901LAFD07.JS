@@ -1,0 +1,1 @@
+function ISMG6E30A46500056901LAFD07(){var i=0;this.Title=" Inspection et contrôle de l'induit";this.Name="SMG6E30A46500056901LAFD07";this.Width=475;this.Height=336;this.CallOut=new Array;}

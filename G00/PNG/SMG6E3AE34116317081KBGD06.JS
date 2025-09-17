@@ -1,0 +1,1 @@
+function ISMG6E3AE34116317081KBGD06(){var i=0;this.Title="Kupplungsnehmerzylinder austauschen";this.Name="SMG6E3AE34116317081KBGD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(363,123,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

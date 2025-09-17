@@ -1,0 +1,1 @@
+function ISMG6E50E34150100000KAFD05(){var i=0;this.Title="Dépose d'ensemble T/M";this.Name="SMG6E50E34150100000KAFD05";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(416,120,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(65,157,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

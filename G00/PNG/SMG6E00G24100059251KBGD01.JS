@@ -1,0 +1,1 @@
+function ISMG6E00G24100059251KBGD01(){var i=0;this.Title="Temperaturregelungsschalter (Beifahrer) Austausch";this.Name="SMG6E00G24100059251KBGD01";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(81,126,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

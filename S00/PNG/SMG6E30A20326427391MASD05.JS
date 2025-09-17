@@ -1,0 +1,1 @@
+function ISMG6E30A20326427391MASD05(){var i=0;this.Title="Inspección de las tuberías de aspiración y respiradero del combustible";this.Name="SMG6E30A20326427391MASD05";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(379,321,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(216,282,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

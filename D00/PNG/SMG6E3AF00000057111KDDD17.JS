@@ -1,0 +1,1 @@
+function ISMG6E3AF00000057111KDDD17(){var i=0;this.Title=" Aanbrengen";this.Name="SMG6E3AF00000057111KDDD17";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(346,16,13,0,"'Arial','sans-serif'",0,"<b>A<br>R18A2-motormodel<br>12 x 1,25 mm<br>64 N&middot;m (6,5 kgf&middot;m)<br>L13A7-motormodel<br>12 x 1,25 mm<br>64 N&middot;m (6,5 kgf&middot;m)</b>");}

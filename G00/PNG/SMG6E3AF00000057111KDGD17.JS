@@ -1,0 +1,1 @@
+function ISMG6E3AF00000057111KDGD17(){var i=0;this.Title=" Einbau";this.Name="SMG6E3AF00000057111KDGD17";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(327,7,13,0,"'Arial','sans-serif'",0,"<b>A<br>Motormodell R18A2<br>12 x 1,25 mm<br>64 N&middot;m (6,5 kgf&middot;m)<br>Motormodell L13A7<br>12 x 1,25 mm<br>64 N&middot;m (6,5 kgf&middot;m)</b>");}

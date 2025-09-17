@@ -1,0 +1,1 @@
+function ISMG6E00D00060800000MCDD04(){var i=0;this.Title=" Afstellen";this.Name="SMG6E00D00060800000MCDD04";this.Width=475;this.Height=369;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E30A18223800000KCFD03(){var i=0;this.Title="Installation du moteur";this.Name="SMG6E30A18223800000KCFD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(212,16,13,0,"'Arial','sans-serif'",0,"<b>14 x 1,5 mm<br>74 N&middot;m (7,5 kgf&middot;m)<br></b>Remplacer.");}

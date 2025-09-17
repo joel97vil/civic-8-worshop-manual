@@ -1,0 +1,1 @@
+function ISMG6E00J14234830575FHGD01(){var i=0;this.Title="HFT-Sprachsteuerungsschalter Test / Austausch";this.Name="SMG6E00J14234830575FHGD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

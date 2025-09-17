@@ -1,0 +1,1 @@
+function ISMG6E50A32200043502LASD08(){var i=0;this.Title=" Inspección de la bomba de aceite";this.Name="SMG6E50A32200043502LASD08";this.Width=475;this.Height=481;this.CallOut=new Array;}

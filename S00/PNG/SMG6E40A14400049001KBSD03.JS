@@ -1,0 +1,1 @@
+function ISMG6E40A14400049001KBSD03(){var i=0;this.Title="Sustitución del ventilador y del radiador";this.Name="SMG6E40A14400049001KBSD03";this.Width=475;this.Height=465;this.CallOut=new Array;}

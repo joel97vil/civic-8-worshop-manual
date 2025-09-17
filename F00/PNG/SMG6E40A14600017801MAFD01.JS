@@ -1,0 +1,1 @@
+function ISMG6E40A14600017801MAFD01(){var i=0;this.Title="Contrôle du gauchissement de la culasse";this.Name="SMG6E40A14600017801MAFD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(229,16,13,0,"'Arial','sans-serif'",0,"<b>REGLE DE PRECISION</b>");}

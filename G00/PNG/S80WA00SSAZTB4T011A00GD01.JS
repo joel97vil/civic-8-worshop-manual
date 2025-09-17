@@ -1,0 +1,1 @@
+function IS80WA00SSAZTB4T011A00GD01(){var i=0;this.Title=" Erforderliche Spezialwerkzeuge";this.Name="S80WA00SSAZTB4T011A00GD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

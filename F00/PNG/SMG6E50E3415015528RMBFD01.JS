@@ -1,0 +1,1 @@
+function ISMG6E50E3415015528RMBFD01(){var i=0;this.Title="Réglage du jeu en butée d&rsquo;arbre principal de carter T/M";this.Name="SMG6E50E3415015528RMBFD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(379,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(68,112,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

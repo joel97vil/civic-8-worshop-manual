@@ -1,0 +1,1 @@
+function ISMG6E00K73200000000BBGD02(){var i=0;this.Title=" Prüfung der LCD-Segmente";this.Name="SMG6E00K73200000000BBGD02";this.Width=950;this.Height=159;this.CallOut=new Array;}

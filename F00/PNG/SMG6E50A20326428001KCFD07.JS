@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001KCFD07(){var i=0;this.Title="Pose de conduite à carburant/raccord rapide";this.Name="SMG6E50A20326428001KCFD07";this.Width=475;this.Height=320;this.CallOut=new Array;}

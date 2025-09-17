@@ -1,0 +1,1 @@
+function ISMG6E00H46200053402KBGD01(){var i=0;this.Title=" Sicherheitsgurte hinten";this.Name="SMG6E00H46200053402KBGD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(286,17,13,0,"'Arial','sans-serif'",0,"<b>7/16-20&nbsp;UNF <br>32&nbsp;N&middot;m (3,3&nbsp;kgf&middot;m)<br></b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A14600017811KAGD02(){var i=0;this.Title="Zylinderkopfdeckel abbauen";this.Name="SMG6E30A14600017811KAGD02";this.Width=475;this.Height=449;this.CallOut=new Array;}

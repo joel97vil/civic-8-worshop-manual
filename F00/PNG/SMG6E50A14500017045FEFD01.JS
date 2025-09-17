@@ -1,0 +1,1 @@
+function ISMG6E50A14500017045FEFD01(){var i=0;this.Title=" Contacteur A de position de pédale d'embrayage";this.Name="SMG6E50A14500017045FEFD01";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(26,215,13,0,"'Arial','sans-serif'",0,"<b></b>Côté bornes <br>des bornes mâles");}

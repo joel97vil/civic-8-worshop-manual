@@ -1,0 +1,1 @@
+function ISMG6E50F18100025141MBSD01(){var i=0;this.Title="Memorización/Localización de averías por DTCs de la posición de punto muerto del sensor de par de la EPS 31-01";this.Name="SMG6E50F18100025141MBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

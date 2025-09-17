@@ -1,0 +1,1 @@
+function ISMG6E50A14100012901LAGD14(){var i=0;this.Title=" Lichtmaschine Zusammenbau";this.Name="SMG6E50A14100012901LAGD14";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(392,154,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(239,272,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

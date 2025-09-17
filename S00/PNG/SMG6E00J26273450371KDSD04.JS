@@ -1,0 +1,1 @@
+function ISMG6E00J26273450371KDSD04(){var i=0;this.Title=" Alfombra de piso trasero - Con tapa de piso trasero";this.Name="SMG6E00J26273450371KDSD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(129,61,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(294,14,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

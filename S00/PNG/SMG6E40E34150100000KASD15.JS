@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000KASD15(){var i=0;this.Title="Extracción del conjunto de la M/T";this.Name="SMG6E40E34150100000KASD15";this.Width=475;this.Height=369;this.CallOut=new Array;}

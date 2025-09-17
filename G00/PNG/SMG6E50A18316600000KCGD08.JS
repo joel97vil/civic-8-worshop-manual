@@ -1,0 +1,1 @@
+function ISMG6E50A18316600000KCGD08(){var i=0;this.Title="Kurbelwelle / Öldichtring (Getriebeende) Einbau";this.Name="SMG6E50A18316600000KCGD08";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(343,278,13,0,"'Arial','sans-serif'",0,"<b>07749-0010000</b>");this.CallOut[i++]=FS4(285,322,13,0,"'Arial','sans-serif'",0,"<b>070AD-RCA0200</b>");}

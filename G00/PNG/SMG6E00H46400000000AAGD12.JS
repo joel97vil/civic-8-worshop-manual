@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000AAGD12(){var i=0;this.Title=" Vorsichtsmaßnahmen bei Überprüfung der Elektrik";this.Name="SMG6E00H46400000000AAGD12";this.Width=475;this.Height=320;this.CallOut=new Array;}

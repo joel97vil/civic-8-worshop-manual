@@ -1,0 +1,1 @@
+function ISMG6E40A14674300000KCDD09(){var i=0;this.Title="Nokkenasketting monteren";this.Name="SMG6E40A14674300000KCDD09";this.Width=475;this.Height=224;this.CallOut=new Array;this.CallOut[i++]=FS4(215,176,13,0,"'Arial','sans-serif'",0,"<b></b>Breng vloeibare pakking aan<br>langs de onderbroken lijn.");}

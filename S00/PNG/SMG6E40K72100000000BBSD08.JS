@@ -1,0 +1,1 @@
+function ISMG6E40K72100000000BBSD08(){var i=0;this.Title=" Cómo actualizar el ECM";this.Name="SMG6E40K72100000000BBSD08";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(39,304,13,0,"'Arial','sans-serif'",0,"<b></b>*: Esta ilustración muestra el modelo RHD.");}

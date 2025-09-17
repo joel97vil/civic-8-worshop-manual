@@ -1,0 +1,1 @@
+function ISMG6E00E16226600000KCSD04(){var i=0;this.Title="Instalación del palier";this.Name="SMG6E00E16226600000KCSD04";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(119,275,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(445,58,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

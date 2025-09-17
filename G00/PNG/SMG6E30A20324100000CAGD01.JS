@@ -1,0 +1,1 @@
+function ISMG6E30A20324100000CAGD01(){var i=0;this.Title=" APP-Sensor (Gaspedalstellung)";this.Name="SMG6E30A20324100000CAGD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(42,163,13,0,"'Arial','sans-serif'",0,"<b>APP-SENSOR A/B</b>");this.CallOut[i++]=FS4(327,168,13,0,"'Arial','sans-serif'",0,"<b>GASPEDALMODUL</b>");}

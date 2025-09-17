@@ -1,0 +1,1 @@
+function ISMG6E3AG10100012012FAFD01(){var i=0;this.Title="Dépistage des pannes du circuit de l'embrayage du compresseur de la climatisation";this.Name="SMG6E3AG10100012012FAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(25,33,13,0,"'Arial','sans-serif'",0,"<b>DOUILLE 4P DU RELAIS D'EMBRAYAGE DU COMPRESSEUR DE CLIM.</b>");}

@@ -1,0 +1,1 @@
+function ISDA3A00S0ADRCAT020000GD01(){var i=0;this.Title=" Erforderliche Spezialwerkzeuge";this.Name="SDA3A00S0ADRCAT020000GD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

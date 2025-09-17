@@ -1,0 +1,1 @@
+function ISMG6E30A14400049401FEGD01(){var i=0;this.Title="Kühler- und A/C-Kondensatorlüftermotor Test";this.Name="SMG6E30A14400049401FEGD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(276,35,13,0,"'Arial','sans-serif'",0,"<b></b>Anschlussseite der <br>Steckeranschlüsse (männlich)");}

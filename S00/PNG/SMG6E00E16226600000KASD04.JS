@@ -1,0 +1,1 @@
+function ISMG6E00E16226600000KASD04(){var i=0;this.Title="Extracción del palier";this.Name="SMG6E00E16226600000KASD04";this.Width=475;this.Height=417;this.CallOut=new Array;}

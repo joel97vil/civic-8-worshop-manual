@@ -1,0 +1,1 @@
+function ISMG6E00J16166221301KBFD02(){var i=0;this.Title="Remplacement de la poignée extérieure de la porte arrière";this.Name="SMG6E00J16166221301KBFD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(59,333,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(69,72,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

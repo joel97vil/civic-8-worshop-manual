@@ -1,0 +1,1 @@
+function ISMG6E30E34150719632KBFD02(){var i=0;this.Title="Remplacement du joint d'étanchéité du différentiel T/M";this.Name="SMG6E30E34150719632KBFD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(162,361,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(389,143,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

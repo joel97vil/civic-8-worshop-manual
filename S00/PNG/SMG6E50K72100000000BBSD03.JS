@@ -1,0 +1,1 @@
+function ISMG6E50K72100000000BBSD03(){var i=0;this.Title=" Cómo efectuar la localización de averías en los conectores del ECM";this.Name="SMG6E50K72100000000BBSD03";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(210,434,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50A46500025001FHDD02(){var i=0;this.Title="Testen/vervangen contactschakelaar";this.Name="SMG6E50A46500025001FHDD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(309,234,13,0,"'Arial','sans-serif'",0,"<b></b>Contactzijde van<br>mannelijke aansluitingen");}

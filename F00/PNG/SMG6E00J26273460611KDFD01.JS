@@ -1,0 +1,1 @@
+function ISMG6E00J26273460611KDFD01(){var i=0;this.Title="Dépose/repose de la garniture intérieure - Zone latérale arrière";this.Name="SMG6E00J26273460611KDFD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(379,140,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

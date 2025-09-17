@@ -1,0 +1,1 @@
+function ISMG6E30A14600000000KCFD06(){var i=0;this.Title="Pose de la culasse";this.Name="SMG6E30A14600000000KCFD06";this.Width=475;this.Height=353;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function IS80WA00SGADPH7T020100FD01(){var i=0;this.Title=" Outillage spécial nécessaire";this.Name="S80WA00SGADPH7T020100FD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

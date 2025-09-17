@@ -1,0 +1,1 @@
+function ISMG6E30A14400059301KBFD03(){var i=0;this.Title=" Pose";this.Name="SMG6E30A14400059301KBFD03";this.Width=475;this.Height=256;this.CallOut=new Array;this.CallOut[i++]=FS4(401,220,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

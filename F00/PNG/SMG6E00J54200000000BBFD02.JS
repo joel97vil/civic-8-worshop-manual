@@ -1,0 +1,1 @@
+function ISMG6E00J54200000000BBFD02(){var i=0;this.Title=" Manipulation des connecteurs";this.Name="SMG6E00J54200000000BBFD02";this.Width=475;this.Height=327;this.CallOut=new Array;this.CallOut[i++]=FS4(270,300,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

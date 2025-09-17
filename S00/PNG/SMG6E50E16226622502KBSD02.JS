@@ -1,0 +1,1 @@
+function ISMG6E50E16226622502KBSD02(){var i=0;this.Title="Sustitución del amortiguador dinámico del palier";this.Name="SMG6E50E16226622502KBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

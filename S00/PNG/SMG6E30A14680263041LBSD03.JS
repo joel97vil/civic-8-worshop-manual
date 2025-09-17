@@ -1,0 +1,1 @@
+function ISMG6E30A14680263041LBSD03(){var i=0;this.Title="Reacondicionamiento de los asientos de las válvulas de la culata";this.Name="SMG6E30A14680263041LBSD03";this.Width=475;this.Height=288;this.CallOut=new Array;this.CallOut[i++]=FS4(74,110,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(214,226,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00G10500016711KDSD01(){var i=0;this.Title="Desmontaje y Montaje de la unidad de control del climatizador/Interruptor de la luneta trasera térmica";this.Name="SMG6E00G10500016711KDSD01";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(383,113,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

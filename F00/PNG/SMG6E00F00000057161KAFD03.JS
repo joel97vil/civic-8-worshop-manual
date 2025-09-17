@@ -1,0 +1,1 @@
+function ISMG6E00F00000057161KAFD03(){var i=0;this.Title="Dépose du volant de direction";this.Name="SMG6E00F00000057161KAFD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

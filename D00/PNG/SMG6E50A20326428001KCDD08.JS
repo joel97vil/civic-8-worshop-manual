@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001KCDD08(){var i=0;this.Title=" Aansluiting op nieuwe brandstofleiding";this.Name="SMG6E50A20326428001KCDD08";this.Width=475;this.Height=369;this.CallOut=new Array;}

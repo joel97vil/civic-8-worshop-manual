@@ -1,0 +1,1 @@
+function ISMG6E50E34116300000KBSD07(){var i=0;this.Title=" Desmontaje del plato de presión y del disco de embrague";this.Name="SMG6E50E34116300000KBSD07";this.Width=475;this.Height=369;this.CallOut=new Array;}

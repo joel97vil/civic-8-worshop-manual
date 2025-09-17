@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDDD31(){var i=0;this.Title="Chassis aan voorzijkant / inbouwen draagbalk";this.Name="SMG6E00R31100000000YDDD31";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(401,261,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(24,144,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

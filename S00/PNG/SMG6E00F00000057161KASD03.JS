@@ -1,0 +1,1 @@
+function ISMG6E00F00000057161KASD03(){var i=0;this.Title="Extracción del volante de la dirección";this.Name="SMG6E00F00000057161KASD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

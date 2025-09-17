@@ -1,0 +1,1 @@
+function ISMG6E30E34150100000LDDD06(){var i=0;this.Title="M/T eenheid Monteren";this.Name="SMG6E30E34150100000LDDD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(359,288,12,0,"'Arial','sans-serif'",0,"<b>Vloeibare pakking</b>");}

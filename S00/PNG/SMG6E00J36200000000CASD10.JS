@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CASD10(){var i=0;this.Title=" Entradas y salidas de la unidad de navegación para el conector C (8P)";this.Name="SMG6E00J36200000000CASD10";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(371,273,12,0,"'Arial','sans-serif'",0,"<b></b>Lado del cable de los terminales hembra");}

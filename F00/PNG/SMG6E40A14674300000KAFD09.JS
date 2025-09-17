@@ -1,0 +1,1 @@
+function ISMG6E40A14674300000KAFD09(){var i=0;this.Title="Dépose de la chaîne de came";this.Name="SMG6E40A14674300000KAFD09";this.Width=475;this.Height=353;this.CallOut=new Array;}

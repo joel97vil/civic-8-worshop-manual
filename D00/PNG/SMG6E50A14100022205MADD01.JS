@@ -1,0 +1,1 @@
+function ISMG6E50A14100022205MADD01(){var i=0;this.Title="Aandrijfriem zelfspanner inspecteren";this.Name="SMG6E50A14100022205MADD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(432,108,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

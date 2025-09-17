@@ -1,0 +1,1 @@
+function ISMG6E30A18316617519KBFD01(){var i=0;this.Title="Remplacement du plateau d&rsquo;impulsions CKP";this.Name="SMG6E30A18316617519KBFD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(100,214,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000LCSD08(){var i=0;this.Title="Desmontaje del conjunto M/T";this.Name="SMG6E40E34150100000LCSD08";this.Width=475;this.Height=369;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E50E16226600000LDGD05(){var i=0;this.Title=" Am Innengelenk (differentialseitig)";this.Name="SMG6E50E16226600000LDGD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(204,48,13,0,"'Arial','sans-serif'",0,"<b></b>Gelenkfett verwenden, das <br>im Innengelenkmanschettensatz enthalten ist.");}

@@ -1,0 +1,1 @@
+function ISMG6E00J12100000000CASD03(){var i=0;this.Title=" Comprobación del error &lsquo;&lsquo;Pérdida de comunicación&quot; en la red";this.Name="SMG6E00J12100000000CASD03";this.Width=950;this.Height=191;this.CallOut=new Array;this.CallOut[i++]=FS4(410,16,12,0,"'Arial','sans-serif'",0,"<b>Ejemplo: Error 1</b>");}

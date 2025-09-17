@@ -1,0 +1,1 @@
+function ISMG6E30A20336359401LBFD01(){var i=0;this.Title="Nettoyage du corps du papillon";this.Name="SMG6E30A20336359401LBFD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(133,145,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(314,165,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

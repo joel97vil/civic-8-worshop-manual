@@ -1,0 +1,1 @@
+function ISMG6E00J32133100000MBDD04(){var i=0;this.Title="Koplampafstelling";this.Name="SMG6E00J32133100000MBDD04";this.Width=475;this.Height=449;this.CallOut=new Array;}

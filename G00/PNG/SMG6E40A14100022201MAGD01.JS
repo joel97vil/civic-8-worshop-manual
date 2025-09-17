@@ -1,0 +1,1 @@
+function ISMG6E40A14100022201MAGD01(){var i=0;this.Title="Keilriemen überprüfen";this.Name="SMG6E40A14100022201MAGD01";this.Width=475;this.Height=545;this.CallOut=new Array;this.CallOut[i++]=FS4(318,181,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(261,39,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

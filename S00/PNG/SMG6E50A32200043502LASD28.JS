@@ -1,0 +1,1 @@
+function ISMG6E50A32200043502LASD28(){var i=0;this.Title=" Montaje de la bomba de aceite";this.Name="SMG6E50A32200043502LASD28";this.Width=475;this.Height=353;this.CallOut=new Array;}

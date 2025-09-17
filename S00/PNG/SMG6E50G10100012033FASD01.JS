@@ -1,0 +1,1 @@
+function ISMG6E50G10100012033FASD01(){var i=0;this.Title="Localización de averías del circuito de la velocidad rápida del ventilador del condensador del A/C";this.Name="SMG6E50G10100012033FASD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(66,27,13,0,"'Arial','sans-serif'",0,"<b>ENCHUFE 5P DEL RELÉ DE CONTROL DE LOS VENTILADORES</b>");}

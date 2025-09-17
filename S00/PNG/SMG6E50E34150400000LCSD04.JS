@@ -1,0 +1,1 @@
+function ISMG6E50E34150400000LCSD04(){var i=0;this.Title="Desmontaje del eje principal de la M/T";this.Name="SMG6E50E34150400000LCSD04";this.Width=475;this.Height=320;this.CallOut=new Array;}

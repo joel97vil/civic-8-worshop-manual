@@ -1,0 +1,1 @@
+function ISMG6E40A18360200000KCSD03(){var i=0;this.Title=" Si ya está montado el cigüeñal";this.Name="SMG6E40A18360200000KCSD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(329,64,13,0,"'Arial','sans-serif'",0,"<b>90 &deg;</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDDD76(){var i=0;this.Title="Inbouwen vloer achter / kruisbalk vloer achter";this.Name="SMG6E00R31100000000YDDD76";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(123,243,13,0,"'Arial','sans-serif'",0,"<b>C</b>");this.CallOut[i++]=FS4(166,300,13,0,"'Arial','sans-serif'",0,"<b>E</b>");}

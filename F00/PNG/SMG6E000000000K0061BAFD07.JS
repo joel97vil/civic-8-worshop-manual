@@ -1,0 +1,1 @@
+function ISMG6E000000000K0061BAFD07(){var i=0;this.Title=" Généralités";this.Name="SMG6E000000000K0061BAFD07";this.Width=475;this.Height=320;this.CallOut=new Array;}

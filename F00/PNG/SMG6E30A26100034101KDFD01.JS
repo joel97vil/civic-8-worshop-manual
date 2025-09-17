@@ -1,0 +1,1 @@
+function ISMG6E30A26100034101KDFD01(){var i=0;this.Title="Dépose/repose des bobines d'allumage";this.Name="SMG6E30A26100034101KDFD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(13,17,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>9,8 N&middot;m <br>(1,0 kgf&middot;m)</b>");}

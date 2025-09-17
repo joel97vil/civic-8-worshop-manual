@@ -1,0 +1,1 @@
+function ISMG6E50A18316617502KBSD01(){var i=0;this.Title=" Verificación de la holgura de los cojinetes de bancada";this.Name="SMG6E50A18316617502KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

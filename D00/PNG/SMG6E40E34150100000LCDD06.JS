@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000LCDD06(){var i=0;this.Title="M/T eenheid Demonteren";this.Name="SMG6E40E34150100000LCDD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(18,301,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(265,325,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

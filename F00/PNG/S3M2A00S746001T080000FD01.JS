@@ -1,0 +1,1 @@
+function IS3M2A00S746001T080000FD01(){var i=0;this.Title=" Outillage spécial nécessaire";this.Name="S3M2A00S746001T080000FD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

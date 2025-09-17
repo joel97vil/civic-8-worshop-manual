@@ -1,0 +1,1 @@
+function ISMG6E00J32133100000FAFD01(){var i=0;this.Title="Diagnostic de lampe HID";this.Name="SMG6E00J32133100000FAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(66,17,13,0,"'Arial','sans-serif'",0,"<b>Décoloration noire</b>");this.CallOut[i++]=FS4(278,17,13,0,"'Arial','sans-serif'",0,"<b>Transformation</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A46500025001FHGD02(){var i=0;this.Title="Motoranlasserschalter Test / Austausch";this.Name="SMG6E30A46500025001FHGD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(270,233,13,0,"'Arial','sans-serif'",0,"<b></b>Anschlussseite der <br>Steckeranschlüsse (männlich)");}

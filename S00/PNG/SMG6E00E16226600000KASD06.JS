@@ -1,0 +1,1 @@
+function ISMG6E00E16226600000KASD06(){var i=0;this.Title=" Palier izquierdo de la caja de cambios manual SPHM";this.Name="SMG6E00E16226600000KASD06";this.Width=475;this.Height=320;this.CallOut=new Array;}

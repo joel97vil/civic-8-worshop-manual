@@ -1,0 +1,1 @@
+function ISMG6E3AD14300014701MAFD03(){var i=0;this.Title=" Essai de fonctionnement";this.Name="SMG6E3AD14300014701MAFD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(311,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

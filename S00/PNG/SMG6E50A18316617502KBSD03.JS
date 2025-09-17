@@ -1,0 +1,1 @@
+function ISMG6E50A18316617502KBSD03(){var i=0;this.Title=" Situación de los códigos de los apoyos de bancada";this.Name="SMG6E50A18316617502KBSD03";this.Width=475;this.Height=304;this.CallOut=new Array;}

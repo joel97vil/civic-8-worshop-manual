@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDFD80(){var i=0;this.Title="Pose de plancher arrière / traverse de plancher arrière";this.Name="SMG6E00R31100000000YDFD80";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(400,317,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

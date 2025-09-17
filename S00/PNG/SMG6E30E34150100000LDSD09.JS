@@ -1,0 +1,1 @@
+function ISMG6E30E34150100000LDSD09(){var i=0;this.Title="Montaje del conjunto de la M/T";this.Name="SMG6E30E34150100000LDSD09";this.Width=475;this.Height=369;this.CallOut=new Array;}

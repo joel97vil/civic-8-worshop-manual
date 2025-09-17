@@ -1,0 +1,1 @@
+function ISMG6E50A14400031452KBFD02(){var i=0;this.Title="Remplacement de couvercle de bouche du réchauffeur";this.Name="SMG6E50A14400031452KBFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(46,262,13,0,"'Arial','sans-serif'",0,"<b></b>Appliquer du liquide d'étanchéité<br> le long de la ligne<br> en pointillés.");}

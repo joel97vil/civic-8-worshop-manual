@@ -1,0 +1,1 @@
+function ISMG6E3AE34116317043KBDD02(){var i=0;this.Title="Vervangen koppelingspedaalbedekking";this.Name="SMG6E3AE34116317043KBDD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(151,267,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(68,167,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

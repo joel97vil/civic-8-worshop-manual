@@ -1,0 +1,1 @@
+function ISMG6E50A18316600000MAFD02(){var i=0;this.Title=" Alignement";this.Name="SMG6E50A18316600000MAFD02";this.Width=475;this.Height=417;this.CallOut=new Array;}

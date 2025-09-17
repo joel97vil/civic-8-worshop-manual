@@ -1,0 +1,1 @@
+function ISMG6E40A18300043401KCGD01(){var i=0;this.Title="Motorölwanne einbauen";this.Name="SMG6E40A18300043401KCGD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(137,271,13,0,"'Arial','sans-serif'",0,"<b></b>Entlang der gestrichelten<br>Linie Flüssigdichtung auftragen.");}

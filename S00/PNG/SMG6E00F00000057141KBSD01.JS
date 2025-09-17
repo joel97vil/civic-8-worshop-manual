@@ -1,0 +1,1 @@
+function ISMG6E00F00000057141KBSD01(){var i=0;this.Title="Sustitución del bloqueo de la dirección";this.Name="SMG6E00F00000057141KBSD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E50A18224059806KBSD02(){var i=0;this.Title="Sustitución de la fijación de la caja de cambios";this.Name="SMG6E50A18224059806KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(429,175,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

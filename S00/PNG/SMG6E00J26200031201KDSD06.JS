@@ -1,0 +1,1 @@
+function ISMG6E00J26200031201KDSD06(){var i=0;this.Title="Desmontaje/Montaje del forro de techo";this.Name="SMG6E00J26200031201KDSD06";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(24,100,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

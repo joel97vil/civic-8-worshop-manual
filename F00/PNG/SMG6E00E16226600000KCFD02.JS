@@ -1,0 +1,1 @@
+function ISMG6E00E16226600000KCFD02(){var i=0;this.Title="Pose d'arbre de transmission";this.Name="SMG6E00E16226600000KCFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(76,290,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(46,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E40K72100000000BBFD15(){var i=0;this.Title=" Comment diagnostiquer les circuits à l'ECM";this.Name="SMG6E40K72100000000BBFD15";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(219,232,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

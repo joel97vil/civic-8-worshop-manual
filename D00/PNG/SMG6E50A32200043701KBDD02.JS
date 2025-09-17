@@ -1,0 +1,1 @@
+function ISMG6E50A32200043701KBDD02(){var i=0;this.Title="Motorolie vervangen";this.Name="SMG6E50A32200043701KBDD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(39,308,13,0,"'Arial','sans-serif'",0,"<b>A<br>39 N&middot;m (4,0 kgf&middot;m)<br></b>Niet te vast aandraaien.");this.CallOut[i++]=FS4(269,308,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

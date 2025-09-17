@@ -1,0 +1,1 @@
+function ISMG6E40A18316617502KBSD03(){var i=0;this.Title=" Situación de los códigos de los apoyos de bancada";this.Name="SMG6E40A18316617502KBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(33,292,13,0,"'Arial','sans-serif'",0,"<b>APOYO N&ordm; 5</b>");this.CallOut[i++]=FS4(331,290,13,0,"'Arial','sans-serif'",0,"<b>APOYO N&ordm; 1</b>");}

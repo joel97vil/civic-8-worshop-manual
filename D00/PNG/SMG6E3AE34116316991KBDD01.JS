@@ -1,0 +1,1 @@
+function ISMG6E3AE34116316991KBDD01(){var i=0;this.Title="Vervangen van koppelingsdemper";this.Name="SMG6E3AE34116316991KBDD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(356,242,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(69,186,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

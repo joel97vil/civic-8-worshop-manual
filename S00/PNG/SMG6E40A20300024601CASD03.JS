@@ -1,0 +1,1 @@
+function ISMG6E40A20300024601CASD03(){var i=0;this.Title=" Señales de entrada y de salida en el Connector A (&#168;) (44P) del ECM";this.Name="SMG6E40A20300024601CASD03";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(356,288,12,0,"'Arial','sans-serif'",0,"<b></b>Lado del terminal de los terminales hembra");}

@@ -1,0 +1,1 @@
+function ISMG6E50R11100000000YCFD10(){var i=0;this.Title=" Moteur H22A2";this.Name="SMG6E50R11100000000YCFD10";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(296,516,13,0,"'Arial','sans-serif'",0,"<b>Numéro de transmission<br>(Manuelle)</b>");this.CallOut[i++]=FS4(55,495,13,0,"'Arial','sans-serif'",0,"<b>Numéro du moteur</b>");}

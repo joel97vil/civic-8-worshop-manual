@@ -1,0 +1,1 @@
+function ISMG6E40A14100022205KDGD01(){var i=0;this.Title="Automatischer Antriebsriemenspanner Ausbau / Einbau";this.Name="SMG6E40A14100022205KDGD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

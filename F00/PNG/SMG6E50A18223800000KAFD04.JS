@@ -1,0 +1,1 @@
+function ISMG6E50A18223800000KAFD04(){var i=0;this.Title="Dépose du moteur";this.Name="SMG6E50A18223800000KAFD04";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(58,435,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(401,15,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

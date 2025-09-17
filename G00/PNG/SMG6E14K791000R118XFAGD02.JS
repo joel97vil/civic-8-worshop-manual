@@ -1,0 +1,1 @@
+function ISMG6E14K791000R118XFAGD02(){var i=0;this.Title="DTC-Fehlersuche: 11-8x";this.Name="SMG6E14K791000R118XFAGD02";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>4P-STECKER DES<br>KOMBISCHALTER-KABELBAUMS</b>");this.CallOut[i++]=FS4(103,187,13,0,"'Arial','sans-serif'",0,"<b>070AZ-SNA0200</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50A14680263041LBGD01(){var i=0;this.Title="Zylinderkopf, Ventilsitz Nacharbeiten";this.Name="SMG6E50A14680263041LBGD01";this.Width=475;this.Height=304;this.CallOut=new Array;}

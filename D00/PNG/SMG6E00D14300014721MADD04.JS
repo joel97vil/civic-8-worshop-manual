@@ -1,0 +1,1 @@
+function ISMG6E00D14300014721MADD04(){var i=0;this.Title=" Dikte en parallelliteit";this.Name="SMG6E00D14300014721MADD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(275,58,13,0,"'Arial','sans-serif'",0,"<b>9 mm </b>");}

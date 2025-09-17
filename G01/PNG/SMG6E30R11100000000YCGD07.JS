@@ -1,0 +1,1 @@
+function ISMG6E30R11100000000YCGD07(){var i=0;this.Title=" Motormodell L13A7";this.Name="SMG6E30R11100000000YCGD07";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(296,516,13,0,"'Arial','sans-serif'",0,"<b>Getriebenummer<br>(Schaltgetriebe)</b>");this.CallOut[i++]=FS4(65,516,13,0,"'Arial','sans-serif'",0,"<b>Motornummer</b>");}

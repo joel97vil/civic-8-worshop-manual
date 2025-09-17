@@ -1,0 +1,1 @@
+function ISMG6E3AE16226600000LDDD10(){var i=0;this.Title=" Binnenste koppeling zijkant";this.Name="SMG6E3AE16226600000LDDD10";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(425,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(441,66,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

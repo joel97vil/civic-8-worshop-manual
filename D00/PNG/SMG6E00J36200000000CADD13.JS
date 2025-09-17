@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CADD13(){var i=0;this.Title=" Navigatie display Ingangs- en uitgangsaansluitingen voor stekker (20-pins)";this.Name="SMG6E00J36200000000CADD13";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(372,274,12,0,"'Arial','sans-serif'",0,"<b></b>Draadzijde van vrouwelijke aansluitingen");}

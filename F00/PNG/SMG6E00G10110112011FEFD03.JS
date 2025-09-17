@@ -1,0 +1,1 @@
+function ISMG6E00G10110112011FEFD03(){var i=0;this.Title="Contrôle d'embrayage du compresseur de la climatisation";this.Name="SMG6E00G10110112011FEFD03";this.Width=475;this.Height=417;this.CallOut=new Array;}

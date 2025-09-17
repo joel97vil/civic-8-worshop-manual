@@ -1,0 +1,1 @@
+function ISMG6E00J54460647103FEGD01(){var i=0;this.Title=" Elektromotor Test";this.Name="SMG6E00J54460647103FEGD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(322,273,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

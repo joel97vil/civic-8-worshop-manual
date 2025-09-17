@@ -1,0 +1,1 @@
+function ISMG6E40R11100000000YCDD04(){var i=0;this.Title=" Modellen met R18A2 motor";this.Name="SMG6E40R11100000000YCDD04";this.Width=475;this.Height=577;this.CallOut=new Array;this.CallOut[i++]=FS4(20,535,13,0,"'Arial','sans-serif'",0,"<b>Motornummer</b>");this.CallOut[i++]=FS4(254,530,13,0,"'Arial','sans-serif'",0,"<b>Transmissienummer<br>(Handgeschakeld)</b>");}

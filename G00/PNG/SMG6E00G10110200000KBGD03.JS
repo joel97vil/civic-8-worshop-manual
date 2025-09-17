@@ -1,0 +1,1 @@
+function ISMG6E00G10110200000KBGD03(){var i=0;this.Title="Klimaanlagenkondensator austauschen";this.Name="SMG6E00G10110200000KBGD03";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(372,323,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>9,8 N&middot;m <br>(1,0 kgf&middot;m)</b>");this.CallOut[i++]=FS4(17,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

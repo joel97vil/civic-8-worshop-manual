@@ -1,0 +1,1 @@
+function ISMG6E40A14680263001MADD01(){var i=0;this.Title="Speling tussen cilinderkopklepsteel en -geleider inspecteren";this.Name="SMG6E40A14680263001MADD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

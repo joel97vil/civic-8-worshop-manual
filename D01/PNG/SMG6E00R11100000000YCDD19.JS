@@ -1,0 +1,1 @@
+function ISMG6E00R11100000000YCDD19(){var i=0;this.Title="Reparatie van verzinkte stalen platen";this.Name="SMG6E00R11100000000YCDD19";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(664,152,12,0,"'Arial','sans-serif'",0,"<b>STAALPLAAT</b>");this.CallOut[i++]=FS4(176,82,12,0,"'Arial','sans-serif'",0,"<b>ZINKLAAG (5-6 micron)</b>");}

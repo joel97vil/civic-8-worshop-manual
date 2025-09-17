@@ -1,0 +1,1 @@
+function ISMG6E40A20336134053MASD01(){var i=0;this.Title="Comprobación de la velocidad de ralentí";this.Name="SMG6E40A20336134053MASD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(39,304,13,0,"'Arial','sans-serif'",0,"<b></b>*: Esta ilustración muestra el modelo RHD.");}

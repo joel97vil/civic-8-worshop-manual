@@ -1,0 +1,1 @@
+function ISMG6E40A14500017045FEFD01(){var i=0;this.Title="Essai de contacteur de position de la pédale d'embrayage";this.Name="SMG6E40A14500017045FEFD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(310,141,13,0,"'Arial','sans-serif'",0,"<b></b>Côté bornes <br>des bornes mâles");}

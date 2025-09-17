@@ -1,0 +1,1 @@
+function ISMG6E00J16126720361KBSD02(){var i=0;this.Title="Sustitución del burlete exterior de la luna de la puerta delantera";this.Name="SMG6E00J16126720361KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(299,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(220,333,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

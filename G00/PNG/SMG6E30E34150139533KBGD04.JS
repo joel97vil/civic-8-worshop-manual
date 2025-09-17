@@ -1,0 +1,1 @@
+function ISMG6E30E34150139533KBGD04(){var i=0;this.Title="M/T-Kupplungsgehäuse, Hauptwellenlager und Öldichtung Austausch";this.Name="SMG6E30E34150139533KBGD04";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(297,76,13,0,"'Arial','sans-serif'",0,"<b>07749-0010000</b>");this.CallOut[i++]=FS4(39,142,13,0,"'Arial','sans-serif'",0,"<b>07749-0010400</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J54400025711KBDD02(){var i=0;this.Title="Vervangen achterraampje";this.Name="SMG6E00J54400025711KBDD02";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>Plaatsen van bevestigers</b>");this.CallOut[i++]=FS4(58,42,13,0,"'Arial','sans-serif'",0,"<b>: Schroef, 2</b>");}

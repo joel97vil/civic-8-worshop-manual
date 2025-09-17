@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001KCGD02(){var i=0;this.Title="Kraftstoffleitung/Schnellkupplung Einbau";this.Name="SMG6E50A20326428001KCGD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(320,86,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(434,170,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

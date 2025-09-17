@@ -1,0 +1,1 @@
+function ISMG6E00J54283222102DBGD02(){var i=0;this.Title="Türkabelbäume hinten rechts und links Anordnung";this.Name="SMG6E00J54283222102DBGD02";this.Width=950;this.Height=543;this.CallOut=new Array;this.CallOut[i++]=FS4(372,512,12,0,"'Arial','sans-serif'",0,"<b>KABELBAUM LINKE HINTERE TÜR</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A18300043401KCSD02(){var i=0;this.Title="Montaje del cárter de aceite del motor";this.Name="SMG6E30A18300043401KCSD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(347,317,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(455,199,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000BBDD06(){var i=0;this.Title=" Monitorcontrole";this.Name="SMG6E00J36200000000BBDD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(137,77,15,0,"'Arial','sans-serif'",0,"<b>Witraster  </b>");this.CallOut[i++]=FS4(341,76,14,0,"'Arial','sans-serif'",0,"<b>Terug</b>");}

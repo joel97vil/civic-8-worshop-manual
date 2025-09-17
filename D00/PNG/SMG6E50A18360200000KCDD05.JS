@@ -1,0 +1,1 @@
+function ISMG6E50A18360200000KCDD05(){var i=0;this.Title=" Voer de volgende stappen uit als de krukas nog niet is gemonteerd";this.Name="SMG6E50A18360200000KCDD05";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(354,14,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(105,71,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

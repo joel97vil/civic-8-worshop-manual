@@ -1,0 +1,1 @@
+function ISMG6E50A32200043502LAFD05(){var i=0;this.Title=" Dépose de la pompe à huile";this.Name="SMG6E50A32200043502LAFD05";this.Width=475;this.Height=336;this.CallOut=new Array;}

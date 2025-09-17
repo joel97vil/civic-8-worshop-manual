@@ -1,0 +1,1 @@
+function ISMG6E40A18223800000KASD17(){var i=0;this.Title="Desmontaje del motor";this.Name="SMG6E40A18223800000KASD17";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(102,367,13,0,"'Arial','sans-serif'",0,"<b></b>Sustituir.");this.CallOut[i++]=FS4(348,366,13,0,"'Arial','sans-serif'",0,"<b></b>Sustituir.");}

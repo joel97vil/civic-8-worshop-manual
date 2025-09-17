@@ -1,0 +1,1 @@
+function ISMG6E40A14400059301FEFD01(){var i=0;this.Title="Essai du thermostat";this.Name="SMG6E40A14400059301FEFD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(371,181,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(318,24,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

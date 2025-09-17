@@ -1,0 +1,1 @@
+function ISMG6E50A1822402490AKBSD05(){var i=0;this.Title="Sustitución del soporte superior de fijación lateral del motor";this.Name="SMG6E50A1822402490AKBSD05";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(429,175,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

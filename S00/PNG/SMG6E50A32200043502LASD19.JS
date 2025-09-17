@@ -1,0 +1,1 @@
+function ISMG6E50A32200043502LASD19(){var i=0;this.Title=" Inspección de los ejes de compensación";this.Name="SMG6E50A32200043502LASD19";this.Width=475;this.Height=369;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E00G10110112011FESD03(){var i=0;this.Title="Comprobación del embrague del compresor del A/C";this.Name="SMG6E00G10110112011FESD03";this.Width=475;this.Height=417;this.CallOut=new Array;}

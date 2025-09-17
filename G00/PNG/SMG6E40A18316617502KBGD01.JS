@@ -1,0 +1,1 @@
+function ISMG6E40A18316617502KBGD01(){var i=0;this.Title=" Hauptlagerspiel Inspektion";this.Name="SMG6E40A18316617502KBGD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

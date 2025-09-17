@@ -1,0 +1,1 @@
+function ISMG6E50A14400065081KBGD02(){var i=0;this.Title="Wasserauslass austauschen";this.Name="SMG6E50A14400065081KBGD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(297,254,13,0,"'Arial','sans-serif'",0,"<b></b>Entlang der gestrichelten<br>Linie Flüssigdichtung<br> auftragen.");}

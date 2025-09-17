@@ -1,0 +1,1 @@
+function ISMG6E40A20326400000BAGD05(){var i=0;this.Title=" Ohne das HDS";this.Name="SMG6E40A20326400000BAGD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(334,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

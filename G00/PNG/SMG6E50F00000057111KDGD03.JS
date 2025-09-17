@@ -1,0 +1,1 @@
+function ISMG6E50F00000057111KDGD03(){var i=0;this.Title=" Ausbau";this.Name="SMG6E50F00000057111KDGD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(227,26,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

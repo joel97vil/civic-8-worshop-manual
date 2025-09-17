@@ -1,0 +1,1 @@
+function ISMG6E50A14100012901LAFD14(){var i=0;this.Title=" Remontage de l'alternateur";this.Name="SMG6E50A14100012901LAFD14";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(392,154,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(239,272,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

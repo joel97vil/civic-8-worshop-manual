@@ -1,0 +1,1 @@
+function ISMG6E3AE34116317031KBSD02(){var i=0;this.Title="Sustitución del cilindro maestro de embrague";this.Name="SMG6E3AE34116317031KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(39,85,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(414,120,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

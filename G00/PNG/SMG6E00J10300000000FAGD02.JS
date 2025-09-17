@@ -1,0 +1,1 @@
+function ISMG6E00J10300000000FAGD02(){var i=0;this.Title=" Schwacher oder gestörter AM/FM-Radioempfang";this.Name="SMG6E00J10300000000FAGD02";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(384,14,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

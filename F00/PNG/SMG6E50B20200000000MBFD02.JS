@@ -1,0 +1,1 @@
+function ISMG6E50B20200000000MBFD02(){var i=0;this.Title=" Contrôle de la chasse avant";this.Name="SMG6E50B20200000000MBFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(328,86,13,0,"'Arial','sans-serif'",0,"<b>A<br>07MGK-0010100</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00E16226600000KAFD04(){var i=0;this.Title="Dépose d'arbre de transmission";this.Name="SMG6E00E16226600000KAFD04";this.Width=475;this.Height=417;this.CallOut=new Array;}

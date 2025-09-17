@@ -1,0 +1,1 @@
+function ISMG6E50A18300024751MADD01(){var i=0;this.Title="Motorblok en zuiger controleren";this.Name="SMG6E50A18300024751MADD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(234,31,13,0,"'Arial','sans-serif'",0,"<b>MANTELDIAMETER</b>");this.CallOut[i++]=FS4(52,49,13,0,"'Arial','sans-serif'",0,"<b>14 mm</b>");}

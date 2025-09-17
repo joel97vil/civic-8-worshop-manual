@@ -1,0 +1,1 @@
+function ISMG6E00J36200040151KDSD01(){var i=0;this.Title="Extracción/Instalación del micrófono del sistema de navegación";this.Name="SMG6E00J36200040151KDSD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(32,133,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

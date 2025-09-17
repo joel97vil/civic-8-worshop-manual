@@ -1,0 +1,1 @@
+function ISMG6E50A14600000000KCGD12(){var i=0;this.Title="Zylinderkopf einbauen";this.Name="SMG6E50A14600000000KCGD12";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(49,16,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>12 N&middot;m (1,2 kgf&middot;m)</b>");}

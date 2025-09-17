@@ -1,0 +1,1 @@
+function ISMG6E50A20326400000CADD09(){var i=0;this.Title=" Standsensor van de turbineregeling inlaatspruitstuk (IMRC)";this.Name="SMG6E50A20326400000CADD09";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(377,230,13,0,"'Arial','sans-serif'",0,"<b>KLEP</b>");this.CallOut[i++]=FS4(393,17,13,0,"'Arial','sans-serif'",0,"<b>IMRC<br>STAND-<br>SENSOR</b>");}

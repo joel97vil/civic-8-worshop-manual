@@ -1,0 +1,1 @@
+function ISMG6E50A18316217201KBSD01(){var i=0;this.Title=" Verificación de la holgura de los cojinetes de biela";this.Name="SMG6E50A18316217201KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

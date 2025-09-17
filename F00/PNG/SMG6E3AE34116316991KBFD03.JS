@@ -1,0 +1,1 @@
+function ISMG6E3AE34116316991KBFD03(){var i=0;this.Title="Remplacement de l'amortisseur d'embrayage";this.Name="SMG6E3AE34116316991KBFD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(404,215,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(377,90,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

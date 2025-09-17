@@ -1,0 +1,1 @@
+function ISMG6E00H46400055413KBDD02(){var i=0;this.Title=" Aanbrengen";this.Name="SMG6E00H46400055413KBDD02";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(79,42,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(374,233,13,0,"'Arial','sans-serif'",0,"<b>A<br>9,8 N&middot;m <br>(1,0 kgf&middot;m)</b>");}

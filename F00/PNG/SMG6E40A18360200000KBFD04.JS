@@ -1,0 +1,1 @@
+function ISMG6E40A18360200000KBFD04(){var i=0;this.Title=" Examen";this.Name="SMG6E40A18360200000KBFD04";this.Width=475;this.Height=304;this.CallOut=new Array;}

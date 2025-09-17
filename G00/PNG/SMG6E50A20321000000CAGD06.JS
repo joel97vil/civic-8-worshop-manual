@@ -1,0 +1,1 @@
+function ISMG6E50A20321000000CAGD06(){var i=0;this.Title=" Luftmassensensor (MAF) / IAT-Sensor (Ansauglufttemperatur) 1";this.Name="SMG6E50A20321000000CAGD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(85,313,13,0,"'Arial','sans-serif'",0,"<b>HITZDRAHT</b>");this.CallOut[i++]=FS4(258,313,13,0,"'Arial','sans-serif'",0,"<b>IAT-SENSOR 1</b>");}

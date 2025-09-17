@@ -1,0 +1,1 @@
+function ISMG6E00K73200000000BBDD02(){var i=0;this.Title=" Controle van de LCD-segmenten";this.Name="SMG6E00K73200000000BBDD02";this.Width=950;this.Height=159;this.CallOut=new Array;}

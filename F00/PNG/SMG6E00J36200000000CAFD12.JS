@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CAFD12(){var i=0;this.Title=" Entrées et sorties de l'unité de navigation pour le connecteur E (3P)";this.Name="SMG6E00J36200000000CAFD12";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(372,273,12,0,"'Arial','sans-serif'",0,"<b></b>Côté câbles des bornes femelles");}

@@ -1,0 +1,1 @@
+function ISMG6E50A18316617502KBGD03(){var i=0;this.Title=" Hauptlagerzapfen, Position der Codes";this.Name="SMG6E50A18316617502KBGD03";this.Width=475;this.Height=304;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E00J54400020371KBDD11(){var i=0;this.Title="Vervangen ruit en ruithefmechanisme in achterportier";this.Name="SMG6E00J54400020371KBDD11";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(291,308,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(78,159,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

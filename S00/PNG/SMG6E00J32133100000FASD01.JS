@@ -1,0 +1,1 @@
+function ISMG6E00J32133100000FASD01(){var i=0;this.Title="Localización de averías del sistema de luces HID";this.Name="SMG6E00J32133100000FASD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(66,17,13,0,"'Arial','sans-serif'",0,"<b>Decoloración negra</b>");this.CallOut[i++]=FS4(278,17,13,0,"'Arial','sans-serif'",0,"<b>Transformación</b>");}

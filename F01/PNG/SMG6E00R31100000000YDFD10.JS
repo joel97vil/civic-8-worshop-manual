@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDFD10(){var i=0;this.Title="Pose de tablier avant";this.Name="SMG6E00R31100000000YDFD10";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(265,52,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(67,268,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

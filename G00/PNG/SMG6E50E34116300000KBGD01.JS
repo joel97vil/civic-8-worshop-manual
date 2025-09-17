@@ -1,0 +1,1 @@
+function ISMG6E50E34116300000KBGD01(){var i=0;this.Title=" Druckplatte und Kupplungsscheibe Ausbau";this.Name="SMG6E50E34116300000KBGD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E00J36200042495KDFD01(){var i=0;this.Title="Dépose/pose de l'écran de navigation";this.Name="SMG6E00J36200042495KDFD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(256,269,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(260,20,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

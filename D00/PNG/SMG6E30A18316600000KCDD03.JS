@@ -1,0 +1,1 @@
+function ISMG6E30A18316600000KCDD03(){var i=0;this.Title="Inbouwen krukas/olie-afdichting (transmissie-uiteinde)";this.Name="SMG6E30A18316600000KCDD03";this.Width=475;this.Height=256;this.CallOut=new Array;this.CallOut[i++]=FS4(348,226,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

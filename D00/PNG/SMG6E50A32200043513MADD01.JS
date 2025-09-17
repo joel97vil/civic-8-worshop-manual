@@ -1,0 +1,1 @@
+function ISMG6E50A32200043513MADD01(){var i=0;this.Title="Motoroliepompketting inspecteren";this.Name="SMG6E50A32200043513MADD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(280,339,13,0,"'Arial','sans-serif'",0,"<b>8,0 mm</b>");}

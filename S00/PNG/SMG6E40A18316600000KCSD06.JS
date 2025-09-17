@@ -1,0 +1,1 @@
+function ISMG6E40A18316600000KCSD06(){var i=0;this.Title="Montaje del retén de aceite del cigüeñal (Lado de la caja de cambios)";this.Name="SMG6E40A18316600000KCSD06";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(139,307,13,0,"'Arial','sans-serif'",0,"<b></b>Aplique una junta líquida<br>a lo largo de la línea discontinua.");}

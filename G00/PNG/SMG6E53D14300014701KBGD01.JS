@@ -1,0 +1,1 @@
+function ISMG6E53D14300014701KBGD01(){var i=0;this.Title=" Fahrzeug mit LHD";this.Name="SMG6E53D14300014701KBGD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(92,319,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

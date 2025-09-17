@@ -1,0 +1,1 @@
+function ISMG6E50A20326427731KDGD02(){var i=0;this.Title="Kraftstoff-Handpumpe Ausbau / Einbau";this.Name="SMG6E50A20326427731KDGD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(147,288,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

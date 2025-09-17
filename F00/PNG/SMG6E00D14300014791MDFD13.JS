@@ -1,0 +1,1 @@
+function ISMG6E00D14300014791MDFD13(){var i=0;this.Title=" Remplacement";this.Name="SMG6E00D14300014791MDFD13";this.Width=475;this.Height=369;this.CallOut=new Array;}

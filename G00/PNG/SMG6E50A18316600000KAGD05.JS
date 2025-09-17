@@ -1,0 +1,1 @@
+function ISMG6E50A18316600000KAGD05(){var i=0;this.Title="Kurbelwelle und Kolben ausbauen";this.Name="SMG6E50A18316600000KAGD05";this.Width=475;this.Height=417;this.CallOut=new Array;}

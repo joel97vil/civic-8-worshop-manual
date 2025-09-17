@@ -1,0 +1,1 @@
+function ISMG6E50A46500025001FHSD01(){var i=0;this.Title="Comprobación/Sustitución del interruptor de arranque del motor";this.Name="SMG6E50A46500025001FHSD01";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(409,449,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(37,379,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

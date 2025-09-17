@@ -1,0 +1,1 @@
+function ISMG6E40A26100000000MAGD01(){var i=0;this.Title="Zündzeitpunkt überprüfen";this.Name="SMG6E40A26100000000MAGD01";this.Width=475;this.Height=401;this.CallOut=new Array;}

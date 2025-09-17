@@ -1,0 +1,1 @@
+function ISMG6E40A20300024601CAGD06(){var i=0;this.Title=" ECM-Eingänge und -Ausgänge am Stecker C (&#161;) (44P)";this.Name="SMG6E40A20300024601CAGD06";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(356,288,12,0,"'Arial','sans-serif'",0,"<b></b>Anschluss-Seite der Steckanschlüsse (weiblich)");}

@@ -1,0 +1,1 @@
+function ISMG6E30A14616716031KAFD05(){var i=0;this.Title="Dépose du pignon d'arbre à cames";this.Name="SMG6E30A14616716031KAFD05";this.Width=475;this.Height=401;this.CallOut=new Array;}

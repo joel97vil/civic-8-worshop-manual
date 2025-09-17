@@ -1,0 +1,1 @@
+function ISMG6E3AE16226600000LDFD21(){var i=0;this.Title=" Côté joint extérieur";this.Name="SMG6E3AE16226600000LDFD21";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(387,273,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(88,308,13,0,"'Arial','sans-serif'",0,"<b></b>Utiliser la graisse de la trousse<br>de soufflet extérieur.");}

@@ -1,0 +1,1 @@
+function ISMG6E00J18573958801KBSD01(){var i=0;this.Title="Sustitución del burlete del portón trasero";this.Name="SMG6E00J18573958801KBSD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(412,216,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(324,379,13,0,"'Arial','sans-serif'",0,"<b>Delanteras</b>");}

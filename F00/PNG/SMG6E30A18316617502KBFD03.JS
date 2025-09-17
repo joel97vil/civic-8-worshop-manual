@@ -1,0 +1,1 @@
+function ISMG6E30A18316617502KBFD03(){var i=0;this.Title=" Emplacement du code de tourillon principal";this.Name="SMG6E30A18316617502KBFD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

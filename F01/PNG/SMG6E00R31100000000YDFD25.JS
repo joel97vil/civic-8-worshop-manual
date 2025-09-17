@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDFD25(){var i=0;this.Title="Passage de roue avant / logement d'amortisseur";this.Name="SMG6E00R31100000000YDFD25";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(244,259,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(181,495,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDGD24(){var i=0;this.Title="Vorderradkasten / Stoﬂd‰mpfergeh‰use Einbau";this.Name="SMG6E00R31100000000YDGD24";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(344,307,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(168,266,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A14400049401FEDD01(){var i=0;this.Title="Radiateur en A/C-condensatorventilatiemotor testen";this.Name="SMG6E30A14400049401FEDD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(276,35,13,0,"'Arial','sans-serif'",0,"<b></b>Contactzijde van<br>mannelijke aansluitingen");}

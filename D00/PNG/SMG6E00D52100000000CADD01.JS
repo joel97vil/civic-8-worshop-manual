@@ -1,0 +1,1 @@
+function ISMG6E00D52100000000CADD01(){var i=0;this.Title=" VSA-regeleenheid, invoer en uitvoer voor 46-pinsstekker";this.Name="SMG6E00D52100000000CADD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(373,273,12,0,"'Arial','sans-serif'",0,"<b></b>Draadzijde van vrouwelijke aansluitingen");}

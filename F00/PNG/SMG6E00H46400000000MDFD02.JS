@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000MDFD02(){var i=0;this.Title=" Garniture de montant central";this.Name="SMG6E00H46400000000MDFD02";this.Width=475;this.Height=481;this.CallOut=new Array;}

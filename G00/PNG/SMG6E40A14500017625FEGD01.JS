@@ -1,0 +1,1 @@
+function ISMG6E40A14500017625FEGD01(){var i=0;this.Title="Tempomat-Kombischalter Test";this.Name="SMG6E40A14500017625FEGD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(52,368,13,0,"'Arial','sans-serif'",0,"<b></b>Kabelseite der<br>weiblichen Steckanschlüsse");}

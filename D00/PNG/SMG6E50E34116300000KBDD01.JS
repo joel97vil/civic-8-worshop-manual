@@ -1,0 +1,1 @@
+function ISMG6E50E34116300000KBDD01(){var i=0;this.Title=" Drukplaat en koppelingsplaat uitbouwen";this.Name="SMG6E50E34116300000KBDD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

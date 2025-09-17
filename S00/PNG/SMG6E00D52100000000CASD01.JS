@@ -1,0 +1,1 @@
+function ISMG6E00D52100000000CASD01(){var i=0;this.Title=" Entradas y salidas del conector 46P de la Unidad de control-modulador de VSA";this.Name="SMG6E00D52100000000CASD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(373,273,12,0,"'Arial','sans-serif'",0,"<b></b>Lado del cable de los terminales hembra");}

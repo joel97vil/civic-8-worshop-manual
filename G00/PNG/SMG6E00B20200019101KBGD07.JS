@@ -1,0 +1,1 @@
+function ISMG6E00B20200019101KBGD07(){var i=0;this.Title=" Zerlegen / Inspektion";this.Name="SMG6E00B20200019101KBGD07";this.Width=475;this.Height=449;this.CallOut=new Array;}

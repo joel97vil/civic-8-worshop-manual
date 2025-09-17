@@ -1,0 +1,1 @@
+function ISMG6E00J12100000000CADD03(){var i=0;this.Title=" Netwerk &lsquo;&lsquo;Verlies van Communicatie'' Fout Controleren";this.Name="SMG6E00J12100000000CADD03";this.Width=950;this.Height=191;this.CallOut=new Array;this.CallOut[i++]=FS4(410,16,12,0,"'Arial','sans-serif'",0,"<b>Voorbeeld: Fout 1</b>");}

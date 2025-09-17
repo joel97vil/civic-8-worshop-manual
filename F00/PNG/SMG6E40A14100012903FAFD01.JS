@@ -1,0 +1,1 @@
+function ISMG6E40A14100012903FAFD01(){var i=0;this.Title="Dépistage des pannes du circuit d'alternateur et de régulateur (regulator)";this.Name="SMG6E40A14100012903FAFD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

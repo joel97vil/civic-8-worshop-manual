@@ -1,0 +1,1 @@
+function ISMG6E30A20326900000CASD07(){var i=0;this.Title=" Sensor de presión absoluta del colector (MAP)";this.Name="SMG6E30A20326900000CASD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(10,292,13,0,"'Arial','sans-serif'",0,"<b>JUNTA TÓRICA</b>");this.CallOut[i++]=FS4(308,182,13,0,"'Arial','sans-serif'",0,"<b>TERMINAL</b>");}

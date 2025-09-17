@@ -1,0 +1,1 @@
+function IS3M2A00S746001T080000DD01(){var i=0;this.Title=" Benodigd speciaal gereedschap";this.Name="S3M2A00S746001T080000DD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

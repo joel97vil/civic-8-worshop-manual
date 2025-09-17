@@ -1,0 +1,1 @@
+function ISMG6E00G24114000000KBFD03(){var i=0;this.Title="Remplacement de l'unité de chauffage/radiateur";this.Name="SMG6E00G24114000000KBFD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(26,266,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(414,14,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

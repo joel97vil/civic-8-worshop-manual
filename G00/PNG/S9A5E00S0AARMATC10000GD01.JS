@@ -1,0 +1,1 @@
+function IS9A5E00S0AARMATC10000GD01(){var i=0;this.Title=" Erforderliche Spezialwerkzeuge";this.Name="S9A5E00S0AARMATC10000GD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

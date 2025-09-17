@@ -1,0 +1,1 @@
+function ISMG6E30A18300024751MAGD03(){var i=0;this.Title="Motorblock und Kolben Inspektion";this.Name="SMG6E30A18300024751MAGD03";this.Width=475;this.Height=240;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E40A14600017811KCSD08(){var i=0;this.Title="Montaje de la tapa de la culata";this.Name="SMG6E40A14600017811KCSD08";this.Width=475;this.Height=449;this.CallOut=new Array;}

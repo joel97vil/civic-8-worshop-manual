@@ -1,0 +1,1 @@
+function ISMG6E00J46636234525KBFD01(){var i=0;this.Title="Remplacement de l'unité de commande d'antidémarrage-commande à distance des serrures";this.Name="SMG6E00J46636234525KBFD01";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(402,421,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(397,14,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

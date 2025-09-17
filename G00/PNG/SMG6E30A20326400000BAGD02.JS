@@ -1,0 +1,1 @@
+function ISMG6E30A20326400000BAGD02(){var i=0;this.Title=" Mit dem HDS";this.Name="SMG6E30A20326400000BAGD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(276,323,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

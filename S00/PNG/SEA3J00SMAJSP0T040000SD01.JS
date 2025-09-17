@@ -1,0 +1,1 @@
+function ISEA3J00SMAJSP0T040000SD01(){var i=0;this.Title=" Herramientas especiales necesarias";this.Name="SEA3J00SMAJSP0T040000SD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E30A14400065101MADD02(){var i=0;this.Title="Waterpomp inspecteren";this.Name="SMG6E30A14400065101MADD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(395,284,13,8,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00R21100000000YCFD06(){var i=0;this.Title=" Procédures relatives aux couches";this.Name="SMG6E00R21100000000YCFD06";this.Width=475;this.Height=320;this.CallOut=new Array;}

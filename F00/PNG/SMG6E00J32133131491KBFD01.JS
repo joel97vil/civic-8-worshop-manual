@@ -1,0 +1,1 @@
+function ISMG6E00J32133131491KBFD01(){var i=0;this.Title="Remplacement de l'unité HID";this.Name="SMG6E00J32133131491KBFD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(79,356,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(81,92,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

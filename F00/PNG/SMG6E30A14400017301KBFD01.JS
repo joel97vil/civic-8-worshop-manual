@@ -1,0 +1,1 @@
+function ISMG6E30A14400017301KBFD01(){var i=0;this.Title="Remplacement du liquide de refroidissement";this.Name="SMG6E30A14400017301KBFD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(441,214,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

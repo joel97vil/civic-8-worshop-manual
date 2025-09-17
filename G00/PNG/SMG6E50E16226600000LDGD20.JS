@@ -1,0 +1,1 @@
+function ISMG6E50E16226600000LDGD20(){var i=0;this.Title=" Am Auﬂengelenk (radseitig)";this.Name="SMG6E50E16226600000LDGD20";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(40,17,13,0,"'Arial','sans-serif'",0,"<b>Rechte Antriebswelle: 514 mm</b>");this.CallOut[i++]=FS4(40,198,13,0,"'Arial','sans-serif'",0,"<b>Linke Antriebswelle: 478 mm</b>");}

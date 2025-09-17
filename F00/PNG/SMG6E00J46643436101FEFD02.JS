@@ -1,0 +1,1 @@
+function ISMG6E00J46643436101FEFD02(){var i=0;this.Title=" Remplacement de pile";this.Name="SMG6E00J46643436101FEFD02";this.Width=475;this.Height=449;this.CallOut=new Array;}

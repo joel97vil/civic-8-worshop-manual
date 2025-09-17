@@ -1,0 +1,1 @@
+function ISMG6E00J32173631001FEDD03(){var i=0;this.Title="Alarmknipperlichtschakelaar testen";this.Name="SMG6E00J32173631001FEDD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(148,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(62,57,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J36200063301FHSD01(){var i=0;this.Title="Comprobación/Sustitución del interruptor de control por la voz del sistema de navegación";this.Name="SMG6E00J36200063301FHSD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

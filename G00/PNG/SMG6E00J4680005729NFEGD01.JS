@@ -1,0 +1,1 @@
+function ISMG6E00J4680005729NFEGD01(){var i=0;this.Title="Sonnenschutzschalter Test";this.Name="SMG6E00J4680005729NFEGD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

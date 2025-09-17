@@ -1,0 +1,1 @@
+function ISMG6E50A20300000000CADD03(){var i=0;this.Title=" ECM ingangs- en uitgangssignalen aan stekker nr. 1 (96-pins)";this.Name="SMG6E50A20300000000CADD03";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(333,256,12,0,"'Arial','sans-serif'",0,"<b></b>Aansluitzijde van vrouwelijke aansluitingen");}

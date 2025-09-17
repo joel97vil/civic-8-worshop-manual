@@ -1,0 +1,1 @@
+function ISMG6E3AB20200000000MBDD02(){var i=0;this.Title=" Inspectie caster voorzijde";this.Name="SMG6E3AB20200000000MBDD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(319,105,13,0,"'Arial','sans-serif'",0,"<b>A<br>07MGK-0010100</b>");}

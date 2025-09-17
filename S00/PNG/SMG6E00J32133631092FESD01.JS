@@ -1,0 +1,1 @@
+function ISMG6E00J32133631092FESD01(){var i=0;this.Title="Comprobación del motor del dispositivo de ajuste de los faros";this.Name="SMG6E00J32133631092FESD01";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(554,447,12,0,"'Arial','sans-serif'",0,"<b></b>Lado del cable de los terminales hembra");}

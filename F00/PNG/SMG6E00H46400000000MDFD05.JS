@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000MDFD05(){var i=0;this.Title=" Contrôle et ajustement du chevauchement pavillon/garniture de montant";this.Name="SMG6E00H46400000000MDFD05";this.Width=475;this.Height=320;this.CallOut=new Array;}

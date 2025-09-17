@@ -1,0 +1,1 @@
+function ISMG6E00K73200000000BBSD02(){var i=0;this.Title=" Comprobación de los segmentos de LCD";this.Name="SMG6E00K73200000000BBSD02";this.Width=950;this.Height=159;this.CallOut=new Array;}

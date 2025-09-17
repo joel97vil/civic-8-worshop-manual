@@ -1,0 +1,1 @@
+function ISMG6E3AF18100000000DAGD02(){var i=0;this.Title="EPS-Bauteileanordnung";this.Name="SMG6E3AF18100000000DAGD02";this.Width=950;this.Height=367;this.CallOut=new Array;this.CallOut[i++]=FS4(228,15,12,0,"'Arial','sans-serif'",0,"<b>EPS-ANZEIGE</b>");this.CallOut[i++]=FS4(635,11,12,0,"'Arial','sans-serif'",0,"<b>INSTRUMENTENSTEUERMODUL (DREHZAHLMESSER)</b>");}

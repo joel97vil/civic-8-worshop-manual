@@ -1,0 +1,1 @@
+function ISMG6E50F00000057151MBFD03(){var i=0;this.Title="Réglage du guide de crémaillère";this.Name="SMG6E50F00000057151MBFD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(365,23,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(129,281,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

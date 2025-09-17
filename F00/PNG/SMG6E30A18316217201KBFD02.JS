@@ -1,0 +1,1 @@
+function ISMG6E30A18316217201KBFD02(){var i=0;this.Title=" Emplacement du code d'alésage des têtes de bielle";this.Name="SMG6E30A18316217201KBFD02";this.Width=475;this.Height=336;this.CallOut=new Array;}

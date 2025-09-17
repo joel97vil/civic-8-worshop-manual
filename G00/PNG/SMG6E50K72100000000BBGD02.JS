@@ -1,0 +1,1 @@
+function ISMG6E50K72100000000BBGD02(){var i=0;this.Title=" Mit dem HDS auf DTCs prüfen";this.Name="SMG6E50K72100000000BBGD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(245,266,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(1,291,13,0,"'Arial','sans-serif'",0,"<b></b>*: Abgebildet ist ein Modell mit Rechtslenkung&nbsp;(RHD).");}

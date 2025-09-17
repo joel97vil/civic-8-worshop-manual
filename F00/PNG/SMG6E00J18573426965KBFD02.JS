@@ -1,0 +1,1 @@
+function ISMG6E00J18573426965KBFD02(){var i=0;this.Title="Remplacement du garnissage d'aile avant";this.Name="SMG6E00J18573426965KBFD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(92,107,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J34300000000DADD02(){var i=0;this.Title="Plaats van de onderdelen van de spiegels";this.Name="SMG6E00J34300000000DADD02";this.Width=950;this.Height=335;this.CallOut=new Array;this.CallOut[i++]=FS4(535,284,12,0,"'Arial','sans-serif'",0,"<b>ACHTERUITKIJKSPIEGEL<br></b><a href=\"../00/SMG6E00J34300034651KBDT00.HTML\" target=\"EsmContents\">Vervangen, </a>");}

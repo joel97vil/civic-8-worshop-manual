@@ -1,0 +1,1 @@
+function ISMG6E30K72100000000BBGD01(){var i=0;this.Title=" Wenn die Störungsanzeigeleuchte (MIL) aufleuchtet:";this.Name="SMG6E30K72100000000BBGD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(261,39,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

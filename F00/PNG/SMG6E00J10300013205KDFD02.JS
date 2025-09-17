@@ -1,0 +1,1 @@
+function ISMG6E00J10300013205KDFD02(){var i=0;this.Title=" Sans navigation";this.Name="SMG6E00J10300013205KDFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(129,14,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(314,284,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

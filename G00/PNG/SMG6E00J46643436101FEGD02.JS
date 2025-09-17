@@ -1,0 +1,1 @@
+function ISMG6E00J46643436101FEGD02(){var i=0;this.Title=" Batterie Austausch";this.Name="SMG6E00J46643436101FEGD02";this.Width=475;this.Height=449;this.CallOut=new Array;}

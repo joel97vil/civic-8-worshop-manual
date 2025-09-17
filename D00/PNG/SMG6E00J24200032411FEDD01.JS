@@ -1,0 +1,1 @@
+function ISMG6E00J24200032411FEDD01(){var i=0;this.Title="Claxonschakelaar testen";this.Name="SMG6E00J24200032411FEDD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(397,204,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(41,110,13,0,"'Arial','sans-serif'",0,"<b></b>Draadzijde van vrouwelijke aansluitingen");}

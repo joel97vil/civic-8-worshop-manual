@@ -1,0 +1,1 @@
+function ISMG6E30A18224024911KBFD07(){var i=0;this.Title="Remplacement de monture latérale de moteur";this.Name="SMG6E30A18224024911KBFD07";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(241,12,13,0,"'Arial','sans-serif'",0,"<b>12 x 1,25 mm<br>74 N&middot;m <br>(7,5 kgf&middot;m)</b>");}

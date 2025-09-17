@@ -1,0 +1,1 @@
+function ISMG6E00R51100000000YDGD01(){var i=0;this.Title="Schnittpunkt von Karosserie und Dichtungsbereichen - Allgemeine Sicherheitsmaﬂnahmen";this.Name="SMG6E00R51100000000YDGD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

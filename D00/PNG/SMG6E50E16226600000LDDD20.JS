@@ -1,0 +1,1 @@
+function ISMG6E50E16226600000LDDD20(){var i=0;this.Title=" Zijde buitenste koppeling";this.Name="SMG6E50E16226600000LDDD20";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(40,17,13,0,"'Arial','sans-serif'",0,"<b>Rechter aandrijfas: 514 mm</b>");this.CallOut[i++]=FS4(40,198,13,0,"'Arial','sans-serif'",0,"<b>Linker aandrijfas: 478 mm</b>");}

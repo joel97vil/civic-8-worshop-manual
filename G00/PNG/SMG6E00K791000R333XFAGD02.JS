@@ -1,0 +1,1 @@
+function ISMG6E00K791000R333XFAGD02(){var i=0;this.Title="DTC-Fehlersuche: 33-3x";this.Name="SMG6E00K791000R333XFAGD02";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>2P-STECKER DES <br>BODENKABELBAUMS</b>");this.CallOut[i++]=FS4(120,220,13,0,"'Arial','sans-serif'",0,"<b>070AZ-SNA0400</b>");}

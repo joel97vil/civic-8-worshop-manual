@@ -1,0 +1,1 @@
+function ISMG6E00K79100000000BBSD01(){var i=0;this.Title=" Lectura del DTC";this.Name="SMG6E00K79100000000BBSD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(297,307,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

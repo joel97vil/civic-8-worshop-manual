@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000KCGD10(){var i=0;this.Title="Schaltgetriebe-Baugruppe Einbau";this.Name="SMG6E40E34150100000KCGD10";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(180,321,13,0,"'Arial','sans-serif'",0,"<b>14 x 1,5 mm<br>103 N&middot;m (10,5 kgf&middot;m)</b>");}

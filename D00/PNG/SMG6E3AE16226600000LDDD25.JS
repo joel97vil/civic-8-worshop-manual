@@ -1,0 +1,1 @@
+function ISMG6E3AE16226600000LDDD25(){var i=0;this.Title=" Zijde buitenste koppeling";this.Name="SMG6E3AE16226600000LDDD25";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(351,34,13,0,"'Arial','sans-serif'",0,"<b>MAX. 6,0 mm </b>");this.CallOut[i++]=FS4(125,284,13,0,"'Arial','sans-serif'",0,"<b>MAX. 3,0 mm </b>");}

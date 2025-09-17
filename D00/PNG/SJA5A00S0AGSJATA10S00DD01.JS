@@ -1,0 +1,1 @@
+function ISJA5A00S0AGSJATA10S00DD01(){var i=0;this.Title=" Benodigd speciaal gereedschap";this.Name="SJA5A00S0AGSJATA10S00DD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

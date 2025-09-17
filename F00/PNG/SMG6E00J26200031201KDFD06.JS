@@ -1,0 +1,1 @@
+function ISMG6E00J26200031201KDFD06(){var i=0;this.Title="Dépose/pose de la garniture du pavillon";this.Name="SMG6E00J26200031201KDFD06";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(24,100,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

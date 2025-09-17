@@ -1,0 +1,1 @@
+function ISMG6E00D10600000000CAFD01(){var i=0;this.Title=" Entrées et sorties de l'unité de commande-modulateur ABS pour le connecteur 26P";this.Name="SMG6E00D10600000000CAFD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(374,271,12,0,"'Arial','sans-serif'",0,"<b></b>Côté câbles des bornes femelles");}

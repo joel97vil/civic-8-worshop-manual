@@ -1,0 +1,1 @@
+function ISMG6E00J54283222102DBSD01(){var i=0;this.Title="Situación del mazo de cables de las puertas traseras derecha e izquierda";this.Name="SMG6E00J54283222102DBSD01";this.Width=950;this.Height=543;this.CallOut=new Array;this.CallOut[i++]=FS4(486,512,12,0,"'Arial','sans-serif'",0,"<b>MAZO DE CABLES DE LA PUERTA TRASERA DERECHA</b>");}

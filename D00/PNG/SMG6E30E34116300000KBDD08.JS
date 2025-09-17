@@ -1,0 +1,1 @@
+function ISMG6E30E34116300000KBDD08(){var i=0;this.Title=" Taatslager inspecteren";this.Name="SMG6E30E34116300000KBDD08";this.Width=475;this.Height=320;this.CallOut=new Array;}

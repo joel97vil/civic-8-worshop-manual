@@ -1,0 +1,1 @@
+function ISMG6E40A14674300000KASD10(){var i=0;this.Title="Desmontaje de la cadena del árbol de levas";this.Name="SMG6E40A14674300000KASD10";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(299,413,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(70,107,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

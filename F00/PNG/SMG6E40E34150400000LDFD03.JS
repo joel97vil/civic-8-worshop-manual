@@ -1,0 +1,1 @@
+function ISMG6E40E34150400000LDFD03(){var i=0;this.Title="Remontage de l'arbre primaire T/M";this.Name="SMG6E40E34150400000LDFD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(448,40,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(33,170,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

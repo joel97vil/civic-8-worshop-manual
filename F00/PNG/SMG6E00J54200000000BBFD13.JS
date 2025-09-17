@@ -1,0 +1,1 @@
+function ISMG6E00J54200000000BBFD13(){var i=0;this.Title=" Codes de couleurs de câble";this.Name="SMG6E00J54200000000BBFD13";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(233,43,13,0,"'Arial','sans-serif'",0,"<b>WHT/BLK</b>");}

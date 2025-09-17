@@ -1,0 +1,1 @@
+function ISMG6E30A46500000000FADD02(){var i=0;this.Title="Storingzoeken startmotorcircuit";this.Name="SMG6E30A46500000000FADD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(287,16,13,0,"'Arial','sans-serif'",0,"<b>S</b>");}

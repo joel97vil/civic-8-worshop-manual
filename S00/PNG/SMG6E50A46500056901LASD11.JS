@@ -1,0 +1,1 @@
+function ISMG6E50A46500056901LASD11(){var i=0;this.Title=" Comprobación del devanado de campo del motor de arranque";this.Name="SMG6E50A46500056901LASD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(410,106,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(299,268,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

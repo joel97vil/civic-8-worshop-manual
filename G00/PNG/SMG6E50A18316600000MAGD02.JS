@@ -1,0 +1,1 @@
+function ISMG6E50A18316600000MAGD02(){var i=0;this.Title=" Schlag";this.Name="SMG6E50A18316600000MAGD02";this.Width=475;this.Height=417;this.CallOut=new Array;}

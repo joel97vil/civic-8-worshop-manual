@@ -1,0 +1,1 @@
+function ISMG6E00J46166453949KBSD14(){var i=0;this.Title="Sustitución de la funda del respaldo del asiento trasero";this.Name="SMG6E00J46166453949KBSD14";this.Width=475;this.Height=346;this.CallOut=new Array;this.CallOut[i++]=FS4(292,301,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

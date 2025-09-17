@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDDD58(){var i=0;this.Title="Dakpaneel inbouwen";this.Name="SMG6E00R31100000000YDDD58";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(133,37,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

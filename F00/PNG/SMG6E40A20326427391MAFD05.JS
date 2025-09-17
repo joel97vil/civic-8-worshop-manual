@@ -1,0 +1,1 @@
+function ISMG6E40A20326427391MAFD05(){var i=0;this.Title="Examen des conduites de reniflard d'alimentation et d'aspiration";this.Name="SMG6E40A20326427391MAFD05";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(216,282,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(379,322,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

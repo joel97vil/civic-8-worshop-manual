@@ -1,0 +1,1 @@
+function ISMG6E00J4680005729NFEFD01(){var i=0;this.Title="Test de commutateur de store";this.Name="SMG6E00J4680005729NFEFD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

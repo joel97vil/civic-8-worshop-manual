@@ -1,0 +1,1 @@
+function ISMG6E40A18316200000MASD01(){var i=0;this.Title="Inspección del juego axial de las bielas y el cigüeñal";this.Name="SMG6E40A18316200000MASD01";this.Width=475;this.Height=336;this.CallOut=new Array;}

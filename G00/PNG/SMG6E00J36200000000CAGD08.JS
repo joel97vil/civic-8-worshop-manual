@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CAGD08(){var i=0;this.Title=" Eingänge und Ausgänge der Navigationseinheit am Stecker A (20P)";this.Name="SMG6E00J36200000000CAGD08";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(372,274,12,0,"'Arial','sans-serif'",0,"<b></b>Kabelseite der Steckanschlüsse (weiblich)");}

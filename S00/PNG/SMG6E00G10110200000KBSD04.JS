@@ -1,0 +1,1 @@
+function ISMG6E00G10110200000KBSD04(){var i=0;this.Title="Sustitución del condensador del A/C";this.Name="SMG6E00G10110200000KBSD04";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(39,70,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

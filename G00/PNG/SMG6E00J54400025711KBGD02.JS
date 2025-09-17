@@ -1,0 +1,1 @@
+function ISMG6E00J54400025711KBGD02(){var i=0;this.Title="Zusatzfenster Austausch";this.Name="SMG6E00J54400025711KBGD02";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>Lage der Befestigungselemente</b>");this.CallOut[i++]=FS4(58,42,13,0,"'Arial','sans-serif'",0,"<b>: Schraube, 2</b>");}

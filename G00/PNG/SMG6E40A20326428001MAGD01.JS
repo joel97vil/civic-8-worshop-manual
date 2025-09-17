@@ -1,0 +1,1 @@
+function ISMG6E40A20326428001MAGD01(){var i=0;this.Title="Kraftstoffleitungen überprüfen";this.Name="SMG6E40A20326428001MAGD01";this.Width=950;this.Height=719;this.CallOut=new Array;this.CallOut[i++]=FS4(55,653,12,0,"'Arial','sans-serif'",0,"<b></b>Kontrollieren, dass die Verbindungen<br> sicher halten und die Abdeckungen<br> der Schnellkupplungen fest eingerastet sind.");}

@@ -1,0 +1,1 @@
+function ISMG6E30A14666351511MAGD02(){var i=0;this.Title="Zylinderkopf, Kipphebel und Kipphebelwelle Inspektion";this.Name="SMG6E30A14666351511MAGD02";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(309,121,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

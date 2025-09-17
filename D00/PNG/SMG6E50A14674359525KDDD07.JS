@@ -1,0 +1,1 @@
+function ISMG6E50A14674359525KDDD07(){var i=0;this.Title=" Aanbrengen";this.Name="SMG6E50A14674359525KDDD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(340,259,13,0,"'Arial','sans-serif'",0,"<b></b>Breng vloeibare<br>pakking aan langs<br>de onderbroken lijn.");}

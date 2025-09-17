@@ -1,0 +1,1 @@
+function ISMG6E00J46643421011FEDD02(){var i=0;this.Title=" Achterportier/passagiersportier";this.Name="SMG6E00J46643421011FEDD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(86,264,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(71,182,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

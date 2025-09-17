@@ -1,0 +1,1 @@
+function ISMG6E3AF00000057151MBGD03(){var i=0;this.Title="Lenkung Zahnstangenführung Einstellung";this.Name="SMG6E3AF00000057151MBGD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(368,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(186,286,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E40E34150200000LDSD14(){var i=0;this.Title="Montaje del eje intermedio de la M/T";this.Name="SMG6E40E34150200000LDSD14";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(286,105,13,0,"'Arial','sans-serif'",0,"<b>A<br>101 N&middot;m <br>(10,3 kgf&middot;m)</b>");}

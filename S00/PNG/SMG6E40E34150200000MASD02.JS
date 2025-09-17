@@ -1,0 +1,1 @@
+function ISMG6E40E34150200000MASD02(){var i=0;this.Title="Comprobación de la holgura del conjunto del eje intermedio de la M/T";this.Name="SMG6E40E34150200000MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

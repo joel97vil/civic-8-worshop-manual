@@ -1,0 +1,1 @@
+function ISMG6E3AB20200000000MBSD01(){var i=0;this.Title=" Comprobaciones previas a la alineación";this.Name="SMG6E3AB20200000000MBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

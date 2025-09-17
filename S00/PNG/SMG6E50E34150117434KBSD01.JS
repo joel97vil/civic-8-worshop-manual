@@ -1,0 +1,1 @@
+function ISMG6E50E34150117434KBSD01(){var i=0;this.Title="Sustitución del cojinete del eje intermedio en la envolvente del embrague de la M/T";this.Name="SMG6E50E34150117434KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(281,36,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(352,83,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50A14400065081KBFD02(){var i=0;this.Title="Remplacement de la sortie d'eau";this.Name="SMG6E50A14400065081KBFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(276,255,13,0,"'Arial','sans-serif'",0,"<b></b>Appliquer du liquide d'étanchéité<br> le long de la ligne<br> en pointillés.");}

@@ -1,0 +1,1 @@
+function ISMG6E30E34150719632KBSD04(){var i=0;this.Title="Sustitución del retén de aceite del diferencial de la M/T";this.Name="SMG6E30E34150719632KBSD04";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(72,191,13,0,"'Arial','sans-serif'",0,"<b>07JAD-PL90100</b>");}

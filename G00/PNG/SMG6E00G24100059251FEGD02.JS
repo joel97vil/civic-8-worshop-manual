@@ -1,0 +1,1 @@
+function ISMG6E00G24100059251FEGD02(){var i=0;this.Title="Temperaturregelungsschalter (Beifahrer) Test";this.Name="SMG6E00G24100059251FEGD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(44,38,13,0,"'Arial','sans-serif'",0,"<b>TEMPERATURREGELSCHALTER BEIFAHRERSEITE</b>");}

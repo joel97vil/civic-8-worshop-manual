@@ -1,0 +1,1 @@
+function ISMG6E50A20336335001KDFD05(){var i=0;this.Title=" Dépose";this.Name="SMG6E50A20336335001KDFD05";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(43,218,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(310,56,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

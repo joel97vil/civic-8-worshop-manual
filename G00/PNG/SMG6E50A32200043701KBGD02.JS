@@ -1,0 +1,1 @@
+function ISMG6E50A32200043701KBGD02(){var i=0;this.Title="Motorölwechsel";this.Name="SMG6E50A32200043701KBGD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(39,308,13,0,"'Arial','sans-serif'",0,"<b>A<br>39 N&middot;m (4,0 kgf&middot;m)<br></b>Nicht zu fest anziehen.");this.CallOut[i++]=FS4(269,308,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

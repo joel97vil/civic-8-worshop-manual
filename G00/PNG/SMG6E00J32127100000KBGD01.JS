@@ -1,0 +1,1 @@
+function ISMG6E00J32127100000KBGD01(){var i=0;this.Title="Nebelscheinwerfer austauschen";this.Name="SMG6E00J32127100000KBGD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(262,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(344,337,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

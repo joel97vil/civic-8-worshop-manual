@@ -1,0 +1,1 @@
+function ISMG6E00H46200053402KBSD15(){var i=0;this.Title=" Hebilla del cinturón de seguridad central trasero/Hebilla del cinturón de seguridad trasero izquierdo";this.Name="SMG6E00H46200053402KBSD15";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(107,323,13,0,"'Arial','sans-serif'",0,"<b>A<br>7/16-20 UNF<br>32 N&middot;m<br>(3,3 kgf&middot;m)</b>");}

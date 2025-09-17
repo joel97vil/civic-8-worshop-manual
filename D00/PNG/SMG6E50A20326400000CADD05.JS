@@ -1,0 +1,1 @@
+function ISMG6E50A20326400000CADD05(){var i=0;this.Title=" Voedingsspanning FRP-sensor";this.Name="SMG6E50A20326400000CADD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(205,262,13,0,"'Arial','sans-serif'",0,"<b>SENSORELEMENT</b>");this.CallOut[i++]=FS4(336,51,13,0,"'Arial','sans-serif'",0,"<b>AANSLUITING</b>");}

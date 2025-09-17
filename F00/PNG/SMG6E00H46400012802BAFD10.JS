@@ -1,0 +1,1 @@
+function ISMG6E00H46400012802BAFD10(){var i=0;this.Title=" Déploiement des pièces hors du véhicule";this.Name="SMG6E00H46400012802BAFD10";this.Width=475;this.Height=304;this.CallOut=new Array;}

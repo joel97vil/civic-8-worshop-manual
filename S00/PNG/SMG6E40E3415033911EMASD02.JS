@@ -1,0 +1,1 @@
+function ISMG6E40E3415033911EMASD02(){var i=0;this.Title="Comprobación de la holgura de la horquilla de selección de la marcha atrás de la M/T";this.Name="SMG6E40E3415033911EMASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

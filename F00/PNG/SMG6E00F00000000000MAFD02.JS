@@ -1,0 +1,1 @@
+function ISMG6E00F00000000000MAFD02(){var i=0;this.Title="Vérification de l'assistance de direction";this.Name="SMG6E00F00000000000MAFD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

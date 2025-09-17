@@ -1,0 +1,1 @@
+function ISMG6E00J54400025711KBFD18(){var i=0;this.Title="Remplacement de vitre supplémentaire";this.Name="SMG6E00J54400025711KBFD18";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>Emplacement des fixations</b>");this.CallOut[i++]=FS4(58,42,13,0,"'Arial','sans-serif'",0,"<b>: Vis, 2</b>");}

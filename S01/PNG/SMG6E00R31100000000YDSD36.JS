@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDSD36(){var i=0;this.Title="Montaje del bastidor lateral delantero/Travesaño superior";this.Name="SMG6E00R31100000000YDSD36";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(159,284,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(372,306,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

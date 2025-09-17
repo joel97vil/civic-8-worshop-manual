@@ -1,0 +1,1 @@
+function ISMG6E40E34150117434KBDD01(){var i=0;this.Title="Vervangen koppelingshuislager tussenas (handgeschakelde versnelling)";this.Name="SMG6E40E34150117434KBDD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(376,349,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(348,209,13,0,"'Arial','sans-serif'",0,"<b>07JAC-PH80000</b>");}

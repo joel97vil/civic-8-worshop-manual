@@ -1,0 +1,1 @@
+function ISMG6E00G24100059251FESD02(){var i=0;this.Title="Comprobación del interruptor de control de la temperatura (lado del acompañante)";this.Name="SMG6E00G24100059251FESD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(44,38,13,0,"'Arial','sans-serif'",0,"<b>INTERRUPTOR DE CONTROL <br>DE LA TEMPERATURA DEL LADO DEL ACOMPAÑANTE</b>");}

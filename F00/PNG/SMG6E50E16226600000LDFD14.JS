@@ -1,0 +1,1 @@
+function ISMG6E50E16226600000LDFD14(){var i=0;this.Title=" Côté joint homocinétique extérieur";this.Name="SMG6E50E16226600000LDFD14";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(429,148,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(82,298,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

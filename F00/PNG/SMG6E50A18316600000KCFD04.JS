@@ -1,0 +1,1 @@
+function ISMG6E50A18316600000KCFD04(){var i=0;this.Title="Pose de bague d'étanchéité de vilebrequin (côté boîte de vitesse)";this.Name="SMG6E50A18316600000KCFD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(131,322,13,0,"'Arial','sans-serif'",0,"<b></b>Appliquer du liquide d'étanchéité<br>le long de la ligne en pointillé.");}

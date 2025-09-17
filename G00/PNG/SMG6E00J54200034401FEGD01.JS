@@ -1,0 +1,1 @@
+function ISMG6E00J54200034401FEGD01(){var i=0;this.Title="Zündschalter prüfen";this.Name="SMG6E00J54200034401FEGD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(334,310,13,0,"'Arial','sans-serif'",0,"<b></b>Anschluss-Seite der <br>Steckeranschlüsse <br>(männlich)");}

@@ -1,0 +1,1 @@
+function ISMG6E40A20316100000CADD01(){var i=0;this.Title=" Driewegkatalysator (TWC)";this.Name="SMG6E40A20316100000CADD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(69,215,13,0,"'Arial','sans-serif'",0,"<b>HUIS</b>");this.CallOut[i++]=FS4(76,309,13,0,"'Arial','sans-serif'",0,"<b>DRIEWEG-<br>KATALYSATOR</b>");}

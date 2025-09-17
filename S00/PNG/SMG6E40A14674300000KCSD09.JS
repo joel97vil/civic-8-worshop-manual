@@ -1,0 +1,1 @@
+function ISMG6E40A14674300000KCSD09(){var i=0;this.Title="Montaje de la cadena del árbol de levas";this.Name="SMG6E40A14674300000KCSD09";this.Width=475;this.Height=224;this.CallOut=new Array;this.CallOut[i++]=FS4(215,176,13,0,"'Arial','sans-serif'",0,"<b></b>Aplique una junta líquida<br>a lo largo de la línea discontinua.");}

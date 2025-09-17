@@ -1,0 +1,1 @@
+function ISMG6E50A20336100000MADD01(){var i=0;this.Title="Controle stationair toerental";this.Name="SMG6E50A20336100000MADD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(245,266,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(38,292,13,0,"'Arial','sans-serif'",0,"<b></b>*: Afgebeeld is een model met stuur rechts.");}

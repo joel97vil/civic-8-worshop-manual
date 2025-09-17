@@ -1,0 +1,1 @@
+function ISMG6E3AB20200000000MBDD09(){var i=0;this.Title=" Draaihoek inspecteren";this.Name="SMG6E3AB20200000000MBDD09";this.Width=475;this.Height=320;this.CallOut=new Array;}

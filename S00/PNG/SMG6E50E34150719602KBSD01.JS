@@ -1,0 +1,1 @@
+function ISMG6E50E34150719602KBSD01(){var i=0;this.Title="Sustitución de la pista exterior del cojinete de la caja portasatélites del diferencial de la M/T";this.Name="SMG6E50E34150719602KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

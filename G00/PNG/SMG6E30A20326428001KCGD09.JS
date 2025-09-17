@@ -1,0 +1,1 @@
+function ISMG6E30A20326428001KCGD09(){var i=0;this.Title=" Anschluss an die neue Kraftstoffleitung";this.Name="SMG6E30A20326428001KCGD09";this.Width=475;this.Height=369;this.CallOut=new Array;}

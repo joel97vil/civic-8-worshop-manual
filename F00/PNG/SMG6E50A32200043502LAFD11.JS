@@ -1,0 +1,1 @@
+function ISMG6E50A32200043502LAFD11(){var i=0;this.Title=" Contrôle de la pompe à huile";this.Name="SMG6E50A32200043502LAFD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(294,60,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(99,60,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

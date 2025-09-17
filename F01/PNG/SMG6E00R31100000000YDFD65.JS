@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDFD65(){var i=0;this.Title="Pose de panneau extérieur arrière";this.Name="SMG6E00R31100000000YDFD65";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(326,37,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(444,191,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

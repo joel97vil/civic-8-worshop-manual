@@ -1,0 +1,1 @@
+function ISMG6E00J46660521021FESD01(){var i=0;this.Title="Comprobación del interruptor del cierre centralizado de puertas";this.Name="SMG6E00J46660521021FESD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

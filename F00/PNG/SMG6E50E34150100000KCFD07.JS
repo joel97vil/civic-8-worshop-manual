@@ -1,0 +1,1 @@
+function ISMG6E50E34150100000KCFD07(){var i=0;this.Title="Pose d'ensemble T/M";this.Name="SMG6E50E34150100000KCFD07";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(211,367,13,0,"'Arial','sans-serif'",0,"<b>14 x 1,5 mm<br>103 N&middot;m<br>(10,5 kgf&middot;m)<br></b>Remplacer.");}

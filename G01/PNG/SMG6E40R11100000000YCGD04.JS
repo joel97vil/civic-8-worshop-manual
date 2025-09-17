@@ -1,0 +1,1 @@
+function ISMG6E40R11100000000YCGD04(){var i=0;this.Title=" Motormodell  R18A2";this.Name="SMG6E40R11100000000YCGD04";this.Width=475;this.Height=577;this.CallOut=new Array;this.CallOut[i++]=FS4(20,535,13,0,"'Arial','sans-serif'",0,"<b>Motornummer</b>");this.CallOut[i++]=FS4(254,530,13,0,"'Arial','sans-serif'",0,"<b>Getriebenummer<br>(Schaltgetriebe)</b>");}

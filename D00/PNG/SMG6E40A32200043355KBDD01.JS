@@ -1,0 +1,1 @@
+function ISMG6E40A32200043355KBDD01(){var i=0;this.Title="Motoroliesproeier inspecteren";this.Name="SMG6E40A32200043355KBDD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(207,17,13,0,"'Arial','sans-serif'",0,"<b>1,2 mm</b>");this.CallOut[i++]=FS4(147,151,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

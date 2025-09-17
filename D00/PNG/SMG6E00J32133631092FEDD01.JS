@@ -1,0 +1,1 @@
+function ISMG6E00J32133631092FEDD01(){var i=0;this.Title="Testen koplampafstellingsmotor";this.Name="SMG6E00J32133631092FEDD01";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(554,447,12,0,"'Arial','sans-serif'",0,"<b></b>Draadzijde van vrouwelijke aansluitingen");}

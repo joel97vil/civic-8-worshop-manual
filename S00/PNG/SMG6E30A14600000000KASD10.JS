@@ -1,0 +1,1 @@
+function ISMG6E30A14600000000KASD10(){var i=0;this.Title="Desmontaje de la culata";this.Name="SMG6E30A14600000000KASD10";this.Width=475;this.Height=401;this.CallOut=new Array;}

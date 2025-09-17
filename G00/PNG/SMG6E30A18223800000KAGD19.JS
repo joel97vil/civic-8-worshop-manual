@@ -1,0 +1,1 @@
+function ISMG6E30A18223800000KAGD19(){var i=0;this.Title="Motor ausbauen";this.Name="SMG6E30A18223800000KAGD19";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(31,313,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(213,15,13,0,"'Arial','sans-serif'",0,"<b>A<br></b>Erneuern.");}

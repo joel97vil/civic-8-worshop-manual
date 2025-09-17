@@ -1,0 +1,1 @@
+function ISMG6E40A20300024601KBDD01(){var i=0;this.Title="ECM vervangen";this.Name="SMG6E40A20300024601KBDD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(39,304,13,0,"'Arial','sans-serif'",0,"<b></b>*: Afgebeeld is een model met stuur rechts.");}

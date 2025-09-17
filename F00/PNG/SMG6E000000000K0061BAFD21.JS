@@ -1,0 +1,1 @@
+function ISMG6E000000000K0061BAFD21(){var i=0;this.Title=" Manipulation des faisceaux et câbles";this.Name="SMG6E000000000K0061BAFD21";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(172,67,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(427,67,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

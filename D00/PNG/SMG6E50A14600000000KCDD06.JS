@@ -1,0 +1,1 @@
+function ISMG6E50A14600000000KCDD06(){var i=0;this.Title="Cilinderkop inbouwen";this.Name="SMG6E50A14600000000KCDD06";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(269,19,13,0,"'Arial','sans-serif'",0,"<b>B 55 mm </b>");this.CallOut[i++]=FS4(319,56,13,0,"'Arial','sans-serif'",0,"<b>A 50 mm </b>");}

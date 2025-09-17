@@ -1,0 +1,1 @@
+function ISMG6E50A32200043502LAGD03(){var i=0;this.Title=" Ölpumpe Ausbau";this.Name="SMG6E50A32200043502LAGD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(22,99,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

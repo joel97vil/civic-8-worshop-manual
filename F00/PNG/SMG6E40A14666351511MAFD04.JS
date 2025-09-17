@@ -1,0 +1,1 @@
+function ISMG6E40A14666351511MAFD04(){var i=0;this.Title="Examen de culasse, culbuteur et axe";this.Name="SMG6E40A14666351511MAFD04";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(280,129,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

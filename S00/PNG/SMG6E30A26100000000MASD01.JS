@@ -1,0 +1,1 @@
+function ISMG6E30A26100000000MASD01(){var i=0;this.Title="Comprobación de la distribución del encendido";this.Name="SMG6E30A26100000000MASD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

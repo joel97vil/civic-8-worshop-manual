@@ -1,0 +1,1 @@
+function ISMG6E00R51100000000YDDD01(){var i=0;this.Title="Dwarsdoorsnede van carrosserie en afdichtingen - Algemene veiligheidsmaatregelen";this.Name="SMG6E00R51100000000YDDD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

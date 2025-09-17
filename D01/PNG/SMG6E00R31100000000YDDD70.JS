@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDDD70(){var i=0;this.Title="Achterpaneel inbouwen";this.Name="SMG6E00R31100000000YDDD70";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(167,74,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

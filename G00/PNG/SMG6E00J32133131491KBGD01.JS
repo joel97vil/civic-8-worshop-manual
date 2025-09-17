@@ -1,0 +1,1 @@
+function ISMG6E00J32133131491KBGD01(){var i=0;this.Title="HID-Einheit Austausch";this.Name="SMG6E00J32133131491KBGD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(79,356,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(81,92,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

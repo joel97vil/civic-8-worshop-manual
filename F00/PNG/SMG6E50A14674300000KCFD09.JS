@@ -1,0 +1,1 @@
+function ISMG6E50A14674300000KCFD09(){var i=0;this.Title="Repose de la chaîne de came";this.Name="SMG6E50A14674300000KCFD09";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(170,466,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>12 N&middot;m (1,2 kgf&middot;m)</b>");this.CallOut[i++]=FS4(96,72,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

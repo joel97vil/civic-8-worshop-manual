@@ -1,0 +1,1 @@
+function ISMG6E30A18316217201KBSD02(){var i=0;this.Title=" Situación de los códigos del diámetro interior de la cabeza de la biela";this.Name="SMG6E30A18316217201KBSD02";this.Width=475;this.Height=336;this.CallOut=new Array;}

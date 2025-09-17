@@ -1,0 +1,1 @@
+function ISMG6E40A18224024904KBSD03(){var i=0;this.Title="Sustitución de la barra de torsión inferior";this.Name="SMG6E40A18224024904KBSD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(323,233,13,0,"'Arial','sans-serif'",0,"<b>12 x 1,25 mm<br>64 N&middot;m <br>(6,5 kgf&middot;m)</b>");}

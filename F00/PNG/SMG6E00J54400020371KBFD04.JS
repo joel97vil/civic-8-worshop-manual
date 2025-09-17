@@ -1,0 +1,1 @@
+function ISMG6E00J54400020371KBFD04(){var i=0;this.Title="Remplacement de la glace et du lève-glace de porte avant";this.Name="SMG6E00J54400020371KBFD04";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(66,173,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(408,94,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

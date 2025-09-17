@@ -1,0 +1,1 @@
+function ISMG6E00K791000R421XFAFD01(){var i=0;this.Title="Dépistage des DTC : 42-1x";this.Name="SMG6E00K791000R421XFAFD01";this.Width=475;this.Height=304;this.CallOut=new Array;this.CallOut[i++]=FS4(419,43,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

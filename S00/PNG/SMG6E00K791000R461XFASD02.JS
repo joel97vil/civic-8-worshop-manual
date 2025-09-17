@@ -1,0 +1,1 @@
+function ISMG6E00K791000R461XFASD02(){var i=0;this.Title="Localización de averías de DTC: 46-1x";this.Name="SMG6E00K791000R461XFASD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(400,274,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

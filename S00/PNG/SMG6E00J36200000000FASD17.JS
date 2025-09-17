@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000FASD17(){var i=0;this.Title=" Recepción defectuosa RDS-TMC o interferencias";this.Name="SMG6E00J36200000000FASD17";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(430,68,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

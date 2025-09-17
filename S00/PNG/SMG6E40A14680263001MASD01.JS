@@ -1,0 +1,1 @@
+function ISMG6E40A14680263001MASD01(){var i=0;this.Title="Comprobación de la holgura entre la guía y el vástago de las válvulas de la culata";this.Name="SMG6E40A14680263001MASD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

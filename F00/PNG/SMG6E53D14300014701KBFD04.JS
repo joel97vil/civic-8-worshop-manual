@@ -1,0 +1,1 @@
+function ISMG6E53D14300014701KBFD04(){var i=0;this.Title=" Type C‡G";this.Name="SMG6E53D14300014701KBFD04";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(410,284,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

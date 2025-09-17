@@ -1,0 +1,1 @@
+function ISMG6E00J16126721301KBFD08(){var i=0;this.Title=" Sans Super Verrouillage";this.Name="SMG6E00J16126721301KBFD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(108,185,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

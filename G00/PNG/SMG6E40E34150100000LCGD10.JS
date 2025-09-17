@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000LCGD10(){var i=0;this.Title="Schaltgetriebe-Baugruppe Zerlegen";this.Name="SMG6E40E34150100000LCGD10";this.Width=475;this.Height=320;this.CallOut=new Array;}

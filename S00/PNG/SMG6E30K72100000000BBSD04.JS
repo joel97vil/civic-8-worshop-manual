@@ -1,0 +1,1 @@
+function ISMG6E30K72100000000BBSD04(){var i=0;this.Title=" Cómo efectuar la localización de averías en los circuitos en el ECM";this.Name="SMG6E30K72100000000BBSD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(390,46,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
