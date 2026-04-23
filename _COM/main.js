@@ -31,6 +31,7 @@ function loadScript(src, onload) {
   var s = document.createElement('script');
   s.src = src;
   s.onload = onload;
+  s.onerror = function() { alert("Not found Language Information."); };
   document.head.appendChild(s);
 }
 
