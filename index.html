@@ -38,7 +38,11 @@
 </div>
 
 <script>
-  window.F10 = {};
+  window.F10 = { location: {} };
+  Object.defineProperty(window, 'F11', {
+    get: function() { return window.frames['F11']; },
+    configurable: true
+  });
   Object.defineProperty(window, 'F12', {
     get: function() { return window.frames['EsmContents']; },
     configurable: true
