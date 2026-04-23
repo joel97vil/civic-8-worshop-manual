@@ -2,55 +2,49 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="author" content="HONDA MOTOR Co.,Ltd.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Content-Script-Type" content="text/javascript"><title>Honda ESM Title.</title></script>
+<meta name="author" content="HONDA MOTOR Co.,Ltd.">
 <title>Shop Manual (HONDA MOTOR Co.,Ltd.)</title>
 <style>
-  /* Layout bàsic */
-  html, body {
-    height: 100%;
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
-  #header { height: 71px; background: #eee; overflow: hidden; }
+  html, body { height: 100%; margin: 0; overflow: hidden; }
+  #header { height: 71px; overflow: hidden; background: #fff; }
   #main { display: flex; height: calc(100% - 71px); }
-  #sidebar { width: 370px; background: #f5f5f5; overflow-y: auto; border-right: 1px solid #ccc; }
-  #content { flex: 1; overflow-y: auto; padding: 10px; }
+  #F11 { width: 370px; min-width: 370px; border: none; border-right: 1px solid #ccc; height: 100%; }
+  #EsmContents { flex: 1; border: none; height: 100%; }
 </style>
 <link href="./_COM/HONDAESM.CSS" rel="stylesheet">
 <script src="./_COM/HONDAESM.JS"></script>
 <script src="./_COM/MESSAGE.JS"></script>
 <script src="./_COM/ESMLANG.JS"></script>
 <script src="./_COM/main.js"></script>
-
 </head>
 <body>
 
-<div id="header" scroll="no">
-	<table width="100%" cellpadding="0" cellspacing="0">
+<div id="header">
+  <table width="100%" cellpadding="0" cellspacing="0">
     <tr style="margin:0;padding:0;">
       <td width="1%"></td>
-      <td><div style="font-family:'MS Serif';font-size:x-large;width:100%;filter:shadow(color=gray,direction=135)">HONDA ESM</div></td>
-      <td valign="top" align="right" width="1%"><img src="./_COM/PNG/TTLHONDA.PNG"></td>
+      <td><div class="Header">HONDA ESM</div></td>
+      <td valign="top" align="right" width="1%"><img src="./_COM/PNG/TTLHONDA.PNG" alt="Honda"></td>
       <td width="1%"></td>
     </tr>
   </table>
-  <img src="./_COM/PNG/TITLEBAR.PNG",width="100%" height="31px">
+  <img src="./_COM/PNG/TITLEBAR.PNG" width="100%" height="31px" alt="">
 </div>
+
 <div id="main">
-  <div id="sidebar">
-	<p>Now loading...</p>
-  </div>
-  <div id="content">
-	<body id="INDEX"></body>
-  </div>
+  <iframe id="F11" name="F11" src="./_COM/ESMBLANK.HTML"></iframe>
+  <iframe id="EsmContents" name="EsmContents" src="./_COM/ESMBLANK.HTML"></iframe>
 </div>
 
-<noscript>
-<p>Habilita el JavaScript de tu navegador.</p>
-</noscript>
+<script>
+  window.F10 = {};
+  Object.defineProperty(window, 'F12', {
+    get: function() { return window.frames['EsmContents']; },
+    configurable: true
+  });
+</script>
 
+<noscript><p>Enable JavaScript in your browser.</p></noscript>
 </body>
 </html>
