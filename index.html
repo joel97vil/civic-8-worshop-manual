@@ -45,6 +45,39 @@
   });
 </script>
 
+<div id="imgModal" onclick="closeImageModal()" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.88);z-index:9999;cursor:zoom-out;">
+  <button onclick="event.stopPropagation();closeImageModal()" style="position:absolute;top:14px;right:18px;background:none;border:none;color:#fff;font-size:36px;line-height:1;cursor:pointer;padding:0;opacity:0.85;">&#x2715;</button>
+  <img id="imgModalImg" src="" alt="" onclick="event.stopPropagation()" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);max-width:95vw;max-height:95vh;object-fit:contain;cursor:default;box-shadow:0 4px 32px rgba(0,0,0,0.6);">
+</div>
+
+<script>
+  document.getElementById('EsmContents').addEventListener('load', function() {
+    try {
+      var cw = this.contentWindow;
+      if (cw && typeof cw.ZoomOpen === 'function') {
+        cw.ZoomOpen = function(data) {
+          if (cw.document && cw.document.ESM) cw.document.ESM.COut = data;
+          showImage(data);
+        };
+      }
+    } catch(e) {}
+  });
+
+  function showImage(data) {
+    var langPath = gESM.Lng[gESM.lngSel].Code + gESM.subSel;
+    var img = document.getElementById('imgModalImg');
+    img.src = langPath + '/PNG/' + data.Name + '.PNG';
+    document.getElementById('imgModal').style.display = 'block';
+  }
+  function closeImageModal() {
+    document.getElementById('imgModal').style.display = 'none';
+    document.getElementById('imgModalImg').src = '';
+  }
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeImageModal();
+  });
+</script>
+
 <noscript><p>Enable JavaScript in your browser.</p></noscript>
 </body>
 </html>

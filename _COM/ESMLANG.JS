@@ -1,1 +1,1 @@
-function SetLang(){var i=0;gLng[i++]=new FSL("A","English");gLng[i++]=new FSL("F","French");gLng[i++]=new FSL("G","German");gLng[i++]=new FSL("D","Dutch");gLng[i++]=new FSL("S","Spanish");}
+function SetLang(){gLng[i++]=new FSL("S","Spanish");var i=0;gLng[i++]=new FSL("A","English");gLng[i++]=new FSL("F","French");gLng[i++]=new FSL("G","German");gLng[i++]=new FSL("D","Dutch");}

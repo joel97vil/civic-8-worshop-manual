@@ -7,6 +7,19 @@ gMSG = [];
 gMY  = [];
 fn   = {};
 
+// Override ChangeLang for the frameless index.html context.
+// No page reload needed: set iframe src directly (resolves relative to index.html).
+// fSub=true (called from sidebar) and fSub=false (initial load) both just navigate iframes.
+function ChangeLang(fSub) {
+  if (gESM.subSel.length !== 2) { gESM.subSel = "00"; }
+  var strLang = gESM.Lng[gESM.lngSel].Code + gESM.subSel;
+  SetCookie("EsmLang", strLang + gESM.mySel);
+  var f11 = document.getElementById('F11');
+  var f12 = document.getElementById('EsmContents');
+  if (f11) f11.src = strLang + "/HTML/CTL/ESMSELCT.HTML";
+  if (f12) f12.src = strLang + "/HTML/CTL/ESMBLANK.HTML";
+}
+
 gESM.Lng   = gLng;
 gESM.Dir   = gDir;
 gESM.MsgC  = gMSG;
@@ -48,6 +61,11 @@ function Initialize() {
     gESM.lngSel = -1;
     for (i = 0; i < gESM.Lng.length; ++i) {
       if (gESM.Lng[i].Code.toUpperCase() === strCode) { gESM.lngSel = i; break; }
+    }
+  }
+  if (gESM.lngSel < 0) {
+    for (i = 0; i < gESM.Lng.length; ++i) {
+      if (gESM.Lng[i].Code === "S") { gESM.lngSel = i; break; }
     }
   }
   if (gESM.lngSel < 0) gESM.lngSel = 0;
