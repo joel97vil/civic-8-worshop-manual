@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -v \"^$\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git commit *)",
+      "Bash(xxd)",
+      "Bash(python3 -c \"import sys; data=sys.stdin.buffer.read\\(\\); print\\('ends_with_newline:', data[-1:] == b'\\\\n'\\); print\\('byte_count:', len\\(data\\)\\)\")",
+      "Bash(grep -c \"0a$\")",
+      "Bash(grep -r \"HONDAESM.HTML\" A00 A01 D00 D01 F00 F01 G00 G01 S00 S01 --include=\"ESMSELCT.HTML\")",
+      "Bash(grep -r 'cursor=\"hand\"\\\\|cursor:hand\\\\|\\\\.cursor=\"hand\"' A00 A01 D00 D01 F00 F01 G00 G01 S00 S01 --include=\"ESMSELCT.HTML\")",
+      "Bash(python -m http.server 8080)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8080/index.html)",
+      "Bash(start *)",
+      "Read(//c/c/Users/Joel/Desktop/Projectes/civic-8-worshop-manual/S00/HTML/CTL/**)",
+      "Read(//c/c/Users/Joel/Desktop/Projectes/civic-8-worshop-manual/D00/HTML/CTL/**)"
+    ]
+  }
+}
