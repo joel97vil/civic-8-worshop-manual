@@ -19,8 +19,8 @@ You can host the workshop manual
 Once you have all requisites, execute "manual.lnk" file on the root folder.
 
 ## Compatibility
-[X] Chrome / Mozilla / Chromium derivates (Opera, Brave...)
-[ ] Safari, others
+- [X] Chrome / Mozilla / Chromium derivates (Opera, Brave...)
+- [ ] Safari, others
 
 ## Features
 - [X] All original content
