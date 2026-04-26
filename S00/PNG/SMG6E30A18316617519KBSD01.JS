@@ -1,1 +1,1 @@
-function ISMG6E30A18316617519KBSD01(){var i=0;this.Title="Sustitución del plato de impulsos del CKP";this.Name="SMG6E30A18316617519KBSD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(100,214,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E30A18316617519KBSD01(){var i=0;this.Title="SustituciÃ³n del plato de impulsos del CKP";this.Name="SMG6E30A18316617519KBSD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(100,214,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E40A14600017801MASD02(){var i=0;this.Title="Comprobación del alabeo de la culata";this.Name="SMG6E40A14600017801MASD02";this.Width=475;this.Height=256;this.CallOut=new Array;}
+function ISMG6E40A14600017801MASD02(){var i=0;this.Title="ComprobaciÃ³n del alabeo de la culata";this.Name="SMG6E40A14600017801MASD02";this.Width=475;this.Height=256;this.CallOut=new Array;}

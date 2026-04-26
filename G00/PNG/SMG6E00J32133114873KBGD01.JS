@@ -1,1 +1,1 @@
-function ISMG6E00J32133114873KBGD01(){var i=0;this.Title="HID-Glühlampe Austausch";this.Name="SMG6E00J32133114873KBGD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(378,270,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J32133114873KBGD01(){var i=0;this.Title="HID-GlÃ¼hlampe Austausch";this.Name="SMG6E00J32133114873KBGD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(378,270,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E30A14100012901LAGD13(){var i=0;this.Title=" Lichtmaschinenbürste Inspektion";this.Name="SMG6E30A14100012901LAGD13";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A14100012901LAGD13(){var i=0;this.Title=" LichtmaschinenbÃ¼rste Inspektion";this.Name="SMG6E30A14100012901LAGD13";this.Width=475;this.Height=320;this.CallOut=new Array;}

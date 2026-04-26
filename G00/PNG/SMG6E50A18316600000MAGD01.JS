@@ -1,1 +1,1 @@
-function ISMG6E50A18316600000MAGD01(){var i=0;this.Title=" Ovalit‰t und Konizit‰t ";this.Name="SMG6E50A18316600000MAGD01";this.Width=475;this.Height=433;this.CallOut=new Array;}
+function ISMG6E50A18316600000MAGD01(){var i=0;this.Title=" Ovalit√§t und Konizit√§t ";this.Name="SMG6E50A18316600000MAGD01";this.Width=475;this.Height=433;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E30A20326428001KCSD08(){var i=0;this.Title="InstalaciÛn de los racores de conexiÛn r·pida/tubos de combustible";this.Name="SMG6E30A20326428001KCSD08";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A20326428001KCSD08(){var i=0;this.Title="Instalaci√≥n de los racores de conexi√≥n r√°pida/tubos de combustible";this.Name="SMG6E30A20326428001KCSD08";this.Width=475;this.Height=320;this.CallOut=new Array;}

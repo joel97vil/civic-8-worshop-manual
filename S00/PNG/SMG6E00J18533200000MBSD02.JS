@@ -1,1 +1,1 @@
-function ISMG6E00J18533200000MBSD02(){var i=0;this.Title="Ajuste del capó";this.Name="SMG6E00J18533200000MBSD02";this.Width=475;this.Height=609;this.CallOut=new Array;}
+function ISMG6E00J18533200000MBSD02(){var i=0;this.Title="Ajuste del capÃ³";this.Name="SMG6E00J18533200000MBSD02";this.Width=475;this.Height=609;this.CallOut=new Array;}

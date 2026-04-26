@@ -1,1 +1,1 @@
-function ISMG6E30A14680200000MBSD05(){var i=0;this.Title="Ajuste de la holgura de la v·lvulas en la culata";this.Name="SMG6E30A14680200000MBSD05";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(353,306,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E30A14680200000MBSD05(){var i=0;this.Title="Ajuste de la holgura de la v√°lvulas en la culata";this.Name="SMG6E30A14680200000MBSD05";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(353,306,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

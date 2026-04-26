@@ -1,1 +1,1 @@
-function ISMG6E00F00000000000MASD02(){var i=0;this.Title="Comprobación de la asistencia de la dirección asistida";this.Name="SMG6E00F00000000000MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00F00000000000MASD02(){var i=0;this.Title="ComprobaciÃ³n de la asistencia de la direcciÃ³n asistida";this.Name="SMG6E00F00000000000MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

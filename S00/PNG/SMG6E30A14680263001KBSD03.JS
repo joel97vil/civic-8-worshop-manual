@@ -1,1 +1,1 @@
-function ISMG6E30A14680263001KBSD03(){var i=0;this.Title="SustituciÛn de la guÌa de v·lvulas de la culata";this.Name="SMG6E30A14680263001KBSD03";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E30A14680263001KBSD03(){var i=0;this.Title="Sustituci√≥n de la gu√≠a de v√°lvulas de la culata";this.Name="SMG6E30A14680263001KBSD03";this.Width=475;this.Height=369;this.CallOut=new Array;}

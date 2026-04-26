@@ -1,1 +1,1 @@
-function ISMG6E50B20200000000MBSD01(){var i=0;this.Title=" Comprobaciones previas a la alineación";this.Name="SMG6E50B20200000000MBSD01";this.Width=475;this.Height=365;this.CallOut=new Array;}
+function ISMG6E50B20200000000MBSD01(){var i=0;this.Title=" Comprobaciones previas a la alineaciÃ³n";this.Name="SMG6E50B20200000000MBSD01";this.Width=475;this.Height=365;this.CallOut=new Array;}

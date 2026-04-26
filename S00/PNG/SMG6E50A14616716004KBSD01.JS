@@ -1,1 +1,1 @@
-function ISMG6E50A14616716004KBSD01(){var i=0;this.Title="Sustitución del piñón B del árbol de levas (Escape)";this.Name="SMG6E50A14616716004KBSD01";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E50A14616716004KBSD01(){var i=0;this.Title="SustituciÃ³n del piÃ±Ã³n B del Ã¡rbol de levas (Escape)";this.Name="SMG6E50A14616716004KBSD01";this.Width=475;this.Height=336;this.CallOut=new Array;}

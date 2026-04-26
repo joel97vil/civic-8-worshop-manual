@@ -1,1 +1,1 @@
-function ISMG6E00H46400012802BASD09(){var i=0;this.Title=" Tensor abdominal exterior del cinturón de seguridad";this.Name="SMG6E00H46400012802BASD09";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(363,35,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00H46400012802BASD09(){var i=0;this.Title=" Tensor abdominal exterior del cinturÃ³n de seguridad";this.Name="SMG6E00H46400012802BASD09";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(363,35,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

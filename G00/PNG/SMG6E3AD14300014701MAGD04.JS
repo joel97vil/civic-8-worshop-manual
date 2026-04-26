@@ -1,1 +1,1 @@
-function ISMG6E3AD14300014701MAGD04(){var i=0;this.Title=" Bremskraftverstärker-Rückschlagventil Test";this.Name="SMG6E3AD14300014701MAGD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(307,20,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E3AD14300014701MAGD04(){var i=0;this.Title=" BremskraftverstÃ¤rker-RÃ¼ckschlagventil Test";this.Name="SMG6E3AD14300014701MAGD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(307,20,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

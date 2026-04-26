@@ -1,1 +1,1 @@
-function ISMG6E00H46400012802BAGD06(){var i=0;this.Title=" Äußerer Beckengurtstraffer";this.Name="SMG6E00H46400012802BAGD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(321,298,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00H46400012802BAGD06(){var i=0;this.Title=" Ã„uÃŸerer Beckengurtstraffer";this.Name="SMG6E00H46400012802BAGD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(321,298,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

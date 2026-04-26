@@ -1,1 +1,1 @@
-function ISMG6E40A14666351511MASD04(){var i=0;this.Title="Inspección del eje de balancines y de los balancines";this.Name="SMG6E40A14666351511MASD04";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(280,129,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E40A14666351511MASD04(){var i=0;this.Title="InspecciÃ³n del eje de balancines y de los balancines";this.Name="SMG6E40A14666351511MASD04";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(280,129,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

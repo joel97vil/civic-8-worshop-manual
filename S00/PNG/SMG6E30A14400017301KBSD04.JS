@@ -1,1 +1,1 @@
-function ISMG6E30A14400017301KBSD04(){var i=0;this.Title="Sustitución del refrigerante";this.Name="SMG6E30A14400017301KBSD04";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E30A14400017301KBSD04(){var i=0;this.Title="SustituciÃ³n del refrigerante";this.Name="SMG6E30A14400017301KBSD04";this.Width=475;this.Height=336;this.CallOut=new Array;}

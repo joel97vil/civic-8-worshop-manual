@@ -1,1 +1,1 @@
-function ISMG6E00G24100050601KBSD01(){var i=0;this.Title="Sustitución del motor de control de la recirculación";this.Name="SMG6E00G24100050601KBSD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(175,387,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00G24100050601KBSD01(){var i=0;this.Title="SustituciÃ³n del motor de control de la recirculaciÃ³n";this.Name="SMG6E00G24100050601KBSD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(175,387,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

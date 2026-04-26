@@ -1,1 +1,1 @@
-function ISMG6E50A18316600000KASD05(){var i=0;this.Title="Desmontaje del cigüeñal y de los pistones";this.Name="SMG6E50A18316600000KASD05";this.Width=475;this.Height=417;this.CallOut=new Array;}
+function ISMG6E50A18316600000KASD05(){var i=0;this.Title="Desmontaje del cigÃ¼eÃ±al y de los pistones";this.Name="SMG6E50A18316600000KASD05";this.Width=475;this.Height=417;this.CallOut=new Array;}

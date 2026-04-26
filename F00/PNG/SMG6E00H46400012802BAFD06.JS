@@ -1,1 +1,1 @@
-function ISMG6E00H46400012802BAFD06(){var i=0;this.Title=" Prétensionneur de Ceinture de Sécurité Abdominale Extérieure.";this.Name="SMG6E00H46400012802BAFD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(321,298,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00H46400012802BAFD06(){var i=0;this.Title=" PrÃ©tensionneur de Ceinture de SÃ©curitÃ© Abdominale ExtÃ©rieure.";this.Name="SMG6E00H46400012802BAFD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(321,298,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

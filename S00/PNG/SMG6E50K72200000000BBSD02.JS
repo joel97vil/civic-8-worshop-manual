@@ -1,1 +1,1 @@
-function ISMG6E50K72200000000BBSD02(){var i=0;this.Title=" Cómo borrar los DTC";this.Name="SMG6E50K72200000000BBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E50K72200000000BBSD02(){var i=0;this.Title=" CÃ³mo borrar los DTC";this.Name="SMG6E50K72200000000BBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

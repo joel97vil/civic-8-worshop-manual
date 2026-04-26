@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000AAFD12(){var i=0;this.Title=" Précautions pour les contrôles électriques";this.Name="SMG6E00H46400000000AAFD12";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00H46400000000AAFD12(){var i=0;this.Title=" PrÃ©cautions pour les contrÃ´les Ã©lectriques";this.Name="SMG6E00H46400000000AAFD12";this.Width=475;this.Height=320;this.CallOut=new Array;}

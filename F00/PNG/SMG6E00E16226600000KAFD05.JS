@@ -1,1 +1,1 @@
-function ISMG6E00E16226600000KAFD05(){var i=0;this.Title=" Boîte manuelle SPLM, arbres de transmission droit et gauche";this.Name="SMG6E00E16226600000KAFD05";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00E16226600000KAFD05(){var i=0;this.Title=" BoÃ®te manuelle SPLM, arbres de transmission droit et gauche";this.Name="SMG6E00E16226600000KAFD05";this.Width=475;this.Height=320;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E00F00000000000MAGD01(){var i=0;this.Title="Lenkradspiel überprüfen";this.Name="SMG6E00F00000000000MAGD01";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E00F00000000000MAGD01(){var i=0;this.Title="Lenkradspiel Ã¼berprÃ¼fen";this.Name="SMG6E00F00000000000MAGD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

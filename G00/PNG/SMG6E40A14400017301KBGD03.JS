@@ -1,1 +1,1 @@
-function ISMG6E40A14400017301KBGD03(){var i=0;this.Title="Kühlmittel austauschen";this.Name="SMG6E40A14400017301KBGD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(16,159,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E40A14400017301KBGD03(){var i=0;this.Title="KÃ¼hlmittel austauschen";this.Name="SMG6E40A14400017301KBGD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(16,159,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

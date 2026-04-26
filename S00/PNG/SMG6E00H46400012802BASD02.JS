@@ -1,1 +1,1 @@
-function ISMG6E00H46400012802BASD02(){var i=0;this.Title=" Airbag del acompañante";this.Name="SMG6E00H46400012802BASD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(355,288,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00H46400012802BASD02(){var i=0;this.Title=" Airbag del acompaÃ±ante";this.Name="SMG6E00H46400012802BASD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(355,288,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E30A14600000000MASD01(){var i=0;this.Title="Comprobación de la relación de compresión del motor";this.Name="SMG6E30A14600000000MASD01";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E30A14600000000MASD01(){var i=0;this.Title="ComprobaciÃ³n de la relaciÃ³n de compresiÃ³n del motor";this.Name="SMG6E30A14600000000MASD01";this.Width=475;this.Height=336;this.CallOut=new Array;}

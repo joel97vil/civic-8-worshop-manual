@@ -1,1 +1,1 @@
-function ISMG6E50A14616700000KBSD06(){var i=0;this.Title=" Extracción";this.Name="SMG6E50A14616700000KBSD06";this.Width=475;this.Height=561;this.CallOut=new Array;}
+function ISMG6E50A14616700000KBSD06(){var i=0;this.Title=" ExtracciÃ³n";this.Name="SMG6E50A14616700000KBSD06";this.Width=475;this.Height=561;this.CallOut=new Array;}

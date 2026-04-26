@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000AAGD09(){var i=0;this.Title=" Vorsichtsmaﬂnahmen in Bezug auf die Verkabelung";this.Name="SMG6E00H46400000000AAGD09";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00H46400000000AAGD09(){var i=0;this.Title=" Vorsichtsma√ünahmen in Bezug auf die Verkabelung";this.Name="SMG6E00H46400000000AAGD09";this.Width=475;this.Height=320;this.CallOut=new Array;}

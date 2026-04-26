@@ -1,1 +1,1 @@
-function ISMG6E00J36200000000CASD07(){var i=0;this.Title=" Pantalla de navegación";this.Name="SMG6E00J36200000000CASD07";this.Width=950;this.Height=319;this.CallOut=new Array;}
+function ISMG6E00J36200000000CASD07(){var i=0;this.Title=" Pantalla de navegaciÃ³n";this.Name="SMG6E00J36200000000CASD07";this.Width=950;this.Height=319;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E00E16226600000KAFD07(){var i=0;this.Title=" Boîte manuelle SPHM, arbre de transmission du côté droit";this.Name="SMG6E00E16226600000KAFD07";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00E16226600000KAFD07(){var i=0;this.Title=" BoÃ®te manuelle SPHM, arbre de transmission du cÃ´tÃ© droit";this.Name="SMG6E00E16226600000KAFD07";this.Width=475;this.Height=320;this.CallOut=new Array;}

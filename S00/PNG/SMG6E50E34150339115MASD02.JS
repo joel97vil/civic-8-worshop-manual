@@ -1,1 +1,1 @@
-function ISMG6E50E34150339115MASD02(){var i=0;this.Title="Comprobación de la holgura del brazo de selección de la M/T";this.Name="SMG6E50E34150339115MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50E34150339115MASD02(){var i=0;this.Title="ComprobaciÃ³n de la holgura del brazo de selecciÃ³n de la M/T";this.Name="SMG6E50E34150339115MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

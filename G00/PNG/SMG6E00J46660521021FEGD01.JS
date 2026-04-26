@@ -1,1 +1,1 @@
-function ISMG6E00J46660521021FEGD01(){var i=0;this.Title="Türverriegelungsschalter (Zentralverriegelung) Test";this.Name="SMG6E00J46660521021FEGD01";this.Width=475;this.Height=417;this.CallOut=new Array;}
+function ISMG6E00J46660521021FEGD01(){var i=0;this.Title="TÃ¼rverriegelungsschalter (Zentralverriegelung) Test";this.Name="SMG6E00J46660521021FEGD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

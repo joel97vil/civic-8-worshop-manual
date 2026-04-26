@@ -1,1 +1,1 @@
-function ISMG6E30E34150100000LDGD06(){var i=0;this.Title="Schaltgetriebe-Baugruppe Zusammenbau";this.Name="SMG6E30E34150100000LDGD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(359,288,13,0,"'Arial','sans-serif'",0,"<b>Flüssigdichtung</b>");}
+function ISMG6E30E34150100000LDGD06(){var i=0;this.Title="Schaltgetriebe-Baugruppe Zusammenbau";this.Name="SMG6E30E34150100000LDGD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(359,288,13,0,"'Arial','sans-serif'",0,"<b>FlÃ¼ssigdichtung</b>");}

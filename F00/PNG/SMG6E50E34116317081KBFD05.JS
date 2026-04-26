@@ -1,1 +1,1 @@
-function ISMG6E50E34116317081KBFD05(){var i=0;this.Title="Remplacement du cylindre récepteur de l'embrayage";this.Name="SMG6E50E34116317081KBFD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(342,124,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E50E34116317081KBFD05(){var i=0;this.Title="Remplacement du cylindre rÃ©cepteur de l'embrayage";this.Name="SMG6E50E34116317081KBFD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(342,124,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

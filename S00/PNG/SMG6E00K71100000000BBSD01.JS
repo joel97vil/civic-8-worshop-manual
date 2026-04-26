@@ -1,1 +1,1 @@
-function ISMG6E00K71100000000BBSD01(){var i=0;this.Title=" Como efectuar la comprobación de DTCs con el HDS";this.Name="SMG6E00K71100000000BBSD01";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(552,450,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00K71100000000BBSD01(){var i=0;this.Title=" Como efectuar la comprobaciÃ³n de DTCs con el HDS";this.Name="SMG6E00K71100000000BBSD01";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(552,450,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E50A20326428001KAFD04(){var i=0;this.Title="Dépose de conduite/raccord rapide à carburant";this.Name="SMG6E50A20326428001KAFD04";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(437,396,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E50A20326428001KAFD04(){var i=0;this.Title="DÃ©pose de conduite/raccord rapide Ã  carburant";this.Name="SMG6E50A20326428001KAFD04";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(437,396,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

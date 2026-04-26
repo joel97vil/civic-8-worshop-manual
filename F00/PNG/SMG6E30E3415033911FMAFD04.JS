@@ -1,1 +1,1 @@
-function ISMG6E30E3415033911FMAFD04(){var i=0;this.Title="Contrôle du jeu de fourchettes de passage de vitesse T/M";this.Name="SMG6E30E3415033911FMAFD04";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30E3415033911FMAFD04(){var i=0;this.Title="ContrÃ´le du jeu de fourchettes de passage de vitesse T/M";this.Name="SMG6E30E3415033911FMAFD04";this.Width=475;this.Height=320;this.CallOut=new Array;}

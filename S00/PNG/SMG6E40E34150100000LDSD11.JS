@@ -1,1 +1,1 @@
-function ISMG6E40E34150100000LDSD11(){var i=0;this.Title="Montaje del conjunto de la M/T";this.Name="SMG6E40E34150100000LDSD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(363,287,13,0,"'Arial','sans-serif'",0,"<b>Junta líquida</b>");}
+function ISMG6E40E34150100000LDSD11(){var i=0;this.Title="Montaje del conjunto de la M/T";this.Name="SMG6E40E34150100000LDSD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(363,287,13,0,"'Arial','sans-serif'",0,"<b>Junta lÃ­quida</b>");}

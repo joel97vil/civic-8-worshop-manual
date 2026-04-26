@@ -1,1 +1,1 @@
-function ISMG6E50E34116300000KBSD21(){var i=0;this.Title=" Sustitución del cojinete de desembrague";this.Name="SMG6E50E34116300000KBSD21";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E50E34116300000KBSD21(){var i=0;this.Title=" SustituciÃ³n del cojinete de desembrague";this.Name="SMG6E50E34116300000KBSD21";this.Width=475;this.Height=336;this.CallOut=new Array;}

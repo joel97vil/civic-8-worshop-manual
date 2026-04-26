@@ -1,1 +1,1 @@
-function ISMG6E40A18316217201KBGD02(){var i=0;this.Title=" Pleuelfuﬂbohrung, Position der Codes";this.Name="SMG6E40A18316217201KBGD02";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E40A18316217201KBGD02(){var i=0;this.Title=" Pleuelfu√übohrung, Position der Codes";this.Name="SMG6E40A18316217201KBGD02";this.Width=475;this.Height=369;this.CallOut=new Array;}

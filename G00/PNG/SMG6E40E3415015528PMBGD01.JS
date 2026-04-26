@@ -1,1 +1,1 @@
-function ISMG6E40E3415015528PMBGD01(){var i=0;this.Title="M/T Kupplungsgeh‰use, Differential-Axialspiel Einstellung";this.Name="SMG6E40E3415015528PMBGD01";this.Width=475;this.Height=401;this.CallOut=new Array;}
+function ISMG6E40E3415015528PMBGD01(){var i=0;this.Title="M/T Kupplungsgeh√§use, Differential-Axialspiel Einstellung";this.Name="SMG6E40E3415015528PMBGD01";this.Width=475;this.Height=401;this.CallOut=new Array;}

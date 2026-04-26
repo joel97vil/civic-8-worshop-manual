@@ -1,1 +1,1 @@
-function ISMG6E30A14100012903FASD01(){var i=0;this.Title="Localización de averías del circuito del alternador y el regulador";this.Name="SMG6E30A14100012903FASD01";this.Width=475;this.Height=449;this.CallOut=new Array;}
+function ISMG6E30A14100012903FASD01(){var i=0;this.Title="LocalizaciÃ³n de averÃ­as del circuito del alternador y el regulador";this.Name="SMG6E30A14100012903FASD01";this.Width=475;this.Height=449;this.CallOut=new Array;}

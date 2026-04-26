@@ -1,1 +1,1 @@
-function ISMG6E30A14616716031KCSD05(){var i=0;this.Title="Montaje del piñón del árbol de levas";this.Name="SMG6E30A14616716031KCSD05";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A14616716031KCSD05(){var i=0;this.Title="Montaje del piÃ±Ã³n del Ã¡rbol de levas";this.Name="SMG6E30A14616716031KCSD05";this.Width=475;this.Height=320;this.CallOut=new Array;}

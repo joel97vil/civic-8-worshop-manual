@@ -1,1 +1,1 @@
-function ISMG6E50E34151150941MFGD03(){var i=0;this.Title="M/T-Rückwärtsgang-Schaltsperrensolenoid zerlegen/zusammenbauen";this.Name="SMG6E50E34151150941MFGD03";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E50E34151150941MFGD03(){var i=0;this.Title="M/T-RÃ¼ckwÃ¤rtsgang-Schaltsperrensolenoid zerlegen/zusammenbauen";this.Name="SMG6E50E34151150941MFGD03";this.Width=475;this.Height=336;this.CallOut=new Array;}

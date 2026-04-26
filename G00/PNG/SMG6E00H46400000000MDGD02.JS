@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000MDGD02(){var i=0;this.Title=" Verkleidung der B-Säule";this.Name="SMG6E00H46400000000MDGD02";this.Width=475;this.Height=481;this.CallOut=new Array;}
+function ISMG6E00H46400000000MDGD02(){var i=0;this.Title=" Verkleidung der B-SÃ¤ule";this.Name="SMG6E00H46400000000MDGD02";this.Width=475;this.Height=481;this.CallOut=new Array;}

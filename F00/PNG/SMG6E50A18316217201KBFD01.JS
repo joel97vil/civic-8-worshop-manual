@@ -1,1 +1,1 @@
-function ISMG6E50A18316217201KBFD01(){var i=0;this.Title=" Vérification du jeu des coussinets de bielle";this.Name="SMG6E50A18316217201KBFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50A18316217201KBFD01(){var i=0;this.Title=" VÃ©rification du jeu des coussinets de bielle";this.Name="SMG6E50A18316217201KBFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

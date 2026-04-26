@@ -1,1 +1,1 @@
-function ISMG6E50A18360200000KBFD05(){var i=0;this.Title=" Contrôle";this.Name="SMG6E50A18360200000KBFD05";this.Width=475;this.Height=417;this.CallOut=new Array;}
+function ISMG6E50A18360200000KBFD05(){var i=0;this.Title=" ContrÃ´le";this.Name="SMG6E50A18360200000KBFD05";this.Width=475;this.Height=417;this.CallOut=new Array;}

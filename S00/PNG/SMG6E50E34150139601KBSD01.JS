@@ -1,1 +1,1 @@
-function ISMG6E50E34150139601KBSD01(){var i=0;this.Title="Sustitución del retén de aceite del eje principal en la envolvente del embrague de la M/T";this.Name="SMG6E50E34150139601KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50E34150139601KBSD01(){var i=0;this.Title="SustituciÃ³n del retÃ©n de aceite del eje principal en la envolvente del embrague de la M/T";this.Name="SMG6E50E34150139601KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

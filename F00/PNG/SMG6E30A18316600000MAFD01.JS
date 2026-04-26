@@ -1,1 +1,1 @@
-function ISMG6E30A18316600000MAFD01(){var i=0;this.Title=" Ovalisation et conicité ";this.Name="SMG6E30A18316600000MAFD01";this.Width=475;this.Height=593;this.CallOut=new Array;}
+function ISMG6E30A18316600000MAFD01(){var i=0;this.Title=" Ovalisation et conicitÃ© ";this.Name="SMG6E30A18316600000MAFD01";this.Width=475;this.Height=593;this.CallOut=new Array;}

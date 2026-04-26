@@ -1,1 +1,1 @@
-function ISMG6E00J18513415012KDGD06(){var i=0;this.Title="Heckstoﬂf‰nger aus-/einbauen";this.Name="SMG6E00J18513415012KDGD06";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(241,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J18513415012KDGD06(){var i=0;this.Title="Hecksto√üf√§nger aus-/einbauen";this.Name="SMG6E00J18513415012KDGD06";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(241,15,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

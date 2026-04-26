@@ -1,1 +1,1 @@
-function ISMG6E900000000K0031BASD04(){var i=0;this.Title=" Marco de la puerta del conductor:";this.Name="SMG6E900000000K0031BASD04";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(87,382,13,0,"'Arial','sans-serif'",0,"<b>INFORMACI”N SOBRE NEUM¡TICOS</b>");}
+function ISMG6E900000000K0031BASD04(){var i=0;this.Title=" Marco de la puerta del conductor:";this.Name="SMG6E900000000K0031BASD04";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(87,382,13,0,"'Arial','sans-serif'",0,"<b>INFORMACI√ìN SOBRE NEUM√ÅTICOS</b>");}

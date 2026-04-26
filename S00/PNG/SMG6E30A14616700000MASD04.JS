@@ -1,1 +1,1 @@
-function ISMG6E30A14616700000MASD04(){var i=0;this.Title="Inspección del árbol de levas";this.Name="SMG6E30A14616700000MASD04";this.Width=475;this.Height=433;this.CallOut=new Array;}
+function ISMG6E30A14616700000MASD04(){var i=0;this.Title="InspecciÃ³n del Ã¡rbol de levas";this.Name="SMG6E30A14616700000MASD04";this.Width=475;this.Height=433;this.CallOut=new Array;}

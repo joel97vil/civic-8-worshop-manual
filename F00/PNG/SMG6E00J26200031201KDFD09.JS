@@ -1,1 +1,1 @@
-function ISMG6E00J26200031201KDFD09(){var i=0;this.Title="Dépose/pose de la garniture du pavillon";this.Name="SMG6E00J26200031201KDFD09";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(438,142,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J26200031201KDFD09(){var i=0;this.Title="DÃ©pose/pose de la garniture du pavillon";this.Name="SMG6E00J26200031201KDFD09";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(438,142,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

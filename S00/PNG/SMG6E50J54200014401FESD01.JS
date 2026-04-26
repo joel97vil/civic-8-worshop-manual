@@ -1,1 +1,1 @@
-function ISMG6E50J54200014401FESD01(){var i=0;this.Title=" Equipo de comprobaciÛn necesario";this.Name="SMG6E50J54200014401FESD01";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(285,14,13,0,"'Arial','sans-serif'",0,"<b>ETIQUETA DE LA BATERÕA</b>");}
+function ISMG6E50J54200014401FESD01(){var i=0;this.Title=" Equipo de comprobaci√≥n necesario";this.Name="SMG6E50J54200014401FESD01";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(285,14,13,0,"'Arial','sans-serif'",0,"<b>ETIQUETA DE LA BATER√çA</b>");}

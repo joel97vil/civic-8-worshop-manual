@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000AAFD20(){var i=0;this.Title=" Sièges avec airbags latéraux";this.Name="SMG6E00H46400000000AAFD20";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(27,191,13,0,"'Arial','sans-serif'",0,"<b>ETIQUETTE<br>D'AIRBAG LATERAL</b>");}
+function ISMG6E00H46400000000AAFD20(){var i=0;this.Title=" SiÃ¨ges avec airbags latÃ©raux";this.Name="SMG6E00H46400000000AAFD20";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(27,191,13,0,"'Arial','sans-serif'",0,"<b>ETIQUETTE<br>D'AIRBAG LATERAL</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E50E34150339124MAFD04(){var i=0;this.Title="Contrôle du jeu de levier de vitesse en marche arrière T/M";this.Name="SMG6E50E34150339124MAFD04";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50E34150339124MAFD04(){var i=0;this.Title="ContrÃ´le du jeu de levier de vitesse en marche arriÃ¨re T/M";this.Name="SMG6E50E34150339124MAFD04";this.Width=475;this.Height=320;this.CallOut=new Array;}

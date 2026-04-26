@@ -1,1 +1,1 @@
-function ISMG6E50E3415033911FMASD03(){var i=0;this.Title="Comprobación de la holgura de las horquillas de selección de la M/T";this.Name="SMG6E50E3415033911FMASD03";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50E3415033911FMASD03(){var i=0;this.Title="ComprobaciÃ³n de la holgura de las horquillas de selecciÃ³n de la M/T";this.Name="SMG6E50E3415033911FMASD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

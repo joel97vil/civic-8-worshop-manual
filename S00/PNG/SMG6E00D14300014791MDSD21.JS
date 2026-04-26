@@ -1,1 +1,1 @@
-function ISMG6E00D14300014791MDSD21(){var i=0;this.Title=" Sustitución";this.Name="SMG6E00D14300014791MDSD21";this.Width=475;this.Height=256;this.CallOut=new Array;this.CallOut[i++]=FS4(409,209,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00D14300014791MDSD21(){var i=0;this.Title=" SustituciÃ³n";this.Name="SMG6E00D14300014791MDSD21";this.Width=475;this.Height=256;this.CallOut=new Array;this.CallOut[i++]=FS4(409,209,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

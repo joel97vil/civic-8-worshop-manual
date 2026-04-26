@@ -1,1 +1,1 @@
-function ISMG6E30E34150100000LDFD06(){var i=0;this.Title="Remontage d'ensemble T/M";this.Name="SMG6E30E34150100000LDFD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(360,288,11,0,"'Arial','sans-serif'",0,"<b>Liquide d'étanchéité</b>");}
+function ISMG6E30E34150100000LDFD06(){var i=0;this.Title="Remontage d'ensemble T/M";this.Name="SMG6E30E34150100000LDFD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(360,288,11,0,"'Arial','sans-serif'",0,"<b>Liquide d'Ã©tanchÃ©itÃ©</b>");}

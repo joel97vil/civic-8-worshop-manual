@@ -1,1 +1,1 @@
-function ISMG6E40A14400065101MAGD01(){var i=0;this.Title="Wasserpumpe überprüfen";this.Name="SMG6E40A14400065101MAGD01";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E40A14400065101MAGD01(){var i=0;this.Title="Wasserpumpe Ã¼berprÃ¼fen";this.Name="SMG6E40A14400065101MAGD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

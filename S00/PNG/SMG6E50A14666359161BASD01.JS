@@ -1,1 +1,1 @@
-function ISMG6E50A14666359161BASD01(){var i=0;this.Title="Purga del aire de los taquÈs hidr·ulicos de la culata";this.Name="SMG6E50A14666359161BASD01";this.Width=475;this.Height=272;this.CallOut=new Array;}
+function ISMG6E50A14666359161BASD01(){var i=0;this.Title="Purga del aire de los taqu√©s hidr√°ulicos de la culata";this.Name="SMG6E50A14666359161BASD01";this.Width=475;this.Height=272;this.CallOut=new Array;}

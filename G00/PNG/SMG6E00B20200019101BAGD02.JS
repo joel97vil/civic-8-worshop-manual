@@ -1,1 +1,1 @@
-function ISMG6E00B20200019101BAGD02(){var i=0;this.Title=" Hinterer Stoﬂd‰mpfer:";this.Name="SMG6E00B20200019101BAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00B20200019101BAGD02(){var i=0;this.Title=" Hinterer Sto√üd√§mpfer:";this.Name="SMG6E00B20200019101BAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

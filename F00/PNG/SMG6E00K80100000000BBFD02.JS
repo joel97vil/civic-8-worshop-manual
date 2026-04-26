@@ -1,1 +1,1 @@
-function ISMG6E00K80100000000BBFD02(){var i=0;this.Title=" Comment utiliser le système de diagnostic Honda (HDS)";this.Name="SMG6E00K80100000000BBFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(260,285,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00K80100000000BBFD02(){var i=0;this.Title=" Comment utiliser le systÃ¨me de diagnostic Honda (HDS)";this.Name="SMG6E00K80100000000BBFD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(260,285,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

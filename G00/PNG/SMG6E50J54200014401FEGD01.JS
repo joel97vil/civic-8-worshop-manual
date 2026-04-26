@@ -1,1 +1,1 @@
-function ISMG6E50J54200014401FEGD01(){var i=0;this.Title=" Erforderliche Prüfausrüstung";this.Name="SMG6E50J54200014401FEGD01";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(320,15,13,0,"'Arial','sans-serif'",0,"<b>BATTERIEAUFKLEBER</b>");}
+function ISMG6E50J54200014401FEGD01(){var i=0;this.Title=" Erforderliche PrÃ¼fausrÃ¼stung";this.Name="SMG6E50J54200014401FEGD01";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(320,15,13,0,"'Arial','sans-serif'",0,"<b>BATTERIEAUFKLEBER</b>");}

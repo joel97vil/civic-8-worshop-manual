@@ -1,1 +1,1 @@
-function ISMG6E50A20326428001KCFD08(){var i=0;this.Title=" Branchement à une nouvelle conduite à carburant";this.Name="SMG6E50A20326428001KCFD08";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E50A20326428001KCFD08(){var i=0;this.Title=" Branchement Ã  une nouvelle conduite Ã  carburant";this.Name="SMG6E50A20326428001KCFD08";this.Width=475;this.Height=369;this.CallOut=new Array;}

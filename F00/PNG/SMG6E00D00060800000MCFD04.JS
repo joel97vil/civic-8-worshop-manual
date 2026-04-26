@@ -1,1 +1,1 @@
-function ISMG6E00D00060800000MCFD04(){var i=0;this.Title=" Réglage";this.Name="SMG6E00D00060800000MCFD04";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E00D00060800000MCFD04(){var i=0;this.Title=" RÃ©glage";this.Name="SMG6E00D00060800000MCFD04";this.Width=475;this.Height=369;this.CallOut=new Array;}

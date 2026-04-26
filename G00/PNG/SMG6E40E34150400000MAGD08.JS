@@ -1,1 +1,1 @@
-function ISMG6E40E34150400000MAGD08(){var i=0;this.Title="Spiel der M/T-Hauptwellen-Baugruppe überprüfen";this.Name="SMG6E40E34150400000MAGD08";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E40E34150400000MAGD08(){var i=0;this.Title="Spiel der M/T-Hauptwellen-Baugruppe Ã¼berprÃ¼fen";this.Name="SMG6E40E34150400000MAGD08";this.Width=475;this.Height=320;this.CallOut=new Array;}

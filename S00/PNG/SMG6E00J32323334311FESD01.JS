@@ -1,1 +1,1 @@
-function ISMG6E00J32323334311FESD01(){var i=0;this.Title="Comprobación del interruptor de la llave de contacto";this.Name="SMG6E00J32323334311FESD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(368,222,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J32323334311FESD01(){var i=0;this.Title="ComprobaciÃ³n del interruptor de la llave de contacto";this.Name="SMG6E00J32323334311FESD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(368,222,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E30A18224024911KBSD04(){var i=0;this.Title="Sustitución de la fijación del motor lateral";this.Name="SMG6E30A18224024911KBSD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(259,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E30A18224024911KBSD04(){var i=0;this.Title="SustituciÃ³n de la fijaciÃ³n del motor lateral";this.Name="SMG6E30A18224024911KBSD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(259,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

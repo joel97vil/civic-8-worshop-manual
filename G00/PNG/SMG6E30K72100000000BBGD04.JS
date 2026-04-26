@@ -1,1 +1,1 @@
-function ISMG6E30K72100000000BBGD04(){var i=0;this.Title=" Fehlersuche in den Schaltkreisen der ECM-Anschlüsse";this.Name="SMG6E30K72100000000BBGD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(390,46,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E30K72100000000BBGD04(){var i=0;this.Title=" Fehlersuche in den Schaltkreisen der ECM-AnschlÃ¼sse";this.Name="SMG6E30K72100000000BBGD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(390,46,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

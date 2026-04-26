@@ -1,1 +1,1 @@
-function ISMG6E00K71100000000BBGD01(){var i=0;this.Title=" Mit dem HDS auf DTCs prüfen";this.Name="SMG6E00K71100000000BBGD01";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(552,450,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00K71100000000BBGD01(){var i=0;this.Title=" Mit dem HDS auf DTCs prÃ¼fen";this.Name="SMG6E00K71100000000BBGD01";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(552,450,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E30A32200043301KBSD02(){var i=0;this.Title="Sustitución del filtro de aceite del motor";this.Name="SMG6E30A32200043301KBSD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(38,323,13,0,"'Arial','sans-serif'",0,"<b>07HAA-PJ70100</b>");}
+function ISMG6E30A32200043301KBSD02(){var i=0;this.Title="SustituciÃ³n del filtro de aceite del motor";this.Name="SMG6E30A32200043301KBSD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(38,323,13,0,"'Arial','sans-serif'",0,"<b>07HAA-PJ70100</b>");}

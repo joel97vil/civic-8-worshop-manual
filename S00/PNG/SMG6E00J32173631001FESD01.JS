@@ -1,1 +1,1 @@
-function ISMG6E00J32173631001FESD01(){var i=0;this.Title="Comprobación del interruptor de las luces de aviso de emergencia";this.Name="SMG6E00J32173631001FESD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(370,149,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J32173631001FESD01(){var i=0;this.Title="ComprobaciÃ³n del interruptor de las luces de aviso de emergencia";this.Name="SMG6E00J32173631001FESD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(370,149,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E30E34150439371MASD02(){var i=0;this.Title="Inspección del eje principal de la M/T";this.Name="SMG6E30E34150439371MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30E34150439371MASD02(){var i=0;this.Title="InspecciÃ³n del eje principal de la M/T";this.Name="SMG6E30E34150439371MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E00J46127053949KBSD08(){var i=0;this.Title="Asiento delantero - Sustitución de la funda del respaldo";this.Name="SMG6E00J46127053949KBSD08";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(188,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J46127053949KBSD08(){var i=0;this.Title="Asiento delantero - SustituciÃ³n de la funda del respaldo";this.Name="SMG6E00J46127053949KBSD08";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(188,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

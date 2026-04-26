@@ -1,1 +1,1 @@
-function ISMG6E50A14674300000KASD05(){var i=0;this.Title="Desmontaje de la cadena del árbol de levas";this.Name="SMG6E50A14674300000KASD05";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E50A14674300000KASD05(){var i=0;this.Title="Desmontaje de la cadena del Ã¡rbol de levas";this.Name="SMG6E50A14674300000KASD05";this.Width=475;this.Height=369;this.CallOut=new Array;}

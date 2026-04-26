@@ -1,1 +1,1 @@
-function ISMG6E50E16226622502KBSD01(){var i=0;this.Title="SustituciÛn del amortiguador din·mico del palier";this.Name="SMG6E50E16226622502KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(101,235,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E50E16226622502KBSD01(){var i=0;this.Title="Sustituci√≥n del amortiguador din√°mico del palier";this.Name="SMG6E50E16226622502KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(101,235,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

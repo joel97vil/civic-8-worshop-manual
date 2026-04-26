@@ -1,1 +1,1 @@
-function ISMG6E00F00000000000MAFD01(){var i=0;this.Title="Contrôle du jeu rotationnel du volant";this.Name="SMG6E00F00000000000MAFD01";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E00F00000000000MAFD01(){var i=0;this.Title="ContrÃ´le du jeu rotationnel du volant";this.Name="SMG6E00F00000000000MAFD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

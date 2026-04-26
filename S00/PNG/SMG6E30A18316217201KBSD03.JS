@@ -1,1 +1,1 @@
-function ISMG6E30A18316217201KBSD03(){var i=0;this.Title=" Situación del código de la muñequilla de biela";this.Name="SMG6E30A18316217201KBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A18316217201KBSD03(){var i=0;this.Title=" SituaciÃ³n del cÃ³digo de la muÃ±equilla de biela";this.Name="SMG6E30A18316217201KBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

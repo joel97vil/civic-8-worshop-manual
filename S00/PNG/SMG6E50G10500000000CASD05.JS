@@ -1,1 +1,1 @@
-function ISMG6E50G10500000000CASD05(){var i=0;this.Title=" Resumen";this.Name="SMG6E50G10500000000CASD05";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(250,451,12,0,"'Arial','sans-serif'",0,"<b>NÚCLEO DEL CALEFACTOR PTC</b>");}
+function ISMG6E50G10500000000CASD05(){var i=0;this.Title=" Resumen";this.Name="SMG6E50G10500000000CASD05";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(250,451,12,0,"'Arial','sans-serif'",0,"<b>NÃšCLEO DEL CALEFACTOR PTC</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E40E34150354601MAFD02(){var i=0;this.Title="Contrôle du jeu de bras de changement de vitesse T/M";this.Name="SMG6E40E34150354601MAFD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E40E34150354601MAFD02(){var i=0;this.Title="ContrÃ´le du jeu de bras de changement de vitesse T/M";this.Name="SMG6E40E34150354601MAFD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E40A20326428001KCFD03(){var i=0;this.Title="Pose de conduite à carburant/raccord rapide";this.Name="SMG6E40A20326428001KCFD03";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(435,40,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E40A20326428001KCFD03(){var i=0;this.Title="Pose de conduite Ã  carburant/raccord rapide";this.Name="SMG6E40A20326428001KCFD03";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(435,40,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E40E16236500000KAFD01(){var i=0;this.Title=" Boîte manuelle SPHM";this.Name="SMG6E40E16236500000KAFD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(157,354,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E40E16236500000KAFD01(){var i=0;this.Title=" BoÃ®te manuelle SPHM";this.Name="SMG6E40E16236500000KAFD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(157,354,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

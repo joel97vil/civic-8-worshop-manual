@@ -1,1 +1,1 @@
-function ISMG6E50R11100000000YCSD11(){var i=0;this.Title=" Marco de la puerta del acompañante:";this.Name="SMG6E50R11100000000YCSD11";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(283,496,13,0,"'Arial','sans-serif'",0,"<b>Placa de verificación</b>");}
+function ISMG6E50R11100000000YCSD11(){var i=0;this.Title=" Marco de la puerta del acompaÃ±ante:";this.Name="SMG6E50R11100000000YCSD11";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(283,496,13,0,"'Arial','sans-serif'",0,"<b>Placa de verificaciÃ³n</b>");}

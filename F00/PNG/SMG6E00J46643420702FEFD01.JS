@@ -1,1 +1,1 @@
-function ISMG6E00J46643420702FEFD01(){var i=0;this.Title="Essai de contacteur de barillet à clé de porte";this.Name="SMG6E00J46643420702FEFD01";this.Width=475;this.Height=417;this.CallOut=new Array;}
+function ISMG6E00J46643420702FEFD01(){var i=0;this.Title="Essai de contacteur de barillet Ã  clÃ© de porte";this.Name="SMG6E00J46643420702FEFD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

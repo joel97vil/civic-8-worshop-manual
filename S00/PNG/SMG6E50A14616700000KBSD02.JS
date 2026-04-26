@@ -1,1 +1,1 @@
-function ISMG6E50A14616700000KBSD02(){var i=0;this.Title=" Extracción";this.Name="SMG6E50A14616700000KBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(295,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E50A14616700000KBSD02(){var i=0;this.Title=" ExtracciÃ³n";this.Name="SMG6E50A14616700000KBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(295,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,1 +1,1 @@
-function ISMG6E40A18316217201KBSD02(){var i=0;this.Title=" SituaciÛn de los cÛdigos del di·metro interior de la cabeza de la biela";this.Name="SMG6E40A18316217201KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E40A18316217201KBSD02(){var i=0;this.Title=" Situaci√≥n de los c√≥digos del di√°metro interior de la cabeza de la biela";this.Name="SMG6E40A18316217201KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;}

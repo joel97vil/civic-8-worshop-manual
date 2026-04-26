@@ -1,1 +1,1 @@
-function ISMG6E50A18300024751MAFD02(){var i=0;this.Title="Contrôle du bloc et des pistons";this.Name="SMG6E50A18300024751MAFD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50A18300024751MAFD02(){var i=0;this.Title="ContrÃ´le du bloc et des pistons";this.Name="SMG6E50A18300024751MAFD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

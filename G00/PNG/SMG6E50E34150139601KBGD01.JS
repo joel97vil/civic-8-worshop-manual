@@ -1,1 +1,1 @@
-function ISMG6E50E34150139601KBGD01(){var i=0;this.Title="M/T-Kupplungsgehäuse, Hauptwellenöldichtung Austausch";this.Name="SMG6E50E34150139601KBGD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50E34150139601KBGD01(){var i=0;this.Title="M/T-KupplungsgehÃ¤use, HauptwellenÃ¶ldichtung Austausch";this.Name="SMG6E50E34150139601KBGD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

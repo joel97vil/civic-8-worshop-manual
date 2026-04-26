@@ -1,1 +1,1 @@
-function ISMG6E40A46500000000FASDO2(){var i=0;this.Title="Localización de averías del circuito del motor de arranque";this.Name="SMG6E40A46500000000FASDO2";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(259,16,13,0,"'Arial','sans-serif'",0,"<b>S</b>");}
+function ISMG6E40A46500000000FASDO2(){var i=0;this.Title="LocalizaciÃ³n de averÃ­as del circuito del motor de arranque";this.Name="SMG6E40A46500000000FASDO2";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(259,16,13,0,"'Arial','sans-serif'",0,"<b>S</b>");}

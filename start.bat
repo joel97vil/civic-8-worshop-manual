@@ -70,5 +70,3 @@ echo.
 
 echo ¡Completado!
 echo Cierra la ventana "Honda ESM - Server" para acabar.
-echo.
-:: pause

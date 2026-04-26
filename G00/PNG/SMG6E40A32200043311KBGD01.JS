@@ -1,1 +1,1 @@
-function ISMG6E40A32200043311KBGD01(){var i=0;this.Title="Motorölfilter-Speiserohr austauschen";this.Name="SMG6E40A32200043311KBGD01";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E40A32200043311KBGD01(){var i=0;this.Title="MotorÃ¶lfilter-Speiserohr austauschen";this.Name="SMG6E40A32200043311KBGD01";this.Width=475;this.Height=336;this.CallOut=new Array;}

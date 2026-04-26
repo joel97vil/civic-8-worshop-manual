@@ -1,1 +1,1 @@
-function ISMG6E30A14616716031KASD03(){var i=0;this.Title="Desmontaje del piñón del árbol de levas";this.Name="SMG6E30A14616716031KASD03";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E30A14616716031KASD03(){var i=0;this.Title="Desmontaje del piÃ±Ã³n del Ã¡rbol de levas";this.Name="SMG6E30A14616716031KASD03";this.Width=475;this.Height=336;this.CallOut=new Array;}

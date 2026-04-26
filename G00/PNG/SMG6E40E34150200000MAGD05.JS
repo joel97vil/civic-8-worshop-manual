@@ -1,1 +1,1 @@
-function ISMG6E40E34150200000MAGD05(){var i=0;this.Title="Spiel der M/T-Vorgelegewellen-Baugruppe überprüfen";this.Name="SMG6E40E34150200000MAGD05";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E40E34150200000MAGD05(){var i=0;this.Title="Spiel der M/T-Vorgelegewellen-Baugruppe Ã¼berprÃ¼fen";this.Name="SMG6E40E34150200000MAGD05";this.Width=475;this.Height=320;this.CallOut=new Array;}

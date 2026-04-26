@@ -1,1 +1,1 @@
-function ISMG6E00J46166400000KDSD04(){var i=0;this.Title="Extracción/Instalación del asiento trasero";this.Name="SMG6E00J46166400000KDSD04";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(398,74,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J46166400000KDSD04(){var i=0;this.Title="ExtracciÃ³n/InstalaciÃ³n del asiento trasero";this.Name="SMG6E00J46166400000KDSD04";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(398,74,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

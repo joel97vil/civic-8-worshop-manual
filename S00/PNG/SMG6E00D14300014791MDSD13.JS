@@ -1,1 +1,1 @@
-function ISMG6E00D14300014791MDSD13(){var i=0;this.Title=" Sustitución";this.Name="SMG6E00D14300014791MDSD13";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E00D14300014791MDSD13(){var i=0;this.Title=" SustituciÃ³n";this.Name="SMG6E00D14300014791MDSD13";this.Width=475;this.Height=369;this.CallOut=new Array;}

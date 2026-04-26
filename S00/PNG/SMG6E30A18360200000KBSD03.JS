@@ -1,1 +1,1 @@
-function ISMG6E30A18360200000KBSD03(){var i=0;this.Title=" Revisión";this.Name="SMG6E30A18360200000KBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A18360200000KBSD03(){var i=0;this.Title=" RevisiÃ³n";this.Name="SMG6E30A18360200000KBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

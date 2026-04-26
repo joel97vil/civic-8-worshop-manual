@@ -1,1 +1,1 @@
-function ISMG6E00J26220219251KDSD03(){var i=0;this.Title=" Salida de ventilación del acompañante";this.Name="SMG6E00J26220219251KDSD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(380,102,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J26220219251KDSD03(){var i=0;this.Title=" Salida de ventilaciÃ³n del acompaÃ±ante";this.Name="SMG6E00J26220219251KDSD03";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(380,102,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

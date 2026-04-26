@@ -1,1 +1,1 @@
-function ISMG6E50A14100022205MASD01(){var i=0;this.Title="InspecciÛn del tensor autom·tico de la correa de accionamiento";this.Name="SMG6E50A14100022205MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(432,108,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E50A14100022205MASD01(){var i=0;this.Title="Inspecci√≥n del tensor autom√°tico de la correa de accionamiento";this.Name="SMG6E50A14100022205MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(432,108,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

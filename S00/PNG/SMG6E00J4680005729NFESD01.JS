@@ -1,1 +1,1 @@
-function ISMG6E00J4680005729NFESD01(){var i=0;this.Title="Comprobación del interruptor del techo corredizo";this.Name="SMG6E00J4680005729NFESD01";this.Width=475;this.Height=465;this.CallOut=new Array;}
+function ISMG6E00J4680005729NFESD01(){var i=0;this.Title="ComprobaciÃ³n del interruptor del techo corredizo";this.Name="SMG6E00J4680005729NFESD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

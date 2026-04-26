@@ -1,1 +1,1 @@
-function ISMG6E50A18360245611KBSD06(){var i=0;this.Title="Sustitución de los segmentos del pistón";this.Name="SMG6E50A18360245611KBSD06";this.Width=475;this.Height=353;this.CallOut=new Array;}
+function ISMG6E50A18360245611KBSD06(){var i=0;this.Title="SustituciÃ³n de los segmentos del pistÃ³n";this.Name="SMG6E50A18360245611KBSD06";this.Width=475;this.Height=353;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E30A32200043701KBGD01(){var i=0;this.Title="Motorölwechsel";this.Name="SMG6E30A32200043701KBGD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(69,352,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>9,8 N&middot;m<br>(1,0 kgf&middot;m)</b>");}
+function ISMG6E30A32200043701KBGD01(){var i=0;this.Title="MotorÃ¶lwechsel";this.Name="SMG6E30A32200043701KBGD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(69,352,13,0,"'Arial','sans-serif'",0,"<b>6 x 1,0 mm<br>9,8 N&middot;m<br>(1,0 kgf&middot;m)</b>");}

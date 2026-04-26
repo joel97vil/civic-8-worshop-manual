@@ -1,1 +1,1 @@
-function ISMG6E40A46500000000FASD01(){var i=0;this.Title="Localización de averías del circuito del motor de arranque";this.Name="SMG6E40A46500000000FASD01";this.Width=475;this.Height=449;this.CallOut=new Array;}
+function ISMG6E40A46500000000FASD01(){var i=0;this.Title="LocalizaciÃ³n de averÃ­as del circuito del motor de arranque";this.Name="SMG6E40A46500000000FASD01";this.Width=475;this.Height=449;this.CallOut=new Array;}

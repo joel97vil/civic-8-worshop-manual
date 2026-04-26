@@ -1,1 +1,1 @@
-function ISMG6E40E34116300000KBSD07(){var i=0;this.Title=" Caja de cambios manual SPHMExtracción del disco y plato de presión del embrague";this.Name="SMG6E40E34116300000KBSD07";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E40E34116300000KBSD07(){var i=0;this.Title=" Caja de cambios manual SPHMExtracciÃ³n del disco y plato de presiÃ³n del embrague";this.Name="SMG6E40E34116300000KBSD07";this.Width=475;this.Height=320;this.CallOut=new Array;}

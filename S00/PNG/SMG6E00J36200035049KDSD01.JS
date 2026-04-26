@@ -1,1 +1,1 @@
-function ISMG6E00J36200035049KDSD01(){var i=0;this.Title="Extracción/Instalación del dial del interfaz de navegación";this.Name="SMG6E00J36200035049KDSD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(365,155,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J36200035049KDSD01(){var i=0;this.Title="ExtracciÃ³n/InstalaciÃ³n del dial del interfaz de navegaciÃ³n";this.Name="SMG6E00J36200035049KDSD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(365,155,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

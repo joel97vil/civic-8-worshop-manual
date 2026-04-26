@@ -1,1 +1,1 @@
-function ISMG6E000000000K0061BAFD10(){var i=0;this.Title=" Généralités";this.Name="SMG6E000000000K0061BAFD10";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E000000000K0061BAFD10(){var i=0;this.Title=" GÃ©nÃ©ralitÃ©s";this.Name="SMG6E000000000K0061BAFD10";this.Width=475;this.Height=320;this.CallOut=new Array;}

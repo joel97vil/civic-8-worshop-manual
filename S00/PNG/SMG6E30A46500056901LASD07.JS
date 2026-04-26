@@ -1,1 +1,1 @@
-function ISMG6E30A46500056901LASD07(){var i=0;this.Title=" Comprobación y revisión del inducido";this.Name="SMG6E30A46500056901LASD07";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E30A46500056901LASD07(){var i=0;this.Title=" ComprobaciÃ³n y revisiÃ³n del inducido";this.Name="SMG6E30A46500056901LASD07";this.Width=475;this.Height=336;this.CallOut=new Array;}

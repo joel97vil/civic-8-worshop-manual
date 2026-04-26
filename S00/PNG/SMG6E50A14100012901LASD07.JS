@@ -1,1 +1,1 @@
-function ISMG6E50A14100012901LASD07(){var i=0;this.Title="Revisión general del alternador";this.Name="SMG6E50A14100012901LASD07";this.Width=475;this.Height=449;this.CallOut=new Array;}
+function ISMG6E50A14100012901LASD07(){var i=0;this.Title="RevisiÃ³n general del alternador";this.Name="SMG6E50A14100012901LASD07";this.Width=475;this.Height=449;this.CallOut=new Array;}

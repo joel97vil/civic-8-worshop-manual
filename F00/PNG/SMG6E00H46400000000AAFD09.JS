@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000AAFD09(){var i=0;this.Title=" PrÈcautions pour le c‚blage";this.Name="SMG6E00H46400000000AAFD09";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00H46400000000AAFD09(){var i=0;this.Title=" Pr√©cautions pour le c√¢blage";this.Name="SMG6E00H46400000000AAFD09";this.Width=475;this.Height=320;this.CallOut=new Array;}

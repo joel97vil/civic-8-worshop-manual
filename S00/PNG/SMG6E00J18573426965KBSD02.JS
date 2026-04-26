@@ -1,1 +1,1 @@
-function ISMG6E00J18573426965KBSD02(){var i=0;this.Title="Sustitución del guarnecido del guardabarros delantero";this.Name="SMG6E00J18573426965KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(92,107,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J18573426965KBSD02(){var i=0;this.Title="SustituciÃ³n del guarnecido del guardabarros delantero";this.Name="SMG6E00J18573426965KBSD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(92,107,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

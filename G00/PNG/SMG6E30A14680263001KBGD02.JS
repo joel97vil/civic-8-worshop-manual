@@ -1,1 +1,1 @@
-function ISMG6E30A14680263001KBGD02(){var i=0;this.Title="Zylinderkopf, Ventilführung Austausch";this.Name="SMG6E30A14680263001KBGD02";this.Width=475;this.Height=346;this.CallOut=new Array;}
+function ISMG6E30A14680263001KBGD02(){var i=0;this.Title="Zylinderkopf, VentilfÃ¼hrung Austausch";this.Name="SMG6E30A14680263001KBGD02";this.Width=475;this.Height=346;this.CallOut=new Array;}

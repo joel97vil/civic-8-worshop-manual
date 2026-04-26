@@ -1,1 +1,1 @@
-function ISMG6E30A18300024751MAGD04(){var i=0;this.Title="Motorblock und Kolben Inspektion";this.Name="SMG6E30A18300024751MAGD04";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(141,305,13,0,"'Arial','sans-serif'",0,"<b>PRÄZISIONS-RICHTLINEAL</b>");}
+function ISMG6E30A18300024751MAGD04(){var i=0;this.Title="Motorblock und Kolben Inspektion";this.Name="SMG6E30A18300024751MAGD04";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(141,305,13,0,"'Arial','sans-serif'",0,"<b>PRÃ„ZISIONS-RICHTLINEAL</b>");}

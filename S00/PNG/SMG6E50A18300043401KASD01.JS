@@ -1,1 +1,1 @@
-function ISMG6E50A18300043401KASD01(){var i=0;this.Title="Desmontaje del c·rter de aceite del motor";this.Name="SMG6E50A18300043401KASD01";this.Width=475;this.Height=497;this.CallOut=new Array;}
+function ISMG6E50A18300043401KASD01(){var i=0;this.Title="Desmontaje del c√°rter de aceite del motor";this.Name="SMG6E50A18300043401KASD01";this.Width=475;this.Height=497;this.CallOut=new Array;}

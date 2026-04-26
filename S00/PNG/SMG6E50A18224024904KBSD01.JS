@@ -1,1 +1,1 @@
-function ISMG6E50A18224024904KBSD01(){var i=0;this.Title="Sustitución de la barra de torsión inferior";this.Name="SMG6E50A18224024904KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(382,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E50A18224024904KBSD01(){var i=0;this.Title="SustituciÃ³n de la barra de torsiÃ³n inferior";this.Name="SMG6E50A18224024904KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(382,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

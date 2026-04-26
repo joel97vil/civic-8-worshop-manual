@@ -1,1 +1,1 @@
-function ISMG6E00J54200000000BBSD03(){var i=0;this.Title=" Manipulación de conectores";this.Name="SMG6E00J54200000000BBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00J54200000000BBSD03(){var i=0;this.Title=" ManipulaciÃ³n de conectores";this.Name="SMG6E00J54200000000BBSD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

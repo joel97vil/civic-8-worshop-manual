@@ -1,1 +1,1 @@
-function ISMG6E30A14600017801MASD01(){var i=0;this.Title="Comprobación del alabeo de la culata";this.Name="SMG6E30A14600017801MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(16,17,13,0,"'Arial','sans-serif'",0,"<b>REGLA DE PRECISIÓN</b>");}
+function ISMG6E30A14600017801MASD01(){var i=0;this.Title="ComprobaciÃ³n del alabeo de la culata";this.Name="SMG6E30A14600017801MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(16,17,13,0,"'Arial','sans-serif'",0,"<b>REGLA DE PRECISIÃ“N</b>");}

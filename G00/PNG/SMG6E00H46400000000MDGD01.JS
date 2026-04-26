@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000MDGD01(){var i=0;this.Title=" Verkleidung der A-S‰ule";this.Name="SMG6E00H46400000000MDGD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(36,127,13,0,"'Arial','sans-serif'",0,"<b></b>Grunds‰tzlich erneuern.");}
+function ISMG6E00H46400000000MDGD01(){var i=0;this.Title=" Verkleidung der A-S√§ule";this.Name="SMG6E00H46400000000MDGD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(36,127,13,0,"'Arial','sans-serif'",0,"<b></b>Grunds√§tzlich erneuern.");}

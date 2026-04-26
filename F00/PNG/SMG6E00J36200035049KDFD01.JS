@@ -1,1 +1,1 @@
-function ISMG6E00J36200035049KDFD01(){var i=0;this.Title="Dépose/pose du cadran d'interface de navigation";this.Name="SMG6E00J36200035049KDFD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(365,155,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J36200035049KDFD01(){var i=0;this.Title="DÃ©pose/pose du cadran d'interface de navigation";this.Name="SMG6E00J36200035049KDFD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(365,155,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

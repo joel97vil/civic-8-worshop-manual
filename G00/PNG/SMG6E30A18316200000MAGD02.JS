@@ -1,1 +1,1 @@
-function ISMG6E30A18316200000MAGD02(){var i=0;this.Title="Pleuelstangen- und Kurbelwellenaxialspiel überprüfen";this.Name="SMG6E30A18316200000MAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A18316200000MAGD02(){var i=0;this.Title="Pleuelstangen- und Kurbelwellenaxialspiel Ã¼berprÃ¼fen";this.Name="SMG6E30A18316200000MAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

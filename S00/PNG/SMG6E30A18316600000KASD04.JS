@@ -1,1 +1,1 @@
-function ISMG6E30A18316600000KASD04(){var i=0;this.Title="Desmontaje del cigüeñal y de los pistones";this.Name="SMG6E30A18316600000KASD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(388,29,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E30A18316600000KASD04(){var i=0;this.Title="Desmontaje del cigÃ¼eÃ±al y de los pistones";this.Name="SMG6E30A18316600000KASD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(388,29,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

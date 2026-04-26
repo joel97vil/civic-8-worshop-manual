@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000AAGD12(){var i=0;this.Title=" Vorsichtsmaﬂnahmen bei ‹berpr¸fung der Elektrik";this.Name="SMG6E00H46400000000AAGD12";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00H46400000000AAGD12(){var i=0;this.Title=" Vorsichtsma√ünahmen bei √úberpr√ºfung der Elektrik";this.Name="SMG6E00H46400000000AAGD12";this.Width=475;this.Height=320;this.CallOut=new Array;}

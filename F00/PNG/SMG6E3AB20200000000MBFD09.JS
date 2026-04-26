@@ -1,1 +1,1 @@
-function ISMG6E3AB20200000000MBFD09(){var i=0;this.Title=" Contrôler de l'angle de braquage";this.Name="SMG6E3AB20200000000MBFD09";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E3AB20200000000MBFD09(){var i=0;this.Title=" ContrÃ´ler de l'angle de braquage";this.Name="SMG6E3AB20200000000MBFD09";this.Width=475;this.Height=320;this.CallOut=new Array;}

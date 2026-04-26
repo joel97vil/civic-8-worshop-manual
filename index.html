@@ -1,17 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="HONDA MOTOR Co.,Ltd.">
+<meta name="co-author" content="Joel Faura M.">
 <title>Manual de Taller (HONDA MOTOR Co.,Ltd.)</title>
 <link rel="icon" type="image/x-icon" href="./HondaESM.ico">
 <style>
   html, body { height: 100%; margin: 0; overflow: hidden; }
   #header { height: 71px; overflow: hidden; background: #fff; }
-  #main { display: flex; height: calc(100% - 71px); }
+  #main { display: flex; height: calc(100% - 71px - 36px); }
   #F11 { width: 370px; min-width: 370px; border: none; border-right: 1px solid #ccc; height: 100%; }
   #EsmContents { flex: 1; border: none; height: 100%; }
+  footer {
+    height: 36px; display: flex; align-items: center; justify-content: center;
+    background: #f5f5f5; border-top: 1px solid #ddd;
+    font-family: Arial, sans-serif; font-size: 11px; color: #555;
+    gap: 18px; padding: 0 12px;
+  }
+  footer span { white-space: nowrap; }
+  footer a { color: #555; text-decoration: none; }
+  footer .sep { color: #bbb; }
 </style>
 <link href="./_COM/HONDAESM.CSS" rel="stylesheet">
 <script src="./_COM/HONDAESM.JS"></script>
@@ -79,6 +89,16 @@
   });
 </script>
 
-<noscript><p>Enable JavaScript in your browser.</p></noscript>
+<noscript>
+  <h2>Enable JavaScript in your browser.</h2>
+</noscript>
+
+<footer>
+  <span>Manual content &copy; Honda Motor Co., Ltd. All rights reserved.</span>
+  <span class="sep">|</span>
+  <span>Unofficial browser modernization by <a href="https://joelfaura.com/portfolio">Joel Faura</a> &mdash; not affiliated with or endorsed by Honda.</span>
+  <span class="sep">|</span>
+  <span>For personal/educational use only.</span>
+</footer>
 </body>
 </html>

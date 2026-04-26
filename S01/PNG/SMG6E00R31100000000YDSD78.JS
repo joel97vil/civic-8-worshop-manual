@@ -1,1 +1,1 @@
-function ISMG6E00R31100000000YDSD78(){var i=0;this.Title="Montaje del piso trasero y del travesaño del piso trasero";this.Name="SMG6E00R31100000000YDSD78";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(350,38,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00R31100000000YDSD78(){var i=0;this.Title="Montaje del piso trasero y del travesaÃ±o del piso trasero";this.Name="SMG6E00R31100000000YDSD78";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(350,38,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

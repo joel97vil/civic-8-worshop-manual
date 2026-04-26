@@ -1,1 +1,1 @@
-function ISMG6E00J46643432301FESD01(){var i=0;this.Title="Comprobación del interruptor de la alarma de seguridad del capó";this.Name="SMG6E00J46643432301FESD01";this.Width=475;this.Height=417;this.CallOut=new Array;}
+function ISMG6E00J46643432301FESD01(){var i=0;this.Title="ComprobaciÃ³n del interruptor de la alarma de seguridad del capÃ³";this.Name="SMG6E00J46643432301FESD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

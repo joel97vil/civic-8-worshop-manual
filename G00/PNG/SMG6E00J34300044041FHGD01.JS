@@ -1,1 +1,1 @@
-function ISMG6E00J34300044041FHGD01(){var i=0;this.Title="Auﬂenspiegelschalter pr¸fen/austauschen";this.Name="SMG6E00J34300044041FHGD01";this.Width=475;this.Height=417;this.CallOut=new Array;}
+function ISMG6E00J34300044041FHGD01(){var i=0;this.Title="Au√üenspiegelschalter pr√ºfen/austauschen";this.Name="SMG6E00J34300044041FHGD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

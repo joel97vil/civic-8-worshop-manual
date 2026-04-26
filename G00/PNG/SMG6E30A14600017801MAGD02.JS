@@ -1,1 +1,1 @@
-function ISMG6E30A14600017801MAGD02(){var i=0;this.Title="Zylinderkopf auf Verzug prüfen";this.Name="SMG6E30A14600017801MAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A14600017801MAGD02(){var i=0;this.Title="Zylinderkopf auf Verzug prÃ¼fen";this.Name="SMG6E30A14600017801MAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E50B20200000000MBSD09(){var i=0;this.Title=" Comprobación del ángulo de giro";this.Name="SMG6E50B20200000000MBSD09";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50B20200000000MBSD09(){var i=0;this.Title=" ComprobaciÃ³n del Ã¡ngulo de giro";this.Name="SMG6E50B20200000000MBSD09";this.Width=475;this.Height=320;this.CallOut=new Array;}

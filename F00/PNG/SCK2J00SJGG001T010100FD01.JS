@@ -1,1 +1,1 @@
-function ISCK2J00SJGG001T010100FD01(){var i=0;this.Title=" Outillage spécial nécessaire";this.Name="SCK2J00SJGG001T010100FD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISCK2J00SJGG001T010100FD01(){var i=0;this.Title=" Outillage spÃ©cial nÃ©cessaire";this.Name="SCK2J00SJGG001T010100FD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

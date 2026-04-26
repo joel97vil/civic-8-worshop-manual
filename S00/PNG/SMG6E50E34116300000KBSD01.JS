@@ -1,1 +1,1 @@
-function ISMG6E50E34116300000KBSD01(){var i=0;this.Title=" Desmontaje del plato de presión y del disco de embrague";this.Name="SMG6E50E34116300000KBSD01";this.Width=475;this.Height=465;this.CallOut=new Array;}
+function ISMG6E50E34116300000KBSD01(){var i=0;this.Title=" Desmontaje del plato de presiÃ³n y del disco de embrague";this.Name="SMG6E50E34116300000KBSD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E50A20326428001MASD01(){var i=0;this.Title="Inspección de las tuberías de combustible";this.Name="SMG6E50A20326428001MASD01";this.Width=950;this.Height=639;this.CallOut=new Array;}
+function ISMG6E50A20326428001MASD01(){var i=0;this.Title="InspecciÃ³n de las tuberÃ­as de combustible";this.Name="SMG6E50A20326428001MASD01";this.Width=950;this.Height=639;this.CallOut=new Array;}

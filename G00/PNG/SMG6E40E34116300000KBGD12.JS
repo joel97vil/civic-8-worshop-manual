@@ -1,1 +1,1 @@
-function ISMG6E40E34116300000KBGD12(){var i=0;this.Title=" Inspektion der Kurbelwellenführungsbuchse";this.Name="SMG6E40E34116300000KBGD12";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E40E34116300000KBGD12(){var i=0;this.Title=" Inspektion der KurbelwellenfÃ¼hrungsbuchse";this.Name="SMG6E40E34116300000KBGD12";this.Width=475;this.Height=320;this.CallOut=new Array;}

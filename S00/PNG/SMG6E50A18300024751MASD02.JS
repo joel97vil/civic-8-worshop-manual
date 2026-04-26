@@ -1,1 +1,1 @@
-function ISMG6E50A18300024751MASD02(){var i=0;this.Title="Inspección del bloque de cilindros y de los pistones";this.Name="SMG6E50A18300024751MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50A18300024751MASD02(){var i=0;this.Title="InspecciÃ³n del bloque de cilindros y de los pistones";this.Name="SMG6E50A18300024751MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

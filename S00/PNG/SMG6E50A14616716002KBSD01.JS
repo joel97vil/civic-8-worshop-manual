@@ -1,1 +1,1 @@
-function ISMG6E50A14616716002KBSD01(){var i=0;this.Title="Sustitución del piñón del árbol de levas (Admisión)";this.Name="SMG6E50A14616716002KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50A14616716002KBSD01(){var i=0;this.Title="SustituciÃ³n del piÃ±Ã³n del Ã¡rbol de levas (AdmisiÃ³n)";this.Name="SMG6E50A14616716002KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

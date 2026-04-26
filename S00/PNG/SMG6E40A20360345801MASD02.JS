@@ -1,1 +1,1 @@
-function ISMG6E40A20360345801MASD02(){var i=0;this.Title="InspecciÛn de la v·lvula PCV";this.Name="SMG6E40A20360345801MASD02";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(361,25,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E40A20360345801MASD02(){var i=0;this.Title="Inspecci√≥n de la v√°lvula PCV";this.Name="SMG6E40A20360345801MASD02";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(361,25,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

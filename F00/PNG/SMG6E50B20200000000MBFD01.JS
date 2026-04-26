@@ -1,1 +1,1 @@
-function ISMG6E50B20200000000MBFD01(){var i=0;this.Title=" Contrôles préalables à l'alignement";this.Name="SMG6E50B20200000000MBFD01";this.Width=475;this.Height=365;this.CallOut=new Array;}
+function ISMG6E50B20200000000MBFD01(){var i=0;this.Title=" ContrÃ´les prÃ©alables Ã  l'alignement";this.Name="SMG6E50B20200000000MBFD01";this.Width=475;this.Height=365;this.CallOut=new Array;}

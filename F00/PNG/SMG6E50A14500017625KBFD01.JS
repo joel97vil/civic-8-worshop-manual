@@ -1,1 +1,1 @@
-function ISMG6E50A14500017625KBFD01(){var i=0;this.Title="Remplacement du commutateur combiné de régulation de vitesse ";this.Name="SMG6E50A14500017625KBFD01";this.Width=475;this.Height=401;this.CallOut=new Array;}
+function ISMG6E50A14500017625KBFD01(){var i=0;this.Title="Remplacement du commutateur combinÃ© de rÃ©gulation de vitesse ";this.Name="SMG6E50A14500017625KBFD01";this.Width=475;this.Height=401;this.CallOut=new Array;}

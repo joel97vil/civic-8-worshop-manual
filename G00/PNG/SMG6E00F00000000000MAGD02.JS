@@ -1,1 +1,1 @@
-function ISMG6E00F00000000000MAGD02(){var i=0;this.Title="Servounterstützung Prüfung";this.Name="SMG6E00F00000000000MAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00F00000000000MAGD02(){var i=0;this.Title="ServounterstÃ¼tzung PrÃ¼fung";this.Name="SMG6E00F00000000000MAGD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

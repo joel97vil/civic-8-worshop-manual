@@ -1,1 +1,1 @@
-function ISMG6E000000000K0061BASD18(){var i=0;this.Title=" Manipulación de conectores";this.Name="SMG6E000000000K0061BASD18";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(325,170,13,0,"'Arial','sans-serif'",0,"<b>ABAJO</b>");}
+function ISMG6E000000000K0061BASD18(){var i=0;this.Title=" ManipulaciÃ³n de conectores";this.Name="SMG6E000000000K0061BASD18";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(325,170,13,0,"'Arial','sans-serif'",0,"<b>ABAJO</b>");}

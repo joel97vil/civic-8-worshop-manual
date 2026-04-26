@@ -1,1 +1,1 @@
-function ISMG6E00B54100000000MASD01(){var i=0;this.Title="Inspección de la excentricidad de las ruedas";this.Name="SMG6E00B54100000000MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00B54100000000MASD01(){var i=0;this.Title="InspecciÃ³n de la excentricidad de las ruedas";this.Name="SMG6E00B54100000000MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

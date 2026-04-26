@@ -1,1 +1,1 @@
-function ISMG6E30A18360200000KCSD03(){var i=0;this.Title=" Si ya está montado el cigüeñal";this.Name="SMG6E30A18360200000KCSD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(329,64,13,0,"'Arial','sans-serif'",0,"<b>90 &deg;</b>");}
+function ISMG6E30A18360200000KCSD03(){var i=0;this.Title=" Si ya estÃ¡ montado el cigÃ¼eÃ±al";this.Name="SMG6E30A18360200000KCSD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(329,64,13,0,"'Arial','sans-serif'",0,"<b>90 &deg;</b>");}

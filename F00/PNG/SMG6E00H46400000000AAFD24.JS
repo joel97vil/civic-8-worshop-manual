@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000AAFD24(){var i=0;this.Title=" Airbag Latéral";this.Name="SMG6E00H46400000000AAFD24";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(151,339,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00H46400000000AAFD24(){var i=0;this.Title=" Airbag LatÃ©ral";this.Name="SMG6E00H46400000000AAFD24";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(151,339,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

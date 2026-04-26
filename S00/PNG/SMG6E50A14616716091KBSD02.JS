@@ -1,1 +1,1 @@
-function ISMG6E50A14616716091KBSD02(){var i=0;this.Title="Sustitución del plato de impulsos del CMP";this.Name="SMG6E50A14616716091KBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E50A14616716091KBSD02(){var i=0;this.Title="SustituciÃ³n del plato de impulsos del CMP";this.Name="SMG6E50A14616716091KBSD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E00R31100000000YDFD54(){var i=0;this.Title=" Modèle toit vitré ";this.Name="SMG6E00R31100000000YDFD54";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(388,271,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00R31100000000YDFD54(){var i=0;this.Title=" ModÃ¨le toit vitrÃ© ";this.Name="SMG6E00R31100000000YDFD54";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(388,271,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

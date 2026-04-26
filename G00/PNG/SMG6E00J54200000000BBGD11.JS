@@ -1,1 +1,1 @@
-function ISMG6E00J54200000000BBGD11(){var i=0;this.Title=" Prüfungen und Reparaturen";this.Name="SMG6E00J54200000000BBGD11";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00J54200000000BBGD11(){var i=0;this.Title=" PrÃ¼fungen und Reparaturen";this.Name="SMG6E00J54200000000BBGD11";this.Width=475;this.Height=320;this.CallOut=new Array;}

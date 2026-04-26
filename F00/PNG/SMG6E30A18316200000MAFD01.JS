@@ -1,1 +1,1 @@
-function ISMG6E30A18316200000MAFD01(){var i=0;this.Title="Inspection du jeu longitudinal du vilebrequin et latéral des bielles";this.Name="SMG6E30A18316200000MAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A18316200000MAFD01(){var i=0;this.Title="Inspection du jeu longitudinal du vilebrequin et latÃ©ral des bielles";this.Name="SMG6E30A18316200000MAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

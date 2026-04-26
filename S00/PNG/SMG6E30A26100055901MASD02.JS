@@ -1,1 +1,1 @@
-function ISMG6E30A26100055901MASD02(){var i=0;this.Title="Inspección de las bujías";this.Name="SMG6E30A26100055901MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(352,28,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E30A26100055901MASD02(){var i=0;this.Title="InspecciÃ³n de las bujÃ­as";this.Name="SMG6E30A26100055901MASD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(352,28,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

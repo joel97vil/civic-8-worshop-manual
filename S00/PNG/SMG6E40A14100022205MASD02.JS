@@ -1,1 +1,1 @@
-function ISMG6E40A14100022205MASD02(){var i=0;this.Title="InspecciÛn del tensor autom·tico de la correa de accionamiento";this.Name="SMG6E40A14100022205MASD02";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E40A14100022205MASD02(){var i=0;this.Title="Inspecci√≥n del tensor autom√°tico de la correa de accionamiento";this.Name="SMG6E40A14100022205MASD02";this.Width=475;this.Height=336;this.CallOut=new Array;}

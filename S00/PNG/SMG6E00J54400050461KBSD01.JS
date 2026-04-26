@@ -1,1 +1,1 @@
-function ISMG6E00J54400050461KBSD01(){var i=0;this.Title="Sustitución de la ventanilla trasera";this.Name="SMG6E00J54400050461KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(137,63,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J54400050461KBSD01(){var i=0;this.Title="SustituciÃ³n de la ventanilla trasera";this.Name="SMG6E00J54400050461KBSD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(137,63,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

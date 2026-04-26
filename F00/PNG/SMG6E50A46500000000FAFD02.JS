@@ -1,1 +1,1 @@
-function ISMG6E50A46500000000FAFD02(){var i=0;this.Title="Dépistage des pannes de circuit du démarreur";this.Name="SMG6E50A46500000000FAFD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(202,17,13,0,"'Arial','sans-serif'",0,"<b>S</b>");}
+function ISMG6E50A46500000000FAFD02(){var i=0;this.Title="DÃ©pistage des pannes de circuit du dÃ©marreur";this.Name="SMG6E50A46500000000FAFD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(202,17,13,0,"'Arial','sans-serif'",0,"<b>S</b>");}

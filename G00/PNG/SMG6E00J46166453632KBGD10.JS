@@ -1,1 +1,1 @@
-function ISMG6E00J46166453632KBGD10(){var i=0;this.Title="Rücksitzbezug austauschen";this.Name="SMG6E00J46166453632KBGD10";this.Width=475;this.Height=346;this.CallOut=new Array;this.CallOut[i++]=FS4(292,301,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J46166453632KBGD10(){var i=0;this.Title="RÃ¼cksitzbezug austauschen";this.Name="SMG6E00J46166453632KBGD10";this.Width=475;this.Height=346;this.CallOut=new Array;this.CallOut[i++]=FS4(292,301,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

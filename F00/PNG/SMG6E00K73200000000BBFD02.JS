@@ -1,1 +1,1 @@
-function ISMG6E00K73200000000BBFD02(){var i=0;this.Title=" Contrôle des segments LCD";this.Name="SMG6E00K73200000000BBFD02";this.Width=950;this.Height=159;this.CallOut=new Array;}
+function ISMG6E00K73200000000BBFD02(){var i=0;this.Title=" ContrÃ´le des segments LCD";this.Name="SMG6E00K73200000000BBFD02";this.Width=950;this.Height=159;this.CallOut=new Array;}

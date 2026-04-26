@@ -1,1 +1,1 @@
-function ISMG6E00G10110112011FEGD03(){var i=0;this.Title="Klimaanlagen-Kompressorkupplung überprüfen";this.Name="SMG6E00G10110112011FEGD03";this.Width=475;this.Height=417;this.CallOut=new Array;}
+function ISMG6E00G10110112011FEGD03(){var i=0;this.Title="Klimaanlagen-Kompressorkupplung Ã¼berprÃ¼fen";this.Name="SMG6E00G10110112011FEGD03";this.Width=475;this.Height=417;this.CallOut=new Array;}

@@ -1,1 +1,1 @@
-function ISMG6E40A18316600000KCSD07(){var i=0;this.Title="Montaje del retén de aceite del cigüeñal (Lado de la caja de cambios)";this.Name="SMG6E40A18316600000KCSD07";this.Width=475;this.Height=449;this.CallOut=new Array;}
+function ISMG6E40A18316600000KCSD07(){var i=0;this.Title="Montaje del retÃ©n de aceite del cigÃ¼eÃ±al (Lado de la caja de cambios)";this.Name="SMG6E40A18316600000KCSD07";this.Width=475;this.Height=449;this.CallOut=new Array;}

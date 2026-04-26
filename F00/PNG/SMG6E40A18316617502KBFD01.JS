@@ -1,1 +1,1 @@
-function ISMG6E40A18316617502KBFD01(){var i=0;this.Title=" Contrôle du jeu des paliers principaux";this.Name="SMG6E40A18316617502KBFD01";this.Width=475;this.Height=369;this.CallOut=new Array;}
+function ISMG6E40A18316617502KBFD01(){var i=0;this.Title=" ContrÃ´le du jeu des paliers principaux";this.Name="SMG6E40A18316617502KBFD01";this.Width=475;this.Height=369;this.CallOut=new Array;}

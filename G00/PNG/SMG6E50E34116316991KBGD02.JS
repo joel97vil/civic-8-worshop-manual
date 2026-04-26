@@ -1,1 +1,1 @@
-function ISMG6E50E34116316991KBGD02(){var i=0;this.Title="Kupplungsd‰mpfer Austausch";this.Name="SMG6E50E34116316991KBGD02";this.Width=475;this.Height=385;this.CallOut=new Array;}
+function ISMG6E50E34116316991KBGD02(){var i=0;this.Title="Kupplungsd√§mpfer Austausch";this.Name="SMG6E50E34116316991KBGD02";this.Width=475;this.Height=385;this.CallOut=new Array;}

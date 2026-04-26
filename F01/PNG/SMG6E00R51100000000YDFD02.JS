@@ -1,1 +1,1 @@
-function ISMG6E00R51100000000YDFD02(){var i=0;this.Title="Coupe transversale de la caisse et des joints d'étanchéité - Précautions générales";this.Name="SMG6E00R51100000000YDFD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00R51100000000YDFD02(){var i=0;this.Title="Coupe transversale de la caisse et des joints d'Ã©tanchÃ©itÃ© - PrÃ©cautions gÃ©nÃ©rales";this.Name="SMG6E00R51100000000YDFD02";this.Width=475;this.Height=320;this.CallOut=new Array;}

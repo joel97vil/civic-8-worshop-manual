@@ -1,1 +1,1 @@
-function ISMG6E3AE16226600000LCFD09(){var i=0;this.Title=" Côté joint homocinétique extérieur";this.Name="SMG6E3AE16226600000LCFD09";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(76,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E3AE16226600000LCFD09(){var i=0;this.Title=" CÃ´tÃ© joint homocinÃ©tique extÃ©rieur";this.Name="SMG6E3AE16226600000LCFD09";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(76,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

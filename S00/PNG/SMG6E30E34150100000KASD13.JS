@@ -1,1 +1,1 @@
-function ISMG6E30E34150100000KASD13(){var i=0;this.Title="Extracción del conjunto de la M/T";this.Name="SMG6E30E34150100000KASD13";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(387,152,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E30E34150100000KASD13(){var i=0;this.Title="ExtracciÃ³n del conjunto de la M/T";this.Name="SMG6E30E34150100000KASD13";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(387,152,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

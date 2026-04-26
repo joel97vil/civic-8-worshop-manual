@@ -1,1 +1,1 @@
-function ISMG6E40E16236500000LCFD03(){var i=0;this.Title=" Boîte manuelle SPHM";this.Name="SMG6E40E16236500000LCFD03";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E40E16236500000LCFD03(){var i=0;this.Title=" BoÃ®te manuelle SPHM";this.Name="SMG6E40E16236500000LCFD03";this.Width=475;this.Height=320;this.CallOut=new Array;}

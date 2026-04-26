@@ -1,1 +1,1 @@
-function ISMG6E3AD14300014701MASD04(){var i=0;this.Title=" ComprobaciÛn de la v·lvula antirretorno del servofreno";this.Name="SMG6E3AD14300014701MASD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(307,20,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E3AD14300014701MASD04(){var i=0;this.Title=" Comprobaci√≥n de la v√°lvula antirretorno del servofreno";this.Name="SMG6E3AD14300014701MASD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(307,20,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

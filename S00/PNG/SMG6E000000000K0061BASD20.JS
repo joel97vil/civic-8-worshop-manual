@@ -1,1 +1,1 @@
-function ISMG6E000000000K0061BASD20(){var i=0;this.Title=" Manipulación de cables y mazos de cables";this.Name="SMG6E000000000K0061BASD20";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(320,253,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E000000000K0061BASD20(){var i=0;this.Title=" ManipulaciÃ³n de cables y mazos de cables";this.Name="SMG6E000000000K0061BASD20";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(320,253,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

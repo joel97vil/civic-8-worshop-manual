@@ -1,1 +1,1 @@
-function ISMG6E40A20326900000CASD08(){var i=0;this.Title=" Sensor del nivel de aceite del motor";this.Name="SMG6E40A20326900000CASD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(336,128,13,0,"'Arial','sans-serif'",0,"<b>JUNTA TÓRICA</b>");}
+function ISMG6E40A20326900000CASD08(){var i=0;this.Title=" Sensor del nivel de aceite del motor";this.Name="SMG6E40A20326900000CASD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(336,128,13,0,"'Arial','sans-serif'",0,"<b>JUNTA TÃ“RICA</b>");}

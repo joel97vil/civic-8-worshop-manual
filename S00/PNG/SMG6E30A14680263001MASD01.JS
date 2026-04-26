@@ -1,1 +1,1 @@
-function ISMG6E30A14680263001MASD01(){var i=0;this.Title="ComprobaciÛn de la holgura entre la guÌa y el v·stago de las v·lvulas de la culata";this.Name="SMG6E30A14680263001MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30A14680263001MASD01(){var i=0;this.Title="Comprobaci√≥n de la holgura entre la gu√≠a y el v√°stago de las v√°lvulas de la culata";this.Name="SMG6E30A14680263001MASD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

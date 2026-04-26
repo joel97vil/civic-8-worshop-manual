@@ -1,1 +1,1 @@
-function ISMG6E00H46400000000AAFD01(){var i=0;this.Title=" Précautions générales";this.Name="SMG6E00H46400000000AAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E00H46400000000AAFD01(){var i=0;this.Title=" PrÃ©cautions gÃ©nÃ©rales";this.Name="SMG6E00H46400000000AAFD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

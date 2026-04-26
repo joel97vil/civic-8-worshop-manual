@@ -1,1 +1,1 @@
-function ISMG6E00J54200000000BBGD08(){var i=0;this.Title=" Umgang mit Kabeln und Kabelb‰umen";this.Name="SMG6E00J54200000000BBGD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(177,152,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}
+function ISMG6E00J54200000000BBGD08(){var i=0;this.Title=" Umgang mit Kabeln und Kabelb√§umen";this.Name="SMG6E00J54200000000BBGD08";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(177,152,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

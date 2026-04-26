@@ -1,1 +1,1 @@
-function ISMG6E30E34150100000KASD15(){var i=0;this.Title="Extracción del conjunto de la M/T";this.Name="SMG6E30E34150100000KASD15";this.Width=475;this.Height=336;this.CallOut=new Array;}
+function ISMG6E30E34150100000KASD15(){var i=0;this.Title="ExtracciÃ³n del conjunto de la M/T";this.Name="SMG6E30E34150100000KASD15";this.Width=475;this.Height=336;this.CallOut=new Array;}

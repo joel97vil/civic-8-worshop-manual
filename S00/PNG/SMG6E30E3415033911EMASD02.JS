@@ -1,1 +1,1 @@
-function ISMG6E30E3415033911EMASD02(){var i=0;this.Title="ComprobaciÛn de la holgura de la horquilla de selecciÛn de la marcha atr·s de la M/T";this.Name="SMG6E30E3415033911EMASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
+function ISMG6E30E3415033911EMASD02(){var i=0;this.Title="Comprobaci√≥n de la holgura de la horquilla de selecci√≥n de la marcha atr√°s de la M/T";this.Name="SMG6E30E3415033911EMASD02";this.Width=475;this.Height=320;this.CallOut=new Array;}
