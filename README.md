@@ -23,13 +23,13 @@ Once you have all requisites, execute "manual.lnk" file on the root folder.
 [ ] Safari, others
 
 ## Features
-[X] All original content
-[X] Multi-language
-    [X] Spanish (default)
-    [X] English
-    [X] French
-    [X] Dutch
-    [X] German
-[X] Improved image viewer as pop-up, no more new window opening
-[X] Fixed charset, no more wrong characters displaying
-[ ] Responsive
+- [X] All original content
+- [X] Multi-language
+    - [X] Spanish (default)
+    - [X] English
+    - [X] French
+    - [X] Dutch
+    - [X] German
+- [X] Improved image viewer as pop-up, no more new window opening
+- [X] Fixed charset, no more wrong characters displaying
+- [ ] Responsive
