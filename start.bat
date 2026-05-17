@@ -18,20 +18,33 @@ if %errorlevel% equ 0 (
     if %errorlevel% equ 0 (
         winget install Python.Python.3 --silent --accept-source-agreements --accept-package-agreements
         if %errorlevel% neq 0 (
-            echo ERROR: No se ha podido instalar automáticamente.
-            goto :manual_install
+            echo winget fallo. Intentando descarga directa...
+            goto :download_python
         )
-        echo Python instalado correctamente. Vuelveme a ejecutar para continuar.
-        pause
-        exit /b 0
     ) else (
-        :manual_install
-        echo ERROR: No se ha podido instalar automáticamente.
-        echo Descargalo en: https://www.python.org/downloads/
-        echo Revisa "Add Python to PATH" durante la instalación.
+        :download_python
+        echo Descargando instalador de Python via PowerShell...
+        powershell -Command "& { $url='https://www.python.org/ftp/python/3.12.9/python-3.12.9-amd64.exe'; $out='%TEMP%\python_installer.exe'; Invoke-WebRequest -Uri $url -OutFile $out; Start-Process $out -ArgumentList '/quiet InstallAllUsers=1 PrependPath=1' -Wait }"
+        if %errorlevel% neq 0 (
+            echo ERROR: No se ha podido instalar automáticamente.
+            echo Descargalo en: https://www.python.org/downloads/
+            echo Revisa "Add Python to PATH" durante la instalacion.
+            pause
+            exit /b 1
+        )
+    )
+    echo Python instalado. Actualizando PATH...
+    for /f "tokens=*" %%a in ('powershell -Command "[System.Environment]::GetEnvironmentVariable('Path','Machine')"') do set "SYS_PATH=%%a"
+    for /f "tokens=*" %%a in ('powershell -Command "[System.Environment]::GetEnvironmentVariable('Path','User')"') do set "USR_PATH=%%a"
+    set "PATH=%SYS_PATH%;%USR_PATH%"
+    python --version >nul 2>&1
+    if %errorlevel% neq 0 (
+        echo ERROR: PATH actualizado pero python aun no responde.
+        echo Reinicia y vuelve a ejecutar.
         pause
         exit /b 1
     )
+    echo Python listo.
 )
 echo.
 
