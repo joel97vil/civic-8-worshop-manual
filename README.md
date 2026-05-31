@@ -7,7 +7,7 @@ Manual content &copy; Honda Motor Co., Ltd. All rights reserved.
 
 ## Usage
 ### Online
-Now running on www.joelfaura.com/civic-8-workshop-manual
+Now running on https://civic8manual.joelfaura.com/
 
 ### Self-hosted
 You can host the workshop manual 
@@ -33,3 +33,4 @@ Once you have all requisites, execute "manual.lnk" file on the root folder.
 - [X] Improved image viewer as pop-up, no more new window opening
 - [X] Fixed charset, no more wrong characters displaying
 - [ ] Responsive
+- [ ] Local server auto-installer / auto-updater
